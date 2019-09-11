@@ -150,7 +150,7 @@ Draw.loadPlugin(function(ui)
 
                                         //var geo = graph.getCellGeometry(graph.getSelectionCells()).clone();
                                         //geo = 10;
-                                        var geo = this.getCellGeometry(cell);
+                                        var geo = model.getCellGeometry(cell);
                                         console.log(geo);
                                         //model.setGeometry(graph.getSelectionCells(), geo);
                                         
