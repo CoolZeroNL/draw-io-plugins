@@ -151,8 +151,9 @@ Draw.loadPlugin(function(ui)
                                         //var geo = graph.getCellGeometry(graph.getSelectionCells()).clone();
                                         //geo = 10;
                                         var geo = graph.getCellGeometry(cell);
+                                        geo.x = 10;
                                         console.log(geo);
-                                        //model.setGeometry(graph.getSelectionCells(), geo);
+                                        model.setGeometry(dell, geo);
                                         
 
                                     graph.getModel().endUpdate();
@@ -186,7 +187,7 @@ Draw.loadPlugin(function(ui)
 
 			}
 		}
-	}, null, null, 'Alt+Shift+X - v0.96');
+	}, null, null, 'Alt+Shift+X - v0.97');
 
 
 }); // end of loadplugin
