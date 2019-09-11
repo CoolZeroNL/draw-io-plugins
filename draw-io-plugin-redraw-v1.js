@@ -184,7 +184,7 @@ Draw.loadPlugin(function(ui)
 
 			}
 		}
-	}, null, null, 'Alt+Shift+X - v0.95');
+	}, null, null, 'Alt+Shift+X - v0.96');
 
 
 }); // end of loadplugin
