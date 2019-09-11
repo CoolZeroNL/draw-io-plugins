@@ -144,8 +144,17 @@ Draw.loadPlugin(function(ui)
                                        // graph.moveCells(tmp[i].cell, 1000, 1000, false);
                                         //var s = graph.gridSize;
                                         //graph.setSelectionCells(graph.moveCells([state.cell], s, s, true));
-                                        graph.moveCells(graph.getSelectionCells(), 100, 100);
+                                        
+                                        // working
+                                        //graph.moveCells(graph.getSelectionCells(), 100, 100);
+
+                                        var geo = graph.getCellGeometry(graph.getSelectionCells()).clone();
+                                        geo.x = 10;
+                                        model.setGeometry(cell, geo);
+                                        
+
                                     graph.getModel().endUpdate();
+                                    graph.refresh(); // update the graph
                                 }
 
                                 vorigheight = curheight;
