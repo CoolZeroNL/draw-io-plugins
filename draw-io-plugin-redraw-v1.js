@@ -153,7 +153,7 @@ Draw.loadPlugin(function(ui)
                                         var geo = graph.getCellGeometry(cell);
                                         geo.x = 10;
                                         console.log(geo);
-                                        model.setGeometry(dell, geo);
+                                        model.setGeometry(cell, geo);
                                         
 
                                     graph.getModel().endUpdate();
@@ -187,7 +187,7 @@ Draw.loadPlugin(function(ui)
 
 			}
 		}
-	}, null, null, 'Alt+Shift+X - v0.97');
+	}, null, null, 'Alt+Shift+X - v0.98');
 
 
 }); // end of loadplugin
