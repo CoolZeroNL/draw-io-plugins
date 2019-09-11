@@ -149,8 +149,10 @@ Draw.loadPlugin(function(ui)
                                         //graph.moveCells(graph.getSelectionCells(), 100, 100);
 
                                         //var geo = graph.getCellGeometry(graph.getSelectionCells()).clone();
-                                        geo = 10;
-                                        model.setGeometry(graph.getSelectionCells(), geo);
+                                        //geo = 10;
+                                        var geo = this.getCellGeometry(cell);
+                                        console.log(geo);
+                                        //model.setGeometry(graph.getSelectionCells(), geo);
                                         
 
                                     graph.getModel().endUpdate();
