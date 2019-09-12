@@ -9,7 +9,7 @@ Draw.loadPlugin(function(ui)
 		c.removeChild(c.firstChild);
 		
 	// Adds custom sidebar entry
-    ui.sidebar.addPalette('BPMNCustomizedLibrary', 'BPMN Customized', true, function(content)
+    ui.sidebar.addPalette('SecurITLibrary', 'SecurIT Customized', true, function(content)
  	{	
 		content.appendChild(ui.sidebar.createVertexTemplate('shape=ext;rounded=1;strokeColor=#007FFF', 120, 80, 'Task', 'Task', true));		
 		content.appendChild(ui.sidebar.createVertexTemplate('shape=ext;rounded=1;strokeWidth=3;strokeColor=#007FFF', 120, 80, 'Call Activity', 'Call Activity', true));
