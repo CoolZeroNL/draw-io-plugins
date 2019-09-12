@@ -85,23 +85,23 @@ Draw.loadPlugin(function(ui)
 	// mxResources.parse('propertyExists=Property exists');
 
 	// Adds action
-	ui.actions.addAction('metadata', function()
-	{
-		var cell = graph.getSelectionCell() || graph.getModel().getRoot();
+	// ui.actions.addAction('metadata', function()
+	// {
+	// 	var cell = graph.getSelectionCell() || graph.getModel().getRoot();
 		
-		if (cell != null)
-		{
-			ui.showDialog(new MetadataDialog(ui, cell).container, 260, 320, true, true);
-		}
-	});
+	// 	if (cell != null)
+	// 	{
+	// 		ui.showDialog(new MetadataDialog(ui, cell).container, 260, 320, true, true);
+	// 	}
+	// });
 
 	// Adds popup menu entry
-	var createPopupMenu = ui.menus.createPopupMenu;
-	ui.menus.createPopupMenu = function(menu, cell, evt)
-	{
-		createPopupMenu.apply(this, arguments);
-		this.addMenuItems(menu, ['-', 'metadata']);
-	};
+	// var createPopupMenu = ui.menus.createPopupMenu;
+	// ui.menus.createPopupMenu = function(menu, cell, evt)
+	// {
+	// 	createPopupMenu.apply(this, arguments);
+	// 	this.addMenuItems(menu, ['-', 'metadata']);
+	// };
 
 	/**
 	 * Constructs a new export dialog.
@@ -196,6 +196,6 @@ Draw.loadPlugin(function(ui)
 	};	
 
 	// Adds logo to footer
-	ui.footerContainer.innerHTML = '<div style="text-align:right">Customize<img align="right" width="5%" height="5%" style="margin-top:14px;margin-right:6px;" ' + 'src="http://www.sysnovare.pt/portal/wp-content/uploads/2013/01/favicon.png"/></div>';
+	ui.footerContainer.innerHTML = '<div style="text-align:right">Customize<img align="right" width="5%" height="5%" style="margin-top:14px;margin-right:6px;" ' + 'src="http://www.sysnovare.pt/portal/wp-content/themes/avatar-wp/images/404.png"/></div>';
 	
 });
