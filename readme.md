@@ -8,6 +8,8 @@ https://ovsoinc.github.io/yacdn.org/
 ## url:
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v1.js?maxAge=10
 
+
+## SecurIT Huisstijl
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-securit-huisstyle.js?maxAge=10
 
 ## Templaing sample:
