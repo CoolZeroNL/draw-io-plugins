@@ -3,6 +3,9 @@
  */
 Draw.loadPlugin(function(ui)
 {	
+
+    console.log('v0.1');
+
 	// ELEMENTOS GRÁFICOS
 	var c = ui.sidebar.container;
 	while (c.firstChild != null)
