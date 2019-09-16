@@ -28,12 +28,18 @@ Draw.loadPlugin(function(ui)
         console.log(cells);
         console.log(cells.length);
 
-        for (var i = 0; i < cells.length; i++)
-        {
-            console.log(cells[i]);
-        }
+        Object.keys(cells).forEach(function(key) {
 
-    }, null, null, 'Alt+Shift+X - v0.5');
+            console.log(key, cells[key]);
+          
+        });
+
+        // for (var i = 0; i < cells.length; i++)
+        // {
+        //     console.log(cells[i]);
+        // }
+
+    }, null, null, 'Alt+Shift+X - v0.6');
 
     
 }); // end of loadplugin
