@@ -28,7 +28,9 @@ Draw.loadPlugin(function(ui)
         if (graph.isEnabled() && graph.getSelectionCount() == 1)
         {
             var selectedcell = graph.getSelectionCell();
-            //vat selectedcellsize = selectedcell.
+            var selectedcellsize = selectedcell.geometry;
+            console.log('selected Cell: ');
+            console.log(selectedcellsize);
         }
 
 
@@ -62,7 +64,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.9');
+    }, null, null, 'Alt+Shift+X - v0.91');
 
     
 }); // end of loadplugin
