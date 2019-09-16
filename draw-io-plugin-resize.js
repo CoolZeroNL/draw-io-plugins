@@ -86,8 +86,8 @@ Draw.loadPlugin(function(ui)
     
                     // updating cell.
                       // move cell
-                      geocurrentcell.height = defaultheight;
-                      geocurrentcell.width = defaultwidth;
+                      geocurrentcell.height = 100;
+                      geocurrentcell.width = 50;
                         model.setGeometry(cells[key], geocurrentcell);
                               
                      graph.getModel().endUpdate();
@@ -102,7 +102,7 @@ Draw.loadPlugin(function(ui)
 
 
 
-    }, null, null, 'Alt+Shift+X - v0.99');
+    }, null, null, 'Alt+Shift+X - v0.991');
 
     
 }); // end of loadplugin
