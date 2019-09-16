@@ -30,10 +30,14 @@ Draw.loadPlugin(function(ui)
 
         if (graph.isEnabled() && graph.getSelectionCount() == 1)
         {
-            var selectedcell = graph.getSelectionCell();
-            defaultheight = selectedcell.geometry.height;
-            defaultwidth = selectedcell.geometry.width;
-            defaultstyle = selectedcell.style;
+            //var selectedcell = graph.getSelectionCell();
+           // defaultheight = selectedcell.geometry.height;
+           // defaultwidth = selectedcell.geometry.width;
+           // defaultstyle = selectedcell.style;
+
+            var selectedcell = graph.getCellGeometry(selectedcell);    
+            var defaultwidth = selectedcell.width;
+            var defaultheight = selectedcell.height;
 
             console.log(defaultheight);
             console.log(defaultwidth);
@@ -50,6 +54,7 @@ Draw.loadPlugin(function(ui)
             //console.log(key);
             console.log(cells[key]);
            // console.log(cells[key].style);
+           cellstyle = cells[key].style;
 
                 // NO...
                  // shape=process;
@@ -59,8 +64,21 @@ Draw.loadPlugin(function(ui)
                  // edgeStyle=orthogonalEdgeStyle;
                  // shape=mxgraph.bpmn.shape;
 
-                // YES.... ( get style of selected ???)
+                // YES.... ( get style of selected ???) == var defaultstyle !
                  // rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;
+
+
+                graph.getModel().beginUpdate();
+
+                // updating cell.
+                  // move cell
+                  selectedcell.height = 100;
+                  selectedcell.width = 50;
+                    model.setGeometry(cells[key], selectedcell);
+          
+
+                
+                 graph.getModel().endUpdate();
           
         });
 
@@ -69,7 +87,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.92');
+    }, null, null, 'Alt+Shift+X - v0.93');
 
     
 }); // end of loadplugin
