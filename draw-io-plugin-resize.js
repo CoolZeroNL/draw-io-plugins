@@ -24,16 +24,21 @@ Draw.loadPlugin(function(ui)
     ui.actions.addAction('resize', function()
     {
         console.log("loaded...");
-        
+
+        var defaultheight = 0;
+        var defaultwidth = 0;
+
         if (graph.isEnabled() && graph.getSelectionCount() == 1)
         {
             var selectedcell = graph.getSelectionCell();
-            var selectedcellsize = selectedcell.geometry;
-            console.log('selected Cell: ');
-            console.log(selectedcellsize);
+            defaultheight = selectedcell.geometry.height;
+            defaultwidth = selectedcell.geometry.width;
+            defaultstyle = selectedcell.style;
+
+            console.log(defaultheight);
+            console.log(defaultwidth);
+            console.log(defaultstyle);
         }
-
-
 
         var cells = graph.getModel().cells;
         //console.log(cells);
@@ -44,7 +49,7 @@ Draw.loadPlugin(function(ui)
             //console.log(key, cells[key]);
             //console.log(key);
             console.log(cells[key]);
-            console.log(cells[key].style);
+           // console.log(cells[key].style);
 
                 // NO...
                  // shape=process;
@@ -64,7 +69,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.91');
+    }, null, null, 'Alt+Shift+X - v0.92');
 
     
 }); // end of loadplugin
