@@ -27,32 +27,36 @@ To fix this u need to use a CORS proxy server.
 https://ovsoinc.github.io/yacdn.org/
 
 ## 2.3. Install Plugin Within Draw-io
+To add a new plugin, do the next steps:
+
+Go to `Extras` -> `Plugins`
+
 <p align="center">
-  <img width="25%" src="./readme.images/01-plugins.png">
+  <img width="50%" src="./readme.images/01-plugins.png">
 </p>
 
 <p align="center">
-  <img width="25%" src="./readme.images/02-plugins-list.png">
+  <img width="50%" src="./readme.images/02-plugins-list.png">
 </p>
 
 <p align="center">
-  <img width="25%" src="./readme.images/03-plugin-add-url.png">
+  <img width="50%" src="./readme.images/03-plugin-add-url.png">
 </p>
 
 <p align="center">
-  <img width="25%" src="./readme.images/04-plugins-added.png">
+  <img width="50%" src="./readme.images/04-plugins-added.png">
 </p>
 
 <p align="center">
-  <img width="25%" src="./readme.images/05-plugins-added-applyed.png">
+  <img width="50%" src="./readme.images/05-plugins-added-applyed.png">
 </p>
 
 <p align="center">
-  <img width="25%" src="./readme.images/06-plugin-warning.png">
+  <img width="50%" src="./readme.images/06-plugin-warning.png">
 </p>
 
 <p align="center">
-  <img width="25%" src="./readme.images/07-menu-harwig.png">
+  <img width="50%" src="./readme.images/07-menu-harwig.png">
 </p>
 
 # 3. Plugins:
