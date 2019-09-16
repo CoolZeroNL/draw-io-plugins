@@ -24,6 +24,15 @@ Draw.loadPlugin(function(ui)
     ui.actions.addAction('resize', function()
     {
         console.log("loaded...");
+        
+        if (graph.isEnabled() && graph.getSelectionCount() == 1)
+        {
+            var selectedcell = graph.getSelectionCell();
+            //vat selectedcellsize = selectedcell.
+        }
+
+
+
         var cells = graph.getModel().cells;
         //console.log(cells);
         //console.log(cells.length);
@@ -32,8 +41,19 @@ Draw.loadPlugin(function(ui)
 
             //console.log(key, cells[key]);
             //console.log(key);
-            //console.log(cells[key]);
+            console.log(cells[key]);
             console.log(cells[key].style);
+
+                // NO...
+                 // shape=process;
+                 // shape=mxgraph.flowchart.decision;
+                 // ellipse;
+                 // swimlane;
+                 // edgeStyle=orthogonalEdgeStyle;
+                 // shape=mxgraph.bpmn.shape;
+
+                // YES.... ( get style of selected ???)
+                 // rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;
           
         });
 
@@ -42,7 +62,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.8');
+    }, null, null, 'Alt+Shift+X - v0.9');
 
     
 }); // end of loadplugin
