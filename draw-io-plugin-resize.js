@@ -30,14 +30,15 @@ Draw.loadPlugin(function(ui)
 
         if (graph.isEnabled() && graph.getSelectionCount() == 1)
         {
-            //var selectedcell = graph.getSelectionCell();
+            var selectedcell = graph.getSelectionCell();
            // defaultheight = selectedcell.geometry.height;
            // defaultwidth = selectedcell.geometry.width;
            // defaultstyle = selectedcell.style;
 
-            var selectedcell = graph.getCellGeometry(selectedcell);    
-            var defaultwidth = selectedcell.width;
-            var defaultheight = selectedcell.height;
+            var geoselectedcell = graph.getCellGeometry(selectedcell);    
+            //console.log();
+            var defaultwidth = geoselectedcell.width;
+            var defaultheight = geoselectedcell.height;
 
             console.log(defaultheight);
             console.log(defaultwidth);
@@ -72,9 +73,9 @@ Draw.loadPlugin(function(ui)
 
                 // updating cell.
                   // move cell
-                  selectedcell.height = 100;
-                  selectedcell.width = 50;
-                    model.setGeometry(cells[key], selectedcell);
+                  geoselectedcell.height = 100;
+                  geoselectedcell.width = 50;
+                    model.setGeometry(cells[key], geoselectedcell);
           
 
                 
@@ -87,7 +88,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.93');
+    }, null, null, 'Alt+Shift+X - v0.94');
 
     
 }); // end of loadplugin
