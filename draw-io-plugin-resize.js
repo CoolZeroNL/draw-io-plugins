@@ -103,7 +103,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.97');
+    }, null, null, 'Alt+Shift+X - v0.98');
 
     
 }); // end of loadplugin
