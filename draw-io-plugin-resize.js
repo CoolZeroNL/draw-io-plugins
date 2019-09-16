@@ -90,10 +90,9 @@ Draw.loadPlugin(function(ui)
                   geocurrentcell.height = 100;
                   geocurrentcell.width = 50;
                     model.setGeometry(cells[key], geocurrentcell);
-          
-
-                
+        
                  graph.getModel().endUpdate();
+                 graph.refresh(); // update the graph
             }
           
         });
@@ -103,7 +102,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.992');
+    }, null, null, 'Alt+Shift+X - v0.993');
 
     
 }); // end of loadplugin
