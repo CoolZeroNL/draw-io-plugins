@@ -25,12 +25,14 @@ Draw.loadPlugin(function(ui)
     {
         console.log("loaded...");
         var cells = graph.getModel().cells;
-        console.log(cells);
-        console.log(cells.length);
+        //console.log(cells);
+        //console.log(cells.length);
 
         Object.keys(cells).forEach(function(key) {
 
-            console.log(key, cells[key]);
+            //console.log(key, cells[key]);
+            console.log(key);
+            console.log(cells[key]);
           
         });
 
@@ -39,7 +41,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.6');
+    }, null, null, 'Alt+Shift+X - v0.7');
 
     
 }); // end of loadplugin
