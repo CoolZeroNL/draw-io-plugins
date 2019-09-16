@@ -27,11 +27,12 @@ Draw.loadPlugin(function(ui)
         var cells = graph.getModel().cells;
         //console.log(cells);
 
-        cells.forEach(function(cell){
-            console.log(cell);
-        });
+        for (var i = 0; i < cells.length; i++)
+        {
+            console.log(cells[i]);
+        }
 
-    }, null, null, 'Alt+Shift+X - v0.2');
+    }, null, null, 'Alt+Shift+X - v0.3');
 
     
 }); // end of loadplugin
