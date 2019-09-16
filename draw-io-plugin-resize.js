@@ -54,6 +54,8 @@ Draw.loadPlugin(function(ui)
             console.log(cells[key]);
            // console.log(cells[key].style);
            cellstyle = cells[key].style;
+           
+           var geocurrentcell = graph.getCellGeometry(cells[key]);   
 
                 // NO...
                  // shape=process;
@@ -71,9 +73,9 @@ Draw.loadPlugin(function(ui)
 
                 // updating cell.
                   // move cell
-                  geoselectedcell.height = 100;
-                  geoselectedcell.width = 50;
-                    model.setGeometry(cells[key], geoselectedcell);
+                  geocurrentcell.height = 100;
+                  geocurrentcell.width = 50;
+                    model.setGeometry(cells[key], geocurrentcell);
           
 
                 
@@ -86,7 +88,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.95');
+    }, null, null, 'Alt+Shift+X - v0.96');
 
     
 }); // end of loadplugin
