@@ -10,13 +10,13 @@ Draw.loadPlugin(function(ui)
     }
 
     // Adds resource for action
-    mxResources.parse('reorder=Reorder Childs');
+    mxResources.parse('resize=Resize');
 
     
     // Adds menu
     ui.menubar.addMenu('Harwig Tools', function(menu, parent)
     {		
-        ui.menus.addMenuItems(menu, ['-', 'Resize']);
+        ui.menus.addMenuItems(menu, ['-', 'resize']);
     });
 
     
