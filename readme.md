@@ -6,6 +6,7 @@
 - [use of CORS Proxy:](#use-of-cors-proxy)
     - [Cors Proxy information:](#cors-proxy-information)
     - [Resize (height & width by selected cell)](#resize-height--width-by-selected-cell)
+        - [Sample:](#sample)
     - [Reorder Childs:](#reorder-childs)
     - [SecurIT Huisstijl](#securit-huisstijl)
 - [Templaing sample:](#templaing-sample)
@@ -23,6 +24,11 @@ https://ovsoinc.github.io/yacdn.org/
 This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Harwig Tools` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
 
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js?maxAge=10
+
+### 2.2.1. Sample:
+<p align="center">
+  <img width="75%" src="./readme.images/example-draw-io-plugin-resize.gif">
+</p>
 
 ## 2.3. Reorder Childs:
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
