@@ -57,8 +57,20 @@ Draw.loadPlugin(function(ui)
            
            var geocurrentcell = graph.getCellGeometry(cells[key]);   
 
+
+            console.log('cellstyle');
+            console.log(cellstyle);
+            console.log(typeof cellstyle=="string");
+
+            console.log('defaultstyle');
+            console.log(defaultstyle);
+            console.log(typeof defaultstyle=="string");
+
            if (typeof defaultstyle=="string" && typeof cellstyle=="string" && defaultstyle === cellstyle)
             {
+
+
+                console.log('chaning size !');
                 // NO...
                  // shape=process;
                  // shape=mxgraph.flowchart.decision;
