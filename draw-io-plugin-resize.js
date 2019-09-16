@@ -53,10 +53,12 @@ Draw.loadPlugin(function(ui)
             //console.log(key);
             console.log(cells[key]);
            // console.log(cells[key].style);
-           cellstyle = cells[key].style;
+           var cellstyle = cells[key].style;
            
            var geocurrentcell = graph.getCellGeometry(cells[key]);   
 
+           if (typeof defaultstyle=="string" && typeof cellstyle=="string" && defaultstyle === cellstyle)
+            {
                 // NO...
                  // shape=process;
                  // shape=mxgraph.flowchart.decision;
@@ -80,6 +82,7 @@ Draw.loadPlugin(function(ui)
 
                 
                  graph.getModel().endUpdate();
+            }
           
         });
 
@@ -88,7 +91,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.96');
+    }, null, null, 'Alt+Shift+X - v0.97');
 
     
 }); // end of loadplugin
