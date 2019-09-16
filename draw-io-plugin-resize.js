@@ -24,8 +24,14 @@ Draw.loadPlugin(function(ui)
     ui.actions.addAction('resize', function()
     {
         console.log("loaded...");
+        var cells = graph.getModel().cells;
+        //console.log(cells);
 
-    }, null, null, 'Alt+Shift+X - v0.1');
+        cells.forEach(function(cell){
+            console.log(cell);
+        });
+
+    }, null, null, 'Alt+Shift+X - v0.2');
 
     
 }); // end of loadplugin
