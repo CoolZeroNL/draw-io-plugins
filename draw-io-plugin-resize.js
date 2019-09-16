@@ -19,5 +19,13 @@ Draw.loadPlugin(function(ui)
         ui.menus.addMenuItems(menu, ['-', 'resize']);
     });
 
+       
+    // Adds actions
+    ui.actions.addAction('resize', function()
+    {
+        console.log("loaded...");
+
+    }, null, null, 'Alt+Shift+X - v0.1');
+
     
 }); // end of loadplugin
