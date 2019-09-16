@@ -31,8 +31,9 @@ Draw.loadPlugin(function(ui)
         Object.keys(cells).forEach(function(key) {
 
             //console.log(key, cells[key]);
-            console.log(key);
-            console.log(cells[key]);
+            //console.log(key);
+            //console.log(cells[key]);
+            console.log(cells[key].style);
           
         });
 
@@ -41,7 +42,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.7');
+    }, null, null, 'Alt+Shift+X - v0.8');
 
     
 }); // end of loadplugin
