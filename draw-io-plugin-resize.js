@@ -38,9 +38,9 @@ Draw.loadPlugin(function(ui)
             var defaultwidth = geoselectedcell.width;
             var defaultheight = geoselectedcell.height;
 
-            console.log(defaultheight);
-            console.log(defaultwidth);
-            console.log(defaultstyle);
+           // console.log(defaultheight);
+           // console.log(defaultwidth);
+           // console.log(defaultstyle);
 
             var cells = graph.getModel().cells;
             //console.log(cells);
@@ -50,26 +50,26 @@ Draw.loadPlugin(function(ui)
     
                 //console.log(key, cells[key]);
                 //console.log(key);
-                console.log(cells[key]);
+                //console.log(cells[key]);
                // console.log(cells[key].style);
                var cellstyle = cells[key].style;
                
                var geocurrentcell = graph.getCellGeometry(cells[key]);   
     
     
-                console.log('cellstyle');
-                console.log(cellstyle);
-                console.log(typeof cellstyle=="string");
+                //console.log('cellstyle');
+                //console.log(cellstyle);
+                //console.log(typeof cellstyle=="string");
     
-                console.log('defaultstyle');
-                console.log(defaultstyle);
-                console.log(typeof defaultstyle=="string");
+                //console.log('defaultstyle');
+                //console.log(defaultstyle);
+                //console.log(typeof defaultstyle=="string");
     
                if (typeof defaultstyle=="string" && typeof cellstyle=="string" && defaultstyle === cellstyle)
                 {
     
     
-                    console.log('chaning size !');
+                    //console.log('chaning size !');
                     // NO...
                      // shape=process;
                      // shape=mxgraph.flowchart.decision;
@@ -104,7 +104,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.994');
+    }, null, null, 'v1.0');
 
     
 }); // end of loadplugin
