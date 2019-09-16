@@ -31,9 +31,7 @@ Draw.loadPlugin(function(ui)
         if (graph.isEnabled() && graph.getSelectionCount() == 1)
         {
             var selectedcell = graph.getSelectionCell();
-           // defaultheight = selectedcell.geometry.height;
-           // defaultwidth = selectedcell.geometry.width;
-           // defaultstyle = selectedcell.style;
+            var defaultstyle = selectedcell.style;
 
             var geoselectedcell = graph.getCellGeometry(selectedcell);    
             //console.log();
@@ -88,7 +86,7 @@ Draw.loadPlugin(function(ui)
         //     console.log(cells[i]);
         // }
 
-    }, null, null, 'Alt+Shift+X - v0.94');
+    }, null, null, 'Alt+Shift+X - v0.95');
 
     
 }); // end of loadplugin
