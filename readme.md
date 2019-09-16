@@ -27,7 +27,7 @@ https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plu
 
 ### 2.2.1. Sample:
 <p align="center">
-  <img width="75%" src="./readme.images/example-draw-io-plugin-resize.gif">
+  <img width="25%" src="./readme.images/example-draw-io-plugin-resize.gif">
 </p>
 
 ## 2.3. Reorder Childs:
