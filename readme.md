@@ -5,6 +5,9 @@ To use the plugin within Draw.io u need to use a CORS proxy.
 ## 1.1. Cors Proxy information:
 https://ovsoinc.github.io/yacdn.org/
 
+## Resize (height & width by selected cell)
+https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js?maxAge=10
+
 ## 1.2. Reorder Childs:
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
 
