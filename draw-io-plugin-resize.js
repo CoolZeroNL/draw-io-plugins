@@ -26,13 +26,14 @@ Draw.loadPlugin(function(ui)
         console.log("loaded...");
         var cells = graph.getModel().cells;
         console.log(cells);
+        console.log(cells.length);
 
         for (var i = 0; i < cells.length; i++)
         {
             console.log(cells[i]);
         }
 
-    }, null, null, 'Alt+Shift+X - v0.4');
+    }, null, null, 'Alt+Shift+X - v0.5');
 
     
 }); // end of loadplugin
