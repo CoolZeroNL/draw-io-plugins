@@ -6,7 +6,7 @@ Draw.loadPlugin(function(ui) {
     //ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://draw.io/templates/flowcharts/flowchart_1.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
 
-    ui.sidebar.addStencilPalette('flowchart', 'Flowchart2', 'https://www.draw.io/stencils/flowchart.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
+    ui.sidebar.addStencilPalette('flowchart', 'Flowchart2', 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/securit.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Collapses default sidebar entry and inserts this before
 
