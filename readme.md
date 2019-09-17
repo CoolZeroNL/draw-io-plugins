@@ -2,16 +2,16 @@
 
 <!-- TOC -->
 
-- [Index:](#index)
-- [Installation of a Plugin:](#installation-of-a-plugin)
-    - [Use of CORS Proxy:](#use-of-cors-proxy)
-    - [Cors Proxy information:](#cors-proxy-information)
-    - [Install Plugin Within Draw-io](#install-plugin-within-draw-io)
-- [Plugins:](#plugins)
-    - [Resize (height & width by selected cell)](#resize-height--width-by-selected-cell)
-        - [Sample:](#sample)
-    - [Reorder Childs:](#reorder-childs)
-    - [SecurIT Huisstijl](#securit-huisstijl)
+- [1. Index:](#1-index)
+- [2. Installation of a Plugin:](#2-installation-of-a-plugin)
+    - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
+    - [2.2. Cors Proxy information:](#22-cors-proxy-information)
+    - [2.3. Install Plugin Within Draw-io](#23-install-plugin-within-draw-io)
+- [3. Plugins:](#3-plugins)
+    - [3.1. Resize (height & width by selected cell)](#31-resize-height--width-by-selected-cell)
+        - [3.1.1. Sample:](#311-sample)
+    - [3.2. Reorder Childs:](#32-reorder-childs)
+    - [3.3. SecurIT Huisstijl](#33-securit-huisstijl)
 
 <!-- /TOC -->
 
@@ -84,6 +84,8 @@ https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plu
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
 
 ## 3.3. SecurIT Huisstijl
+more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
+
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-securit-huisstyle.js?maxAge=10
 
 <!-- # 4. Templaing sample:
