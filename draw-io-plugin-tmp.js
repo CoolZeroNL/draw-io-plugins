@@ -13,7 +13,7 @@ Draw.loadPlugin(function(ui) {
 
     // $("img[title='draw.io']").src="http://poiesisconsulting.com/favicon.ico";
     // Adds logo to footer
-    ui.footerContainer.innerHTML = '<img align="right" style="margin-top:14px;margin-right:6px;" ' + 'src="http://www.poiesisconsulting.com/favicon.ico"/>';
+    ui.footerContainer.innerHTML = '<img align="right" style="margin-top:14px;margin-right:6px;" ' + 'src="https://www.google.com/favicon.ico"/>';
 
     // Adds resource for action
     mxResources.parse('helloWorldAction=Hello, World!');
