@@ -4,7 +4,7 @@
 Draw.loadPlugin(function(ui)
 {	
 
-    console.log('v0.2');
+    console.log('v0.3');
 
 	// ELEMENTOS GRÁFICOS
 	var c = ui.sidebar.container;
@@ -25,7 +25,7 @@ Draw.loadPlugin(function(ui)
 		content.appendChild(ui.sidebar.createVertexTemplate('shape=ext;rounded=1;strokeWidth=3;strokeColor=#007FFF', 120, 80, 'Call Activity', 'Call Activity', true));
 		content.appendChild(ui.sidebar.createVertexTemplate('shape=ext;rounded=1;symbol0=plus;symbol0Width=14;symbol0Height=14;symbol0Align=center;symbol0VerticalAlign=bottom;strokeColor=#007FFF', 120, 80, 'Subprocess', 'Subprocess', true));
 		
-		content.appendChild(ui.sidebar.createVertexTemplate('image;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/1024px-Yin_yang.svg.png', 100, 100));
+		content.appendChild(ui.sidebar.createVertexTemplate('image;image=https://upload.wikimedia.org/wikipedia/commons/1/17/Yin_yang.svg', 100, 100));
 		
 		// content.appendChild(ui.sidebar.createVertexTemplate('shape=mxgraph.bpmn.shape;verticalLabelPosition=bottom;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;strokeColor=#009900', 60, 60, 'Start Event', 'Start Event', true));
 		// content.appendChild(ui.sidebar.createVertexTemplate('shape=mxgraph.bpmn.shape;verticalLabelPosition=bottom;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=general;strokeColor=#FF0000', 60, 60, 'End Event', 'End Event', true));	
