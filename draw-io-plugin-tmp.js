@@ -3,7 +3,7 @@
 */
 Draw.loadPlugin(function(ui) {
     // Adds custom sidebar entry
-    ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://raw.githubusercontent.com/jgraph/drawio-libs/master/libs/templates.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
+    ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://yacdn.org/serve/https://raw.githubusercontent.com/jgraph/drawio-libs/master/libs/templates.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Collapses default sidebar entry and inserts this before
     var c = ui.sidebar.container;
@@ -13,6 +13,7 @@ Draw.loadPlugin(function(ui) {
 
     // $("img[title='draw.io']").src="http://poiesisconsulting.com/favicon.ico";
     // Adds logo to footer
-    ui.footerContainer.innerHTML = '<img align="right" style="margin-top:14px;margin-right:6px;" ' + 'src="https://www.google.com/favicon.ico"/>';
+    // doest work
+    //ui.footerContainer.innerHTML = '<img align="right" style="margin-top:14px;margin-right:6px;" ' + 'src="https://www.google.com/favicon.ico"/>';
 
 });
