@@ -3,7 +3,7 @@
 */
 Draw.loadPlugin(function(ui) {
     // Adds custom sidebar entry
-    ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://draw.io/templates/cloud/ibm_blockchain.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
+    ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Collapses default sidebar entry and inserts this before
     var c = ui.sidebar.container;
