@@ -90,3 +90,7 @@ https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plu
 
 <!-- # 4. Templaing sample:
 https://yacdn.org/serve/https://gist.githubusercontent.com/lindapadilla/5974598/raw/0c80ac0f4d03234bffb50cb14eda0a9b23f6e07a/customizeBPMN -->
+
+
+
+https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-tmp.js?maxAge=10
