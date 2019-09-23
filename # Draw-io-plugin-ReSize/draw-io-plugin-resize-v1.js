@@ -1,7 +1,7 @@
 
 Draw.loadPlugin(function(ui)
 {
-    console.log('resize start 3');
+    console.log('resize start 4');
 
     var graph = ui.editor.graph;
     var model = graph.getModel();
@@ -41,6 +41,8 @@ Draw.loadPlugin(function(ui)
                         oldFunct.apply(this, arguments);
                         ui.menus.addMenuItems(menu, ['-', 'resize'], parent);
                 };
+
+                check = 'done';
             }
 
             
@@ -55,8 +57,6 @@ Draw.loadPlugin(function(ui)
             });
 
         }
-
-        check = 'done';
 
     }
 
