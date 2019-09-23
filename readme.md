@@ -45,8 +45,8 @@ https://yacdn.org/serve/?maxAge=10
 https://yacdn.org/serve/?maxAge=10
 
 ## 3.5. SecurIT Huisstijl
-more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
-more information: https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils
+- more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
+- more information: https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils
 
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-securit-huisstyle.js?maxAge=10
 
