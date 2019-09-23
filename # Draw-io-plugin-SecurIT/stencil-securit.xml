@@ -1,6 +1,7 @@
 <shapes name="harwig.stencils.security">
 	<shape name="SecurIT_Header" w="1006" h="124" aspect="variable">
 		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
 			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
 			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
@@ -8,7 +9,6 @@
 			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
 			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
-			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 		</connections>
 		<foreground>
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="1006" h="124"/>
