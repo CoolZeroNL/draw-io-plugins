@@ -26,6 +26,7 @@ Draw.loadPlugin(function(ui)
     //cmenu.childNodes.forEach(myFunction);
     var index;
     //var a = ["a", "b", "c"];
+    var length = cmenu.childNodes.length + 1; // fix for SPACER DIV.... (issnt count in length...)
     for (index = 0; index < cmenu.childNodes.length; ++index) {
         console.log(cmenu.childNodes[index]);
         console.log(cmenu.childNodes[index].text);
