@@ -7,9 +7,8 @@
 - [3. Plugins:](#3-plugins)
     - [3.1. Resize (height & width by selected cell)](#31-resize-height--width-by-selected-cell)
     - [3.2. ReOrder Childs:](#32-reorder-childs)
-    - [3.3. ReSize](#33-resize)
-    - [3.4. Explore](#34-explore)
-    - [3.5. SecurIT Huisstijl](#35-securit-huisstijl)
+    - [3.3. Explore](#33-explore)
+    - [3.4. SecurIT Huisstijl](#34-securit-huisstijl)
 - [4. Install Plugin Within Draw-io](#4-install-plugin-within-draw-io)
     - [4.1. Use of CORS Proxy:](#41-use-of-cors-proxy)
         - [4.1.1. Cors Proxy information:](#411-cors-proxy-information)
@@ -38,13 +37,10 @@ https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plu
 ## 3.2. ReOrder Childs:
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
 
-## 3.3. ReSize
+## 3.3. Explore
 https://yacdn.org/serve/?maxAge=10
 
-## 3.4. Explore
-https://yacdn.org/serve/?maxAge=10
-
-## 3.5. SecurIT Huisstijl
+## 3.4. SecurIT Huisstijl
 - more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
 - more information: https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils
 
