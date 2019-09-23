@@ -26,7 +26,7 @@ Draw.loadPlugin(function(ui)
     var index;
     //var a = ["a", "b", "c"];
     for (index = 0; index < cmenu.childNodes.length; ++index) {
-        console.log(cmenu.childNodes[index]);
+        console.log(cmenu.childNodes[index].text);
     }
 
 
