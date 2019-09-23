@@ -36,7 +36,7 @@ Draw.loadPlugin(function(ui)
 
 
     var menu = ui.menus.get('Harwig');
-    console.log('resize - menu 4');
+    console.log('resize - menu 5');
     // console.log(menu);
     // console.log(ui.menus);
     // console.log(ui);
