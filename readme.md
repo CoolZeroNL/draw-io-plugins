@@ -12,6 +12,9 @@
         - [3.1.1. Sample:](#311-sample)
     - [3.2. Reorder Childs:](#32-reorder-childs)
     - [3.3. SecurIT Huisstijl](#33-securit-huisstijl)
+    - [Stencil Samples:](#stencil-samples)
+- [Distribution:](#distribution)
+    - [Plugin: Resize](#plugin-resize)
 
 <!-- /TOC -->
 
@@ -91,4 +94,18 @@ https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plu
 <!-- # 4. Templaing sample:
 https://yacdn.org/serve/https://gist.githubusercontent.com/lindapadilla/5974598/raw/0c80ac0f4d03234bffb50cb14eda0a9b23f6e07a/customizeBPMN -->
 
+## Stencil Samples:
+https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils
+
+
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-tmp.js?maxAge=10
+
+
+
+# Distribution:
+
+## Plugin: Resize
+- Rogier
+- Stefan
+- Peter
+- Abdel
