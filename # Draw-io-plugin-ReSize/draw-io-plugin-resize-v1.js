@@ -32,7 +32,7 @@ Draw.loadPlugin(function(ui)
         {
             
             console.log('menu exists.... harwig');
-            if (check != 'done')
+            if (!check.match(/done/))
             {
                 var oldFunct = menu.funct;
 
@@ -44,8 +44,6 @@ Draw.loadPlugin(function(ui)
 
                 check = 'done';
             }
-
-            
 
         }else{
             console.log('menu dont exists.... create menu harwig');
