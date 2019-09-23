@@ -1,7 +1,7 @@
 
 Draw.loadPlugin(function(ui)
 {
-    console.log('resize start 4');
+    console.log('resize start 5');
 
     var graph = ui.editor.graph;
     var model = graph.getModel();
