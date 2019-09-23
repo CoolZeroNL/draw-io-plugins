@@ -3,6 +3,7 @@
  */
 Draw.loadPlugin(function(ui)
 {
+    console.log('reorder start');
     //document.write('<script type="text/javascript" src="https://yacdn.org/serve/http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"><\/script>');
 
     var graph = ui.editor.graph;
@@ -276,7 +277,7 @@ Draw.loadPlugin(function(ui)
 		    mxUtils.alert('Importar workflow no BPM suite da Sysnovare');
 	    });
 		        
-   
+        console.log('reorder loaded');
 
 }); // end of loadplugin
 

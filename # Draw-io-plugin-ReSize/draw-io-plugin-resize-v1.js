@@ -1,6 +1,8 @@
 
 Draw.loadPlugin(function(ui)
 {
+    console.log('resize start');
+
     var graph = ui.editor.graph;
     var model = graph.getModel();
 
@@ -129,5 +131,6 @@ Draw.loadPlugin(function(ui)
 
     }, null, null, 'v1.0');
 
+    console.log('resize loaded');
     
 }); // end of loadplugin
