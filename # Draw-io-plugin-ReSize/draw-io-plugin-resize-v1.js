@@ -23,6 +23,7 @@ Draw.loadPlugin(function(ui)
     console.log(menu);
     console.log(ui.menus);
     console.log(ui);
+    console.log(ui.menubar.get('Harwig'));
 
     if (menu != null)
     {
