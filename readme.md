@@ -4,8 +4,6 @@
 
 - [1. Index:](#1-index)
 - [2. Installation of a Plugin:](#2-installation-of-a-plugin)
-    - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
-    - [2.2. Cors Proxy information:](#22-cors-proxy-information)
 - [3. Plugins:](#3-plugins)
     - [3.1. Resize (height & width by selected cell)](#31-resize-height--width-by-selected-cell)
     - [3.2. ReOrder Childs:](#32-reorder-childs)
@@ -13,6 +11,9 @@
     - [3.4. Explore](#34-explore)
     - [3.5. SecurIT Huisstijl](#35-securit-huisstijl)
 - [4. Install Plugin Within Draw-io](#4-install-plugin-within-draw-io)
+    - [4.1. Use of CORS Proxy:](#41-use-of-cors-proxy)
+        - [4.1.1. Cors Proxy information:](#411-cors-proxy-information)
+    - [4.2. Installation Steps](#42-installation-steps)
 - [5. Distribution:](#5-distribution)
     - [5.1. Plugin: Resize](#51-plugin-resize)
 
@@ -20,13 +21,7 @@
 
 # 2. Installation of a Plugin:
 
-## 2.1. Use of CORS Proxy:
-Because the plugins are been included within draw.io the browser will block this, because the plugin is not on the same domain as draw.io is. So the browser will give the next error: `Refused to execute script from 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.` 
 
-To fix this u need to use a CORS proxy server.
-
-## 2.2. Cors Proxy information:
-https://ovsoinc.github.io/yacdn.org/
 
 
 # 3. Plugins:
@@ -63,6 +58,16 @@ https://yacdn.org/serve/https://gist.githubusercontent.com/lindapadilla/5974598/
 
 
 # 4. Install Plugin Within Draw-io
+
+## 4.1. Use of CORS Proxy:
+Because the plugins are been included within draw.io the browser will block this, because the plugin is not on the same domain as draw.io is. So the browser will give the next error: `Refused to execute script from 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.` 
+
+To fix this u need to use a CORS proxy server.
+
+### 4.1.1. Cors Proxy information:
+https://ovsoinc.github.io/yacdn.org/
+
+## 4.2. Installation Steps
 To add a new plugin, do the next steps:
 
 Go to `Extras` -> `Plugins`
