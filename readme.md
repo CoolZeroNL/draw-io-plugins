@@ -1,4 +1,4 @@
- # 1. Index:
+ # Index:
 
 <!-- TOC -->
 
