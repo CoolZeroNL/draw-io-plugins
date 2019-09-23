@@ -16,7 +16,8 @@ Draw.loadPlugin(function(ui)
 
     function myFunction(item, index) {
         //document.getElementById("demo").innerHTML += index + ":" + item + "<br>";
-        console.log(item);
+        console.log(item)
+        console.log(item[index].text);
         console.log(index);
       }
 
