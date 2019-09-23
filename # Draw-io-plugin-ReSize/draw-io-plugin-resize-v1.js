@@ -14,10 +14,18 @@ Draw.loadPlugin(function(ui)
     // Adds resource for action
     mxResources.parse('resize=Resize');
 
-    
+    function myFunction(item, index) {
+        //document.getElementById("demo").innerHTML += index + ":" + item + "<br>";
+        console.log(item);
+        console.log(index);
+      }
 
+    var cmenu = ui.menubar.container;
+    while (cmenu.childNodes != null)
+        {
+            cmenu.childNodes.forEach(myFunction);
+        }
 
- 
     var menu = ui.menus.get('Harwig');
     console.log('resize - menu');
     console.log(menu);
