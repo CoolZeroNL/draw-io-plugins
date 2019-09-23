@@ -39,6 +39,9 @@ Draw.loadPlugin(function(ui)
         
         var menu = ui.menus.get('Harwig Tools');
 
+        console.log('reorder - menu');
+        console.log(menu);
+
         if (menu != null)
         {
             // update menu

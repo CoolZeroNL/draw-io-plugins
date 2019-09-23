@@ -17,6 +17,8 @@ Draw.loadPlugin(function(ui)
 
  
     var menu = ui.menus.get('Harwig Tools');
+    console.log('resize - menu');
+    console.log(menu);
 
     if (menu != null)
     {
