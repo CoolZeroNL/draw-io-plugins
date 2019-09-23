@@ -23,7 +23,7 @@ Draw.loadPlugin(function(ui)
 
     var cmenu = ui.menubar.container; 
     var index;
-    var check;   
+    var check = '';   
     for (index = 0; index < cmenu.childNodes.length; ++index) {
         var menu = cmenu.childNodes[index].text;
         if (menu == 'Harwig')
