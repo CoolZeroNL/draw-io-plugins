@@ -14,12 +14,12 @@ Draw.loadPlugin(function(ui)
     // Adds resource for action
     mxResources.parse('resize=Resize');
 
-    function myFunction(item, index) {
-        //document.getElementById("demo").innerHTML += index + ":" + item + "<br>";
-        console.log(item);
-        console.log(item[index].text);
-        console.log(index);
-      }
+    // function myFunction(item, index) {
+    //     //document.getElementById("demo").innerHTML += index + ":" + item + "<br>";
+    //     console.log(item);
+    //     console.log(item[index].text);
+    //     console.log(index);
+    //   }
 
     var cmenu = ui.menubar.container;
     //cmenu.childNodes.forEach(myFunction);
@@ -32,10 +32,10 @@ Draw.loadPlugin(function(ui)
 
     var menu = ui.menus.get('Harwig');
     console.log('resize - menu');
-    console.log(menu);
-    console.log(ui.menus);
-    console.log(ui);
-    console.log(ui.menubar.container.get('Harwig'));
+    // console.log(menu);
+    // console.log(ui.menus);
+    // console.log(ui);
+    
 
     if (menu != null)
     {
