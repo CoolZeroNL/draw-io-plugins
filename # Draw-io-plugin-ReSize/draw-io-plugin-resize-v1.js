@@ -27,14 +27,17 @@ Draw.loadPlugin(function(ui)
     var index;
     //var a = ["a", "b", "c"];
     var length = cmenu.childNodes.length + 1; // fix for SPACER DIV.... (issnt count in length...)
+    console.log(cmenu.childNodes.length)
     for (index = 0; index < cmenu.childNodes.length; ++index) {
+        console.log(cmenu.childNodes.length)
+        console.log(index);
         console.log(cmenu.childNodes[index]);
         console.log(cmenu.childNodes[index].text);
     }
 
 
     var menu = ui.menus.get('Harwig');
-    console.log('resize - menu 3');
+    console.log('resize - menu 4');
     // console.log(menu);
     // console.log(ui.menus);
     // console.log(ui);
