@@ -6,15 +6,15 @@
 - [2. Installation of a Plugin:](#2-installation-of-a-plugin)
     - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
     - [2.2. Cors Proxy information:](#22-cors-proxy-information)
-    - [2.3. Install Plugin Within Draw-io](#23-install-plugin-within-draw-io)
 - [3. Plugins:](#3-plugins)
     - [3.1. Resize (height & width by selected cell)](#31-resize-height--width-by-selected-cell)
-        - [3.1.1. Sample:](#311-sample)
-    - [3.2. Reorder Childs:](#32-reorder-childs)
-    - [3.3. SecurIT Huisstijl](#33-securit-huisstijl)
-    - [Stencil Samples:](#stencil-samples)
-- [Distribution:](#distribution)
-    - [Plugin: Resize](#plugin-resize)
+    - [3.2. ReOrder Childs:](#32-reorder-childs)
+    - [3.3. ReSize](#33-resize)
+    - [3.4. Explore](#34-explore)
+    - [3.5. SecurIT Huisstijl](#35-securit-huisstijl)
+- [4. Install Plugin Within Draw-io](#4-install-plugin-within-draw-io)
+- [5. Distribution:](#5-distribution)
+    - [5.1. Plugin: Resize](#51-plugin-resize)
 
 <!-- /TOC -->
 
@@ -28,7 +28,41 @@ To fix this u need to use a CORS proxy server.
 ## 2.2. Cors Proxy information:
 https://ovsoinc.github.io/yacdn.org/
 
-## 2.3. Install Plugin Within Draw-io
+
+# 3. Plugins:
+
+## 3.1. Resize (height & width by selected cell)
+This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Harwig Tools` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
+
+https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js?maxAge=10
+
+<p align="center">
+  <img width="25%" src="./readme.images/example-draw-io-plugin-resize.gif">
+</p>
+
+## 3.2. ReOrder Childs:
+https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
+
+## 3.3. ReSize
+https://yacdn.org/serve/?maxAge=10
+
+## 3.4. Explore
+https://yacdn.org/serve/?maxAge=10
+
+## 3.5. SecurIT Huisstijl
+more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
+more information: https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils
+
+https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-securit-huisstyle.js?maxAge=10
+
+<!-- # 4. Templaing sample:
+https://yacdn.org/serve/https://gist.githubusercontent.com/lindapadilla/5974598/raw/0c80ac0f4d03234bffb50cb14eda0a9b23f6e07a/customizeBPMN -->
+
+
+
+
+
+# 4. Install Plugin Within Draw-io
 To add a new plugin, do the next steps:
 
 Go to `Extras` -> `Plugins`
@@ -71,40 +105,12 @@ Now you see a extra menu item `Harwig Tools`. As a sub item the plugin functiona
   <img width="50%" src="./readme.images/07-menu-harwig.png">
 </p>
 
-# 3. Plugins:
-
-## 3.1. Resize (height & width by selected cell)
-This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Harwig Tools` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
-
-https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js?maxAge=10
-
-### 3.1.1. Sample:
-<p align="center">
-  <img width="25%" src="./readme.images/example-draw-io-plugin-resize.gif">
-</p>
-
-## 3.2. Reorder Childs:
-https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
-
-## 3.3. SecurIT Huisstijl
-more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
-
-https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-securit-huisstyle.js?maxAge=10
-
-<!-- # 4. Templaing sample:
-https://yacdn.org/serve/https://gist.githubusercontent.com/lindapadilla/5974598/raw/0c80ac0f4d03234bffb50cb14eda0a9b23f6e07a/customizeBPMN -->
-
-## Stencil Samples:
-https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils
-
-
-https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-tmp.js?maxAge=10
 
 
 
-# Distribution:
+# 5. Distribution:
 
-## Plugin: Resize
+## 5.1. Plugin: Resize
 - Rogier
 - Stefan
 - Peter
