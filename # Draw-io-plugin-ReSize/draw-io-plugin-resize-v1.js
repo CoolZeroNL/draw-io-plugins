@@ -22,6 +22,7 @@ Draw.loadPlugin(function(ui)
     //   }
 
     var cmenu = ui.menubar.container;
+    console.log(cmenu);
     //cmenu.childNodes.forEach(myFunction);
     var index;
     //var a = ["a", "b", "c"];
