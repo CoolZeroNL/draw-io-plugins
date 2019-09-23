@@ -6,7 +6,7 @@
 - [2. Installation of a Plugin:](#2-installation-of-a-plugin)
 - [3. Plugins:](#3-plugins)
     - [3.1. Resize (height & width by selected cell)](#31-resize-height--width-by-selected-cell)
-    - [3.2. ReOrder Childs:](#32-reorder-childs)
+    - [3.2. ReOrder Childs](#32-reorder-childs)
     - [3.3. Explore](#33-explore)
     - [3.4. SecurIT Huisstijl](#34-securit-huisstijl)
 - [4. Install Plugin Within Draw-io](#4-install-plugin-within-draw-io)
@@ -34,7 +34,7 @@ https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plu
   <img width="25%" src="./readme.images/example-draw-io-plugin-resize.gif">
 </p>
 
-## 3.2. ReOrder Childs:
+## 3.2. ReOrder Childs
 https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
 
 ## 3.3. Explore
