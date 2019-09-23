@@ -98,10 +98,12 @@ Now you see a extra menu item `Harwig Tools`. As a sub item the plugin functiona
 
 
 
+<!-- 
 # 3. Distribution:
 
 ## 3.1. Plugin: Resize
 - Rogier
 - Stefan
 - Peter
-- Abdel
+- Abdel 
+-->
