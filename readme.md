@@ -16,6 +16,9 @@
 
 <!-- /TOC -->
 
+
+https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-server.svg?sanitize=true
+
 # 1. Plugins:
 
 ## 1.1. Resize (height & width by selected cell)

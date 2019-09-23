@@ -9,7 +9,7 @@
 			<constraint x="0.860" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-activist.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-activist.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_actor-alevolent-sad" w="136.06" h="121.89" aspect="variable">
@@ -22,7 +22,7 @@
 			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-alevolent-sad.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-alevolent-sad.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_actor-alice" w="136.06" h="121.89" aspect="variable">
@@ -35,7 +35,7 @@
 			<constraint x="0.700" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-alice.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-alice.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_actor-bob" w="136.06" h="121.89" aspect="variable">
@@ -48,7 +48,7 @@
 			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-bob.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-bob.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_actor-couldnt-care" w="136.06" h="121.89" aspect="variable">
@@ -61,7 +61,7 @@
 			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-couldnt-care.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-couldnt-care.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_actor-journalist" w="136.06" h="121.89" aspect="variable">
@@ -74,7 +74,7 @@
 			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-journalist.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-journalist.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_actor-malevolent-happy" w="136.06" h="121.89" aspect="variable">
@@ -87,7 +87,7 @@
 			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-malevolent-happy.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_actor-malevolent-happy.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_database" w="136.06" h="121.89" aspect="variable">
@@ -100,7 +100,7 @@
 			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_database.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_database.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_desktop" w="136.06" h="121.89" aspect="variable">
@@ -115,7 +115,7 @@
 			<constraint x="0.930" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_desktop.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_desktop.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_document-encrypted" w="136.06" h="121.89" aspect="variable">
@@ -128,7 +128,7 @@
 			<constraint x="0.760" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_document-encrypted.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_document-encrypted.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_document-plain" w="136.06" h="121.89" aspect="variable">
@@ -141,7 +141,7 @@
 			<constraint x="0.760" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_document-plain.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_document-plain.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_firewall" w="136.06" h="121.89" aspect="variable">
@@ -154,7 +154,7 @@
 			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_firewall.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_firewall.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_gateway-network-hop" w="136.06" h="121.89" aspect="variable">
@@ -171,7 +171,7 @@
 			<constraint x="0.970" y="0.820" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_gateway-network-hop.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_gateway-network-hop.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_hacker" w="136.06" h="121.89" aspect="variable">
@@ -184,7 +184,7 @@
 			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_hacker.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_hacker.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_internet" w="136.06" h="121.89" aspect="variable">
@@ -197,7 +197,7 @@
 			<constraint x="0.720" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_internet.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_internet.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_isp-malevolent" w="136.06" h="121.89" aspect="variable">
@@ -210,7 +210,7 @@
 			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-malevolent.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-malevolent.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_isp-server" w="136.06" h="121.89" aspect="variable">
@@ -223,7 +223,7 @@
 			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-server.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-server.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_isp-traffic" w="136.06" h="121.89" aspect="variable">
@@ -236,7 +236,7 @@
 			<constraint x="0.850" y="0.540" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-traffic.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-traffic.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_isp-trusted-gateway" w="136.06" h="121.89" aspect="variable">
@@ -249,7 +249,7 @@
 			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-trusted-gateway.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-trusted-gateway.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_key-private" w="136.06" h="121.89" aspect="variable">
@@ -262,7 +262,7 @@
 			<constraint x="0.770" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_key-private.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_key-private.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_key-public" w="136.06" h="121.89" aspect="variable">
@@ -275,7 +275,7 @@
 			<constraint x="0.820" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_key-public.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_key-public.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_key-symmetric" w="136.06" h="121.89" aspect="variable">
@@ -288,7 +288,7 @@
 			<constraint x="0.600" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_key-symmetric.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_key-symmetric.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_lock-closed" w="136.06" h="121.89" aspect="variable">
@@ -301,7 +301,7 @@
 			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_lock-closed.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_lock-closed.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_lock-open" w="136.06" h="121.89" aspect="variable">
@@ -315,7 +315,7 @@
 			<constraint x="0.850" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_lock-open.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_lock-open.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_malevolent-message" w="136.06" h="121.89" aspect="variable">
@@ -328,7 +328,7 @@
 			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_malevolent-message.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_malevolent-message.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_message-neutral" w="136.06" h="121.89" aspect="variable">
@@ -341,7 +341,7 @@
 			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_message-neutral.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_message-neutral.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_message-neutral2" w="136.06" h="121.89" aspect="variable">
@@ -354,7 +354,7 @@
 			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_message-neutral2.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_message-neutral2.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_message-open" w="136.06" h="121.89" aspect="variable">
@@ -367,7 +367,7 @@
 			<constraint x="0.860" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_message-open.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_message-open.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_mixnet" w="136.06" h="121.89" aspect="variable">
@@ -384,7 +384,7 @@
 			<constraint x="0.910" y="0.700" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_mixnet.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_mixnet.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_mobile-phone" w="136.06" h="121.89" aspect="variable">
@@ -396,7 +396,7 @@
 			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_mobile-phone.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_mobile-phone.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_old_document-encrypted" w="136.06" h="121.89" aspect="variable">
@@ -409,7 +409,7 @@
 			<constraint x="0.760" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_old_document-encrypted.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_old_document-encrypted.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_protected-tor" w="136.06" h="121.89" aspect="variable">
@@ -422,7 +422,7 @@
 			<constraint x="0.780" y="0.640" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_protected-tor.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_protected-tor.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_protected-vpn" w="136.06" h="121.89" aspect="variable">
@@ -435,7 +435,7 @@
 			<constraint x="0.780" y="0.640" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_protected-vpn.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_protected-vpn.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_protected" w="136.06" h="121.89" aspect="variable">
@@ -448,7 +448,7 @@
 			<constraint x="0.820" y="0.640" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_protected.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_protected.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_social-network" w="136.06" h="121.89" aspect="variable">
@@ -461,7 +461,7 @@
 			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_social-network.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_social-network.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_square" w="136.06" h="121.89" aspect="variable">
@@ -474,7 +474,7 @@
 			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_square.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_square.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 	<shape name="security_website" w="136.06" h="121.89" aspect="variable">
@@ -487,7 +487,7 @@
 			<constraint x="0.870" y="0.500" perimeter="0" name="right"/>
 		</connections>
 		<foreground>
-			<image src="https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_website.svg?maxAge=10" x="0.00" y="0.00" w="136.06" h="121.89"/>
+			<image src="https://jsonp.afeld.me/?url=https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_website.svg?sanitize=true" x="0.00" y="0.00" w="136.06" h="121.89"/>
 		</foreground>
 	</shape>
 </shapes>
