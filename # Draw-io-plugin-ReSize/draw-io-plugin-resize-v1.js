@@ -21,18 +21,17 @@ Draw.loadPlugin(function(ui)
     //     console.log(index);
     //   }
 
-    var cmenu = ui.menubar.container;
-    console.log(cmenu);
-    //cmenu.childNodes.forEach(myFunction);
-    var index;
-    //var a = ["a", "b", "c"];
-    var length = cmenu.childNodes.length + 1; // fix for SPACER DIV.... (issnt count in length...)
-    console.log(cmenu.childNodes.length)
+    var cmenu = ui.menubar.container; 
+    var index;   
     for (index = 0; index < cmenu.childNodes.length; ++index) {
-        console.log(cmenu.childNodes.length)
-        console.log(index);
-        console.log(cmenu.childNodes[index]);
-        console.log(cmenu.childNodes[index].text);
+        var text = cmenu.childNodes[index].text;
+        if (text == 'Harwig')
+        {
+            console.log('menu exists.... harwig');
+        }else{
+            console.log('menu dont exists.... create menu harwig');
+        }
+
     }
 
 
