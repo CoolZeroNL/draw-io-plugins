@@ -24,44 +24,54 @@ Draw.loadPlugin(function(ui)
     var cmenu = ui.menubar.container; 
     var index;   
     for (index = 0; index < cmenu.childNodes.length; ++index) {
-        var text = cmenu.childNodes[index].text;
-        if (text == 'Harwig')
+        var menu = cmenu.childNodes[index].text;
+        if (menu == 'Harwig')
         {
             console.log('menu exists.... harwig');
+            var oldFunct = menu.funct;
+
+            menu.funct = function(menu, parent)
+            {
+                    oldFunct.apply(this, arguments);
+                    ui.menus.addMenuItems(menu, ['-', 'resize'], parent);
+            };
+            
         }else{
             console.log('menu dont exists.... create menu harwig');
+            
+            // Adds menu
+            ui.menubar.addMenu('Harwig', function(menu, parent)
+            {		
+                ui.menus.addMenuItems(menu, ['-', 'resize']);
+            });
+            
         }
 
     }
 
 
-    var menu = ui.menus.get('Harwig');
-    console.log('resize - menu 5');
-    // console.log(menu);
-    // console.log(ui.menus);
-    // console.log(ui);
     
 
-    if (menu != null)
-    {
-        // update menu
-        var oldFunct = menu.funct;
+    // if (menu != null)
+    // {
+    //     // update menu
+    //     var oldFunct = menu.funct;
 
-        menu.funct = function(menu, parent)
-        {
-                oldFunct.apply(this, arguments);
-                ui.menus.addMenuItems(menu, ['-', 'resize'], parent);
-        };
+    //     menu.funct = function(menu, parent)
+    //     {
+    //             oldFunct.apply(this, arguments);
+    //             ui.menus.addMenuItems(menu, ['-', 'resize'], parent);
+    //     };
 
-    }else{
+    // }else{
 
-        // Adds menu
-        ui.menubar.addMenu('Harwig', function(menu, parent)
-        {		
-            ui.menus.addMenuItems(menu, ['-', 'resize']);
-        });
+    //     // Adds menu
+    //     ui.menubar.addMenu('Harwig', function(menu, parent)
+    //     {		
+    //         ui.menus.addMenuItems(menu, ['-', 'resize']);
+    //     });
 
-    }
+    // }
 
 
        
