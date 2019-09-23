@@ -13,11 +13,32 @@ Draw.loadPlugin(function(ui)
     mxResources.parse('resize=Resize');
 
     
-    // Adds menu
-    ui.menubar.addMenu('Harwig Tools', function(menu, parent)
-    {		
-        ui.menus.addMenuItems(menu, ['-', 'resize']);
-    });
+
+
+ 
+    var menu = ui.menus.get('Harwig Tools');
+
+    if (menu != null)
+    {
+        // update menu
+        var oldFunct = menu.funct;
+
+        menu.funct = function(menu, parent)
+        {
+                oldFunct.apply(this, arguments);
+                ui.menus.addMenuItems(menu, ['-', 'resize'], parent);
+        };
+
+    }else{
+
+        // Adds menu
+        ui.menubar.addMenu('Harwig Tools', function(menu, parent)
+        {		
+            ui.menus.addMenuItems(menu, ['-', 'resize']);
+        });
+
+    }
+
 
        
     // Adds actions

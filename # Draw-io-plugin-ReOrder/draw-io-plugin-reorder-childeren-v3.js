@@ -37,12 +37,37 @@ Draw.loadPlugin(function(ui)
         }
     
         
-        // Adds menu
-        ui.menubar.addMenu('Harwig Tools', function(menu, parent)
-        {		
-            ui.menus.addMenuItem(menu, 'reorder');
-            ui.menus.addMenuItems(menu, ['-', 'dummy']);
-        });
+        var menu = ui.menus.get('Harwig Tools');
+
+        if (menu != null)
+        {
+            // update menu
+            var oldFunct = menu.funct;
+
+            menu.funct = function(menu, parent)
+            {
+                    oldFunct.apply(this, arguments);
+                    ui.menus.addMenuItems(menu, ['reorder'], parent);
+                    ui.menus.addMenuItems(menu, ['-', 'dummy'], parent);
+            };
+
+        }else{
+
+            // Adds menu
+            ui.menubar.addMenu('Harwig Tools', function(menu, parent)
+            {		
+                ui.menus.addMenuItem(menu, 'reorder');
+                ui.menus.addMenuItems(menu, ['-', 'dummy']);
+            });
+
+        }
+
+
+
+
+
+
+        
 
 	    // Exportar desenho
 	    // ui.actions.addAction('Reorder Childs', function()
