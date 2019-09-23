@@ -21,7 +21,7 @@ Draw.loadPlugin(function(ui)
       }
 
     var cmenu = ui.menubar.container;
-    cmenu.childNodes.forEach(myFunction);
+    cmenu.childNodes.text.forEach(myFunction);
     
     var menu = ui.menus.get('Harwig');
     console.log('resize - menu');
