@@ -1,7 +1,7 @@
 
 Draw.loadPlugin(function(ui)
 {
-    console.log('resize start 2');
+    console.log('resize start 3');
 
     var graph = ui.editor.graph;
     var model = graph.getModel();
@@ -26,6 +26,8 @@ Draw.loadPlugin(function(ui)
     var check = '';   
     for (index = 0; index < cmenu.childNodes.length; ++index) {
         var menu = cmenu.childNodes[index].text;
+        console.log('check');
+        console.log(check);
         if (menu == 'Harwig')
         {
             
