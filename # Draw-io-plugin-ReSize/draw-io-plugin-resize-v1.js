@@ -18,7 +18,7 @@ Draw.loadPlugin(function(ui)
 
 
  
-    var menu = ui.menus.get('Harwig Tools');
+    var menu = ui.menus.get('Harwig');
     console.log('resize - menu');
     console.log(menu);
 
@@ -36,7 +36,7 @@ Draw.loadPlugin(function(ui)
     }else{
 
         // Adds menu
-        ui.menubar.addMenu('Harwig Tools', function(menu, parent)
+        ui.menubar.addMenu('Harwig', function(menu, parent)
         {		
             ui.menus.addMenuItems(menu, ['-', 'resize']);
         });

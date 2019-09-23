@@ -38,7 +38,7 @@ Draw.loadPlugin(function(ui)
         }
     
         
-        var menu = ui.menus.get('Harwig Tools');
+        var menu = ui.menus.get('Harwig');
 
         console.log('reorder - menu');
         console.log(menu);
@@ -58,7 +58,7 @@ Draw.loadPlugin(function(ui)
         }else{
 
             // Adds menu
-            ui.menubar.addMenu('Harwig Tools', function(menu, parent)
+            ui.menubar.addMenu('Harwig', function(menu, parent)
             {		
                 ui.menus.addMenuItem(menu, 'reorder');
                 ui.menus.addMenuItems(menu, ['-', 'dummy']);
