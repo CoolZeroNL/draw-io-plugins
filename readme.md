@@ -6,7 +6,7 @@
 - [2. Installation of a Plugin:](#2-installation-of-a-plugin)
 - [3. Plugins:](#3-plugins)
     - [3.1. Resize (height & width by selected cell)](#31-resize-height--width-by-selected-cell)
-    - [3.2. ReOrder Childs](#32-reorder-childs)
+    - [3.2. ReOrder Childeren](#32-reorder-childeren)
     - [3.3. Explore](#33-explore)
     - [3.4. SecurIT Huisstijl](#34-securit-huisstijl)
 - [4. Install Plugin Within Draw-io](#4-install-plugin-within-draw-io)
@@ -28,23 +28,23 @@
 ## 3.1. Resize (height & width by selected cell)
 This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Harwig Tools` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
 
-https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js?maxAge=10
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js?maxAge=10
 
 <p align="center">
   <img width="25%" src="./readme.images/example-draw-io-plugin-resize.gif">
 </p>
 
-## 3.2. ReOrder Childs
-https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-redraw-v3.js?maxAge=10
+## 3.2. ReOrder Childeren
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReOrder/draw-io-plugin-reorder-childeren-v3.js?maxAge=10
 
 ## 3.3. Explore
-https://yacdn.org/serve/?maxAge=10
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore.js?maxAge=10
 
 ## 3.4. SecurIT Huisstijl
 - more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
 - more information: https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils
 
-https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-securit-huisstyle.js?maxAge=10
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/draw-io-plugin-securit-huisstyle-v1.js?maxAge=10
 
 <!-- # 4. Templaing sample:
 https://yacdn.org/serve/https://gist.githubusercontent.com/lindapadilla/5974598/raw/0c80ac0f4d03234bffb50cb14eda0a9b23f6e07a/customizeBPMN -->
