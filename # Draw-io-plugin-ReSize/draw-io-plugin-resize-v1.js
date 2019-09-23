@@ -22,6 +22,7 @@ Draw.loadPlugin(function(ui)
     console.log('resize - menu');
     console.log(menu);
     console.log(ui.menus);
+    console.log(ui);
 
     if (menu != null)
     {
