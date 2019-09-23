@@ -43,7 +43,7 @@ Draw.loadPlugin(function(ui)
                 };
             }
 
-            check = 'done';
+            
 
         }else{
             console.log('menu dont exists.... create menu harwig');
@@ -55,6 +55,8 @@ Draw.loadPlugin(function(ui)
             });
 
         }
+
+        check = 'done';
 
     }
 
