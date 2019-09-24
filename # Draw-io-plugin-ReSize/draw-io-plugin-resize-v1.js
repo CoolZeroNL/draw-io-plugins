@@ -32,6 +32,11 @@ Draw.loadPlugin(function(ui)
         {
             
             console.log('menu exists.... harwig');
+            
+            var res = check.match(/done/g);
+            console.log(res);
+
+            
             if (!check.match(/done/))
             {
                 var oldFunct = menu.funct;
@@ -45,16 +50,17 @@ Draw.loadPlugin(function(ui)
                 check = 'done';
             }
 
-        }else{
-            console.log('menu dont exists.... create menu harwig');
-            
-            // Adds menu
-            ui.menubar.addMenu('Harwig', function(menu, parent)
-            {		
-                ui.menus.addMenuItems(menu, ['-', 'resize']);
-            });
-
         }
+        // else{
+        //     console.log('menu dont exists.... create menu harwig');
+            
+        //     // Adds menu
+        //     ui.menubar.addMenu('Harwig', function(menu, parent)
+        //     {		
+        //         ui.menus.addMenuItems(menu, ['-', 'resize']);
+        //     });
+
+        // }
 
     }
 
