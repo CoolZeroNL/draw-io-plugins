@@ -26,8 +26,10 @@ Draw.loadPlugin(function(ui)
     var check = '';   
     for (index = 0; index < cmenu.childNodes.length; ++index) {
         var menu = cmenu.childNodes[index].text;
+        console.log(menu);
         console.log('check');
         console.log(check);
+
         if (menu == 'Harwig')
         {
             
@@ -35,7 +37,6 @@ Draw.loadPlugin(function(ui)
             
             var res = check.match(/done/g);
             console.log(res);
-
             
             if (!check.match(/done/))
             {
