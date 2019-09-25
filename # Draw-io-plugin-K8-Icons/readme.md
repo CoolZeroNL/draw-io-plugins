@@ -10,3 +10,5 @@ run.sh
     - create_icons_list.sh
     - create_xml.sh
     
+
+This will download the icons repo, extract the svg files. Build a list of files, and generates a xml for drawa.io
