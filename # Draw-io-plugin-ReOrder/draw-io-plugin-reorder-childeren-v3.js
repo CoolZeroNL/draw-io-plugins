@@ -51,18 +51,18 @@ Draw.loadPlugin(function(ui)
             menu.funct = function(menu, parent)
             {
                     oldFunct.apply(this, arguments);
-                    ui.menus.addMenuItems(menu, ['reorder'], parent);
+                    ui.menus.addMenuItem(menu, ['reorder'], parent);
                     ui.menus.addMenuItems(menu, ['-', 'dummy'], parent);
             };
 
         }else{
 
-            // Adds menu
-            ui.menubar.addMenu('Harwig', function(menu, parent)
-            {		
-                ui.menus.addMenuItem(menu, 'reorder');
-                ui.menus.addMenuItems(menu, ['-', 'dummy']);
-            });
+                // Adds menu
+                ui.menubar.addMenu('Harwig', function(menu, parent)
+                {		
+                    ui.menus.addMenuItem(menu, 'reorder');
+                    ui.menus.addMenuItems(menu, ['-', 'dummy']);
+                });
 
         }
 
