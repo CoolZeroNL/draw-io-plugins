@@ -2,7 +2,7 @@
 
 ## need: sudo apt install gridsite-clients
 
-name='k8'
+name='stencil-k8'
 filename=$name'.xml'
 
 ## start:
