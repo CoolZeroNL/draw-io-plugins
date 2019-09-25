@@ -39,6 +39,6 @@ done
 echo '</shapes>' >> $filename
 
 
-# rm list
+rm list
 
 
