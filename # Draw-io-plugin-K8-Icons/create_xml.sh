@@ -8,8 +8,7 @@ filename=$name'.xml'
 ## start:
 echo '<shapes name="stencils.'"$name"'">' > $filename
 
-
-cat readme.md | grep .svg | while read line
+cat list | grep .svg | while read line
 do
    # do something with $line here
    item=`basename $line .svg`
@@ -37,5 +36,8 @@ done
 
 ## End
 echo '</shapes>' >> $filename
+
+
+rm list
 
 
