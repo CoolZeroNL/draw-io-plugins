@@ -13,9 +13,10 @@ do
    # do something with $line here
    item=`basename $line .svg`
    url=`urlencode $line`
-   
+   label=$(basename $(dirname $line))
+
 cat >>$filename <<EOL
-	<shape name="k8_icons_${item}" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_${item}_${label}" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -38,6 +39,6 @@ done
 echo '</shapes>' >> $filename
 
 
-rm list
+# rm list
 
 

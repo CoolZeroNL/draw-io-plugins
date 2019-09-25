@@ -1,5 +1,1085 @@
 <shapes name="stencils.stencil-k8">
-	<shape name="k8_icons_api" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_api_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fapi.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_c-c-m_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fc-c-m.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_c-m_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fc-m.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_k-proxy_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fk-proxy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_kubelet_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fkubelet.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_sched_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fsched.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_etcd_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fetcd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_master_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fmaster.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_node_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fnode.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_etcd_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fetcd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_master_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fmaster.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_node_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fnode.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_c-role_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fc-role.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_cm_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcm.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_crb_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcrb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_crd_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcrd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_cronjob_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcronjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_deploy_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fdeploy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ds_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fds.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ep_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fep.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_group_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fgroup.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_hpa_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fhpa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ing_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fing.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_job_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_limits_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Flimits.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_netpol_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fnetpol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ns_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fns.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_pod_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpod.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_psp_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpsp.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_pv_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpv.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_pvc_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_quota_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fquota.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_rb_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_role_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frole.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_rs_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frs.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_sa_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_sc_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_secret_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsecret.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_sts_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsts.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_svc_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_user_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fuser.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_vol_labeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fvol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_c-role_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fc-role.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_cm_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcm.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_crb_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcrb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_crd_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcrd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_cronjob_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcronjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_deploy_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fdeploy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ds_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fds.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ep_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fep.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_group_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fgroup.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_hpa_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fhpa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ing_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fing.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_job_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_limits_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Flimits.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_netpol_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fnetpol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_ns_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fns.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_pod_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpod.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_psp_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpsp.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_pv_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpv.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_pvc_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_quota_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fquota.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_rb_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_role_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frole.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_rs_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frs.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_sa_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_sc_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_secret_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsecret.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_sts_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsts.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_svc_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_user_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fuser.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_vol_unlabeled" w="64" h="64" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficonhttps%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fvol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+		</foreground>
+	</shape>
+	<shape name="k8_icons_api_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -14,7 +1094,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fapi.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_c-c-m" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_c-c-m_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -29,7 +1109,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fc-c-m.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_c-m" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_c-m_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -44,7 +1124,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fc-m.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_k-proxy" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_k-proxy_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -59,7 +1139,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fk-proxy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_kubelet" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_kubelet_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -74,7 +1154,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fkubelet.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_sched" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_sched_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -89,7 +1169,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fsched.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_etcd" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_etcd_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -104,7 +1184,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fetcd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_master" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_master_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -119,7 +1199,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fmaster.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_node" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_node_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -134,7 +1214,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fnode.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_etcd" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_etcd_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -149,7 +1229,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fetcd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_master" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_master_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -164,7 +1244,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fmaster.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_node" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_node_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -179,7 +1259,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fnode.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_c-role" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_c-role_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -194,7 +1274,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fc-role.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_cm" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_cm_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -209,7 +1289,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcm.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_crb" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_crb_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -224,7 +1304,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcrb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_crd" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_crd_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -239,7 +1319,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcrd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_cronjob" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_cronjob_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -254,7 +1334,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcronjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_deploy" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_deploy_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -269,7 +1349,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fdeploy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ds" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ds_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -284,7 +1364,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fds.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ep" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ep_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -299,7 +1379,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fep.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_group" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_group_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -314,7 +1394,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fgroup.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_hpa" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_hpa_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -329,7 +1409,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fhpa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ing" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ing_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -344,7 +1424,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fing.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_job" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_job_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -359,7 +1439,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_limits" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_limits_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -374,7 +1454,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Flimits.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_netpol" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_netpol_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -389,7 +1469,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fnetpol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ns" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ns_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -404,7 +1484,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fns.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_pod" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_pod_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -419,7 +1499,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpod.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_psp" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_psp_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -434,7 +1514,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpsp.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_pv" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_pv_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -449,7 +1529,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpv.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_pvc" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_pvc_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -464,7 +1544,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_quota" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_quota_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -479,7 +1559,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fquota.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_rb" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_rb_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -494,7 +1574,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_role" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_role_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -509,7 +1589,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frole.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_rs" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_rs_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -524,7 +1604,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frs.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_sa" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_sa_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -539,7 +1619,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_sc" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_sc_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -554,7 +1634,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_secret" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_secret_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -569,7 +1649,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsecret.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_sts" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_sts_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -584,7 +1664,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsts.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_svc" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_svc_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -599,7 +1679,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_user" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_user_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -614,7 +1694,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fuser.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_vol" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_vol_labeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -629,7 +1709,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fvol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_c-role" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_c-role_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -644,7 +1724,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fc-role.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_cm" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_cm_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -659,7 +1739,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcm.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_crb" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_crb_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -674,7 +1754,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcrb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_crd" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_crd_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -689,7 +1769,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcrd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_cronjob" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_cronjob_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -704,7 +1784,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcronjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_deploy" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_deploy_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -719,7 +1799,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fdeploy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ds" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ds_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -734,7 +1814,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fds.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ep" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ep_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -749,7 +1829,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fep.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_group" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_group_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -764,7 +1844,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fgroup.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_hpa" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_hpa_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -779,7 +1859,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fhpa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ing" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ing_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -794,7 +1874,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fing.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_job" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_job_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -809,7 +1889,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_limits" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_limits_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -824,7 +1904,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Flimits.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_netpol" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_netpol_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -839,7 +1919,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fnetpol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_ns" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_ns_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -854,7 +1934,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fns.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_pod" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_pod_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -869,7 +1949,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpod.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_psp" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_psp_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -884,7 +1964,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpsp.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_pv" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_pv_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -899,7 +1979,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpv.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_pvc" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_pvc_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -914,7 +1994,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_quota" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_quota_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -929,7 +2009,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fquota.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_rb" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_rb_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -944,7 +2024,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_role" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_role_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -959,7 +2039,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frole.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_rs" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_rs_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -974,7 +2054,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frs.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_sa" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_sa_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -989,7 +2069,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_sc" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_sc_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -1004,7 +2084,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_secret" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_secret_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -1019,7 +2099,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsecret.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_sts" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_sts_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -1034,7 +2114,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsts.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_svc" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_svc_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -1049,7 +2129,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_user" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_user_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
@@ -1064,7 +2144,7 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fuser.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
-	<shape name="k8_icons_vol" w="64" h="64" aspect="variable">
+	<shape name="k8_icons_vol_unlabeled" w="64" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
