@@ -14,81 +14,11 @@ Draw.loadPlugin(function(ui)
     // Adds resource for action
     mxResources.parse('resize=Resize');
 
-    // function myFunction(item, index) {
-    //     //document.getElementById("demo").innerHTML += index + ":" + item + "<br>";
-    //     console.log(item);
-    //     console.log(item[index].text);
-    //     console.log(index);
-    //   }
-
-    var cmenu = ui.menubar.container; 
-    var index;
-    var check = '';   
-    for (index = 0; index < cmenu.childNodes.length; ++index) {
-        var menu = cmenu.childNodes[index].text;
-        console.log(menu);
-        console.log('check');
-        console.log(check);
-
-        if (menu == 'Harwig')
-        {
-            
-            console.log('menu exists.... harwig');
-            
-            var res = check.match(/done/g);
-            console.log(res);
-            
-            if (!check.match(/done/))
-            {
-                var oldFunct = menu.funct;
-
-                menu.funct = function(menu, parent)
-                {
-                        oldFunct.apply(this, arguments);
-                        ui.menus.addMenuItems(menu, ['-', 'resize'], parent);
-                };
-
-                check = 'done';
-            }
-
-        }
-        // else{
-        //     console.log('menu dont exists.... create menu harwig');
-            
-        //     // Adds menu
-        //     ui.menubar.addMenu('Harwig', function(menu, parent)
-        //     {		
-        //         ui.menus.addMenuItems(menu, ['-', 'resize']);
-        //     });
-
-        // }
-
-    }
-
-
-    
-
-    // if (menu != null)
-    // {
-    //     // update menu
-    //     var oldFunct = menu.funct;
-
-    //     menu.funct = function(menu, parent)
-    //     {
-    //             oldFunct.apply(this, arguments);
-    //             ui.menus.addMenuItems(menu, ['-', 'resize'], parent);
-    //     };
-
-    // }else{
-
-    //     // Adds menu
-    //     ui.menubar.addMenu('Harwig', function(menu, parent)
-    //     {		
-    //         ui.menus.addMenuItems(menu, ['-', 'resize']);
-    //     });
-
-    // }
-
+    // Adds menu
+    ui.menubar.addMenu('Harwig', function(menu, parent)
+    {		
+        ui.menus.addMenuItems(menu, ['-', 'resize']);
+    });
 
        
     // Adds actions
