@@ -4,6 +4,8 @@ URL for Draw.IO: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZ
 
 
 # Scripts:
+run.sh
 
-create_xml.sh
-create_icons_list.sh
+- Will exuclude: 
+    - create_xml.sh
+    - create_icons_list.sh
