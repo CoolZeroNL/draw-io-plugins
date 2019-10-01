@@ -35,6 +35,14 @@ fetch('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw
     console.log(data)
   })
 
+  var xhr=new XMLHttpRequest();
+  xhr.open("GET","https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts.css?maxAge=10");
+  xhr.onload=function(){
+      console.log(xhr.responseText);
+  }
+  xhr.send();
+
+
 window.onload = function() { appendStyle(styles) };
 
 //############################################################################################################################
