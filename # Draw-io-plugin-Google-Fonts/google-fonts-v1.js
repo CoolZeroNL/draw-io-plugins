@@ -1,5 +1,3 @@
-console.log('google-fonts loaded');
-
 // APPEND CURRENT CSS //############################################################################################################################
 function appendStyle(styles) {
     console.log(styles);
