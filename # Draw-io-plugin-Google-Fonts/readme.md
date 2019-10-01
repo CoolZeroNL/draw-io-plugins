@@ -5,7 +5,7 @@
 - [Index](#index)
 - [1. Usage:](#1-usage)
     - [1.1. Draw.io](#11-drawio)
-- [2. Update Google Fonts file ?](#2-update-google-fonts-file-)
+- [2. Update Google Fonts files ?](#2-update-google-fonts-files-)
 - [3. Identifying your application to Google](#3-identifying-your-application-to-google)
 - [4. Ignore file](#4-ignore-file)
 - [5. write key to file](#5-write-key-to-file)
@@ -23,7 +23,7 @@
 ## 1.1. Draw.io 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
 
-# 2. Update Google Fonts file ?
+# 2. Update Google Fonts files ?
 
 1. Get a API_Key of your google ID
 2. Run Script:
