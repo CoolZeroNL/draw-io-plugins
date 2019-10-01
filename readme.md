@@ -62,8 +62,11 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/draw-io-plugin-securit-huisstyle-v1.js?maxAge=10
 
   - Will Do:
-    - Add Stencil: SecurIT
-    - Load Custom Font: Libre Franklin
+    - Add Stencil: 
+      - SecurIT
+      
+    - Load Custom Font: 
+      - Libre Franklin
 
     <p align="center">
       <img width="25%" src="./readme.images/securit-stencils.png">
