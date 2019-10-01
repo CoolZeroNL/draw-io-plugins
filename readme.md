@@ -48,6 +48,10 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
     - Roboto
     - Open Sans
 
+    <p align="center">
+      <img width="25%" src="./readme.images/google-fonts-fonts.png">
+    </p>
+
 ## 1.5. SecurIT Huisstijl
 <!-- 
 - more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
@@ -61,10 +65,10 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
     - Add Stencil: SecurIT
     - Load Custom Font: Libre Franklin
 
-<p align="center">
-  <img width="25%" src="./readme.images/securit-stencils.png">
-  <img width="25%" src="./readme.images/securit-fonts.png">
-</p>
+    <p align="center">
+      <img width="25%" src="./readme.images/securit-stencils.png">
+      <img width="25%" src="./readme.images/securit-fonts.png">
+    </p>
 
 # 2. Install Plugin Within Draw-io
 
