@@ -25,13 +25,13 @@ https://console.developers.google.com/apis/credentials
 # write key to file
 echo '{API_KEY}' > google.key
 
-Run:
+# Run script:
 ```
 ./grepfonts.sh `cat google.key`
 ```
 
 
-# Files:
+# Explaining Files:
 
 ## grepfonts.sh
 is the script that do the magic.
