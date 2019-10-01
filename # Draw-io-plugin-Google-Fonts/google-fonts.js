@@ -27,26 +27,31 @@ var styles = `
   }
 `;
 
+fetch('http://localhost/foo.txt')
+  .then(response => response.text())
+  .then((data) => {
+    console.log(data)
+  })
 
 window.onload = function() { appendStyle(styles) };
 
 //############################################################################################################################
 
-Draw.loadPlugin(function(ui)
-{ 
+// Draw.loadPlugin(function(ui)
+// { 
   // get current custom fonts
-  const curfonts = ui.menus.customFonts;
+  // const curfonts = ui.menus.customFonts;
   
   // add Libre Franklin
-  curfonts.push("Libre Franklin");
+  // curfonts.push("Libre Franklin");
 
   // Removes dubs and set customFonts.
-  ui.menus.customFonts = ([...new Set(curfonts)]);
+  // ui.menus.customFonts = ([...new Set(curfonts)]);
 
   // add manuel
   //ui.menus.customFonts = ["Libre Franklin"];
 
-});
+// });
 
 
 
