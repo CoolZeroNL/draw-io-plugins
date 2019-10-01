@@ -29,7 +29,7 @@ var styles = `
   }
 `;
 
-fetch('http://localhost/foo.txt')
+fetch('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts.css?maxAge=10')
   .then(response => response.text())
   .then((data) => {
     console.log(data)
