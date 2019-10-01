@@ -1,6 +1,6 @@
 // APPEND CURRENT CSS //############################################################################################################################
 function appendStyle(styles) {
-    console.log(styles);
+    
   var css = document.createElement('style');
   css.type = 'text/css';
 
