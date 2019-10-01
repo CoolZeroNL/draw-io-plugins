@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Harwig Tools` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
 
 <p align="center">
-  <img width="25%" src="./readme.images/example-draw-io-plugin-resize.gif">
+  <img width="50%" src="./readme.images/example-draw-io-plugin-resize.gif">
 </p>
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReSize/draw-io-plugin-resize-v1.js?maxAge=10
