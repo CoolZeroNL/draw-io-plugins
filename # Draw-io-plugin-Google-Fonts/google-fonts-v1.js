@@ -2,6 +2,7 @@ console.log('google-fonts loaded');
 
 // APPEND CURRENT CSS //############################################################################################################################
 function appendStyle(styles) {
+    console.log(styles);
   var css = document.createElement('style');
   css.type = 'text/css';
 
@@ -11,57 +12,28 @@ function appendStyle(styles) {
   document.getElementsByTagName("head")[0].appendChild(css);
 }
 
-//   var styles = "@font-face { font-family: 'Marvel'; src: url(/confluence/download/attachments/851969/Marvel-Regular.ttf?api=v2) format('truetype')}";
-//   styles += ' #content { color: blue; text-align: left; }';
-
-var styles = `
-  @font-face {
-      font-family: 'Libre Franklin';
-      font-style: normal;
-      font-weight: 400;
-      src: url('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.fonts/libre-franklin-v4-latin-regular.ttf?maxAge=10'); /* IE9 Compat Modes */
-      src: local('Libre Franklin'), local('LibreFranklin-Regular'),
-          url('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.fonts/libre-franklin-v4-latin-regular.eot?maxAge=10') format('embedded-opentype'), /* IE6-IE8 */
-          url('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.fonts/libre-franklin-v4-latin-regular.woff2?maxAge=10') format('woff2'), /* Super Modern Browsers */
-          url('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.fonts/libre-franklin-v4-latin-regular.woff?maxAge=10') format('woff'), /* Modern Browsers */
-          url('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.fonts/libre-franklin-v4-latin-regular.ttf?maxAge=10') format('truetype'), /* Safari, Android, iOS */
-          url('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.fonts/libre-franklin-v4-latin-regular.svg?maxAge=10#LibreFranklin') format('svg'); /* Legacy iOS */
-  }
-`;
-
 fetch('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts.css?maxAge=10')
   .then(response => response.text())
   .then((data) => {
-    console.log(data)
+        appendStyle(data);
   })
-
-  var xhr=new XMLHttpRequest();
-  xhr.open("GET","https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts.css?maxAge=10");
-  xhr.onload=function(){
-      console.log(xhr.responseText);
-  }
-  xhr.send();
-
-
-window.onload = function() { appendStyle(styles) };
 
 //############################################################################################################################
 
-// Draw.loadPlugin(function(ui)
-// { 
-  // get current custom fonts
-  // const curfonts = ui.menus.customFonts;
+Draw.loadPlugin(function(ui)
+{ 
+//   get current custom fonts
+     const curfonts = ui.menus.customFonts;
   
-  // add Libre Franklin
-  // curfonts.push("Libre Franklin");
+//   add Roboto
+     curfonts.push("Roboto");
+     curfonts.push("Open Sans");
+     curfonts.push("Libre Franklin");
 
-  // Removes dubs and set customFonts.
-  // ui.menus.customFonts = ([...new Set(curfonts)]);
-
-  // add manuel
-  //ui.menus.customFonts = ["Libre Franklin"];
-
-// });
+//   Removes dubs and set customFonts.
+     ui.menus.customFonts = ([...new Set(curfonts)]);
+});
 
 
 
+ 
