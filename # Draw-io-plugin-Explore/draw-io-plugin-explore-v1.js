@@ -266,44 +266,45 @@ Draw.loadPlugin(function(ui) {
                 // edit jhg
                 console.log("cells:");
                 console.log(cells);
+            }
 
-                try {
-                    let celllink = cells[0].target.value.attributes[1].value; // this is the url !
-                    let cellvalue = cells[0].target.value.attributes[0].value; // this is the url !
+            try {
+                let celllink = cells[0].target.value.attributes[1].value; // this is the url !
+                let cellvalue = cells[0].target.value.attributes[0].value; // this is the url !
 
-                    console.log(cells[0].target.value.attributes);
-                    console.log(cells[0].target.value);
-                    console.log(cells[0].target);
-                    console.log('v0.87');
-                    console.log(cellvalue);
+                console.log(cells[0].target.value.attributes);
+                console.log(cells[0].target.value);
+                console.log(cells[0].target);
+                console.log('v0.87');
+                console.log(cellvalue);
 
-                    // console.log(document.querySelector("body > div.mxTooltip"));
-                    // console.log(document.getElementsByClassName("mxTooltip"));
-                    console.log(celllink);
-                    console.log("change");
+                // console.log(document.querySelector("body > div.mxTooltip"));
+                // console.log(document.getElementsByClassName("mxTooltip"));
+                console.log(celllink);
+                console.log("change");
 
-                    // document.querySelector('body > div:nth-child(19) > svg > g > g:nth-child(2) > g:nth-child(3) > g > foreignObject > div > div').innerHTML = '1234';
-                    console.log('arr');
+                // document.querySelector('body > div:nth-child(19) > svg > g > g:nth-child(2) > g:nth-child(3) > g > foreignObject > div > div').innerHTML = '1234';
+                console.log('arr');
 
-                    function getElementsByText(str, tag = 'div') {
-                        return Array.prototype.slice.call(document.getElementsByTagName(tag)).filter(el => el.textContent.trim() === str.trim());
-                    }
-
-                    console.log(getElementsByText(cellvalue, 'div'));
-                    getElementsByText(cellvalue, 'g').forEach(function(element) {
-                        console.log('arr');
-                        console.log(element);
-                        element.innerHTML = '<a target="_blank" href="' + celllink + '">' + cellvalue + '</a>';
-                    });
-                    console.log('end arr');
-
-
-                } catch (NullException) {
-                    let dummy = '';
+                function getElementsByText(str, tag = 'div') {
+                    return Array.prototype.slice.call(document.getElementsByTagName(tag)).filter(el => el.textContent.trim() === str.trim());
                 }
 
+                console.log(getElementsByText(cellvalue, 'div'));
+                getElementsByText(cellvalue, 'g').forEach(function(element) {
+                    console.log('arr');
+                    console.log(element);
+                    element.innerHTML = '<a target="_blank" href="' + celllink + '">' + cellvalue + '</a>';
+                });
+                console.log('end arr');
 
+
+            } catch (NullException) {
+                let dummy = '';
             }
+
+
+
 
 
 
