@@ -148,7 +148,7 @@ Draw.loadPlugin(function(ui) {
                     var cell = model.cells[id];
 
                     graph.setCellStyles(mxConstants.STYLE_FONTSIZE, '22', cell);
-
+                    graph.refresh(); // update the graph
                 }
 
 
@@ -159,7 +159,7 @@ Draw.loadPlugin(function(ui) {
 
         }
 
-    }, null, null, 'v1.9.9.2');
+    }, null, null, 'v1.9.9.3');
 
 
 
