@@ -149,6 +149,7 @@ Draw.loadPlugin(function(ui) {
                     var cell = model.cells[id];
                     console.log(cell);
 
+                    cell.syle = 'rounded=0;whiteSpace=wrap;html=1;fontFamily=Libre Franklin;fontSize=22;';
                     graph.setCellStyles(mxConstants.STYLE_FONTSIZE, '22', cell);
                     graph.refresh(); // update the graph
                 }
@@ -163,7 +164,7 @@ Draw.loadPlugin(function(ui) {
 
         }
 
-    }, null, null, 'v1.9.9.4');
+    }, null, null, 'v1.9.9.5');
 
 
 
