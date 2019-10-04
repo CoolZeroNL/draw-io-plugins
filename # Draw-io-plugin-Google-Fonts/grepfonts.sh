@@ -39,3 +39,8 @@ done < <(cat "$OUTPUT_FILE" | jq -c -r .[]);
 echo ${foo}
 
 curl https://fonts.googleapis.com/css?family=${foo} > google-fonts.css
+
+
+########################################
+
+sed -i -r 's/\+/ /g' $OUTPUT_FILE
