@@ -135,7 +135,7 @@ Draw.loadPlugin(function(ui) {
 
             // Vertices
             var style = graph.getStylesheet().getDefaultEdgeStyle();
-            style[mxConstants.STYLE_FONTFAMILY] = "Salesforce Sans";
+            style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
             style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
             style[mxConstants.STYLE_FOLDABLE] = 0;
             style[mxConstants.STYLE_ARCSIZE] = 9;
@@ -151,22 +151,22 @@ Draw.loadPlugin(function(ui) {
             graph.getStylesheet().putCellStyle("edge_style", style);
 
             // Edges
-            var style = graph.getStylesheet().getDefaultEdgeStyle();
-            style[mxConstants.STYLE_ROUNDED] = true;
-            style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
-            style[mxConstants.STYLE_FONTFAMILY] = "Salesforce Sans";
-            style[mxConstants.STYLE_STROKEWIDTH] = 3;
-            style[mxConstants.STYLE_OPACITY] = 75;
-            style[mxConstants.STYLE_SOURCE_PERIMETER_SPACING] = 5;
-            style[mxConstants.STYLE_TARGET_PERIMETER_SPACING] = 5;
-            style[mxConstants.STYLE_JETTY_SIZE] = 'auto';
-            // graph.getStylesheet().putCellStyle(styles.edge, style);
-            graph.getStylesheet().putCellStyle("edge_style", style);
+            // var style = graph.getStylesheet().getDefaultEdgeStyle();
+            // style[mxConstants.STYLE_ROUNDED] = true;
+            // style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
+            // style[mxConstants.STYLE_FONTFAMILY] = "Salesforce Sans";
+            // style[mxConstants.STYLE_STROKEWIDTH] = 3;
+            // style[mxConstants.STYLE_OPACITY] = 75;
+            // style[mxConstants.STYLE_SOURCE_PERIMETER_SPACING] = 5;
+            // style[mxConstants.STYLE_TARGET_PERIMETER_SPACING] = 5;
+            // style[mxConstants.STYLE_JETTY_SIZE] = 'auto';
+            // // graph.getStylesheet().putCellStyle(styles.edge, style);
+            // graph.getStylesheet().putCellStyle("edge_style", style);
 
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.6');
+    }, null, null, 'v1.7');
 
 
 
