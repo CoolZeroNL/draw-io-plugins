@@ -45,7 +45,7 @@ This plugin enables u to reorder childeren of a root object within draw.io. To u
 <!-- https://github.com/jgraph/drawio/issues/577 -->
 This plugin enables you the use of all the google fonts within draw.io.
 
-I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But you can load more if u want by entering the name of the font family in the `Font` -> `custom...` option.
+I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But you can load more if u want by entering the name of the font family in the `Font` -> `Custom...` option.
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
   
