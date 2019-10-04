@@ -180,7 +180,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.9.4');
+    }, null, null, 'v1.9.5');
 
 
 
