@@ -287,6 +287,7 @@ Draw.loadPlugin(function(ui) {
 
                     //console.log(getElementsByText('Wanted Size', 'div'));
                     getElementsByText('Wanted Size', 'div').forEach(function(element) {
+                        console.log('arr');
                         console.log(element);
                     });
 
