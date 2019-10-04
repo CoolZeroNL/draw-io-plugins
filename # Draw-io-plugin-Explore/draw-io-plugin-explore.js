@@ -270,7 +270,10 @@ Draw.loadPlugin(function(ui) {
                     let vari = cells[0].target.value.attributes[1].value; // this is the url !
                     console.log(cells[0].target.value.attributes);
 
-                    console.log('v0.2');
+                    console.log('v0.3');
+
+
+                    console.log(document.querySelector("body > div.mxTooltip"));
 
                     console.log(vari);
                     console.log("change");
