@@ -37,6 +37,9 @@ window.onload = function() { appendStyle(styles) };
  */
 
 Draw.loadPlugin(function(ui) {
+
+    var graph = ui.editor.graph;
+
     // Adds custom sidebar entry
     //ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://draw.io/templates/flowcharts/flowchart_1.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
@@ -126,7 +129,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v3.0');
+    }, null, null, 'v1.0');
 
 
 
