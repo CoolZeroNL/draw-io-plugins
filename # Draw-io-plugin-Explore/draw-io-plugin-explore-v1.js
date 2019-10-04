@@ -274,7 +274,7 @@ Draw.loadPlugin(function(ui) {
                     console.log(cells[0].target.value.attributes);
                     console.log(cells[0].target.value);
                     console.log(cells[0].target);
-                    console.log('v0.86');
+                    console.log('v0.87');
                     console.log(cellvalue);
 
                     // console.log(document.querySelector("body > div.mxTooltip"));
@@ -290,7 +290,7 @@ Draw.loadPlugin(function(ui) {
                     }
 
                     console.log(getElementsByText(cellvalue, 'div'));
-                    getElementsByText(cellvalue, 'div').forEach(function(element) {
+                    getElementsByText(cellvalue, 'g').forEach(function(element) {
                         console.log('arr');
                         console.log(element);
                         element.innerHTML = '<a target="_blank" href="' + celllink + '">' + cellvalue + '</a>';
