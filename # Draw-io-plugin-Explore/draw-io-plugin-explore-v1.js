@@ -270,11 +270,12 @@ Draw.loadPlugin(function(ui) {
                 try {
                     let vari = cells[0].target.value.attributes[1].value; // this is the url !
                     let cellvalue = cells[0].target.value.attributes[0].value; // this is the url !
+
                     console.log(cells[0].target.value.attributes);
                     console.log(cells[0].target.value);
                     console.log(cells[0].target);
                     console.log('v0.84');
-
+                    console.log(cellvalue);
 
                     // console.log(document.querySelector("body > div.mxTooltip"));
                     // console.log(document.getElementsByClassName("mxTooltip"));
@@ -288,11 +289,11 @@ Draw.loadPlugin(function(ui) {
                         return Array.prototype.slice.call(document.getElementsByTagName(tag)).filter(el => el.textContent.trim() === str.trim());
                     }
 
-                    console.log(getElementsByText(element, 'div'));
+                    console.log(getElementsByText(cellvalue, 'div'));
                     getElementsByText(cellvalue, 'div').forEach(function(element) {
                         console.log('arr');
                         console.log(element);
-                        element.innerHTML = '<a href="">' + element + '</a>';
+                        element.innerHTML = '<a href="">' + cellvalue + '</a>';
                     });
                     console.log('end arr');
 
