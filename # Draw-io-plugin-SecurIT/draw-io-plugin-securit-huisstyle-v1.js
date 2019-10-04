@@ -92,7 +92,7 @@ Draw.loadPlugin(function(ui) {
             // style[mxConstants.STYLE_SHAPE] = 'swimlane';
             // style[mxConstants.STYLE_STARTSIZE] = 30;
             // style[mxConstants.STYLE_DIRECTION] = 'north';
-            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            style[mxConstants.STYLE_FONTFAMILY] = 'Libre Franklin';
             style[mxConstants.STYLE_FONTSIZE] = '22';
             graph.getStylesheet().putCellStyle('sit', style);
 
@@ -101,7 +101,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.9.7');
+    }, null, null, 'v1.9.8');
 
 
 
