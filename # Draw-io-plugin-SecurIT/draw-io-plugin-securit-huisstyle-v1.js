@@ -132,6 +132,7 @@ Draw.loadPlugin(function(ui) {
             // var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
             // edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
             // graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
+            var style = new Object();
             style[mxConstants.STYLE_VERTICAL_LABEL_POSITION] = 'top';
             style[mxConstants.STYLE_VERTICAL_ALIGN] = 'bottom';
             style[mxConstants.STYLE_FONTSIZE] = '18';
@@ -174,7 +175,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.8');
+    }, null, null, 'v1.9');
 
 
 
