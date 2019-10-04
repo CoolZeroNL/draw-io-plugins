@@ -134,7 +134,7 @@ Draw.loadPlugin(function(ui) {
             // graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
 
             // Vertices
-            style = new Object();
+            var style = graph.getStylesheet().getDefaultEdgeStyle();
             style[mxConstants.STYLE_FONTFAMILY] = "Salesforce Sans";
             style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
             style[mxConstants.STYLE_FOLDABLE] = 0;
@@ -147,10 +147,11 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_ROUNDED] = true;
             style[mxConstants.STYLE_SHADOW] = false;
             style[mxConstants.STYLE_ORTHOGONAL] = true;
-            graph.getStylesheet().putCellStyle(styles.step, style);
+            //graph.getStylesheet().putCellStyle(styles.step, style);
+            graph.getStylesheet().putCellStyle("edge_style", style);
 
             // Edges
-            var style = new Object();
+            var style = graph.getStylesheet().getDefaultEdgeStyle();
             style[mxConstants.STYLE_ROUNDED] = true;
             style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
             style[mxConstants.STYLE_FONTFAMILY] = "Salesforce Sans";
@@ -159,12 +160,13 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_SOURCE_PERIMETER_SPACING] = 5;
             style[mxConstants.STYLE_TARGET_PERIMETER_SPACING] = 5;
             style[mxConstants.STYLE_JETTY_SIZE] = 'auto';
-            graph.getStylesheet().putCellStyle(styles.edge, style);
+            // graph.getStylesheet().putCellStyle(styles.edge, style);
+            graph.getStylesheet().putCellStyle("edge_style", style);
 
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.5');
+    }, null, null, 'v1.6');
 
 
 
