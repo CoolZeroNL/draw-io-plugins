@@ -98,7 +98,7 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_STARTSIZE] = 30;
             style[mxConstants.STYLE_DIRECTION] = 'north';
             // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            // style[mxConstants.STYLE_FONTSIZE] = '18';
+            style[mxConstants.STYLE_FONTSIZE] = '22';
             // style = graph.getStylesheet().getDefaultEdgeStyle();
             // style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
             // style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
@@ -111,8 +111,8 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_STROKECOLOR] = 'none';
             style[mxConstants.STYLE_FILLCOLOR] = 'none';
             style[mxConstants.STYLE_FOLDABLE] = false;
-            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            style[mxConstants.STYLE_FONTSIZE] = '18';
+            // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            // style[mxConstants.STYLE_FONTSIZE] = '18';
             graph.getStylesheet().putCellStyle('column', style);
 
             // graph.alternateEdgeStyle = 'targetPortConstraint=west';
