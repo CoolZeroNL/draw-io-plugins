@@ -85,6 +85,7 @@ Draw.loadPlugin(function(ui) {
     // Adds actions
     ui.actions.addAction('sitrefont', function() {
         if (graph.isEnabled()) {
+            alert('hoi');
 
             // Sets global styles
             //var style = graph.getStylesheet().getDefaultEdgeStyle();
@@ -116,7 +117,7 @@ Draw.loadPlugin(function(ui) {
             var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
             edgeStyle[mxConstants.STYLE_EDITABLE] = 0;
             edgeStyle[mxConstants.STYLE_RESIZABLE] = 0;
-            //edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
+            edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
             edgeStyle[mxConstants.STYLE_ORTHOGONAL] = 0;
             edgeStyle[mxConstants.STYLE_STROKEWIDTH] = 1;
             edgeStyle[mxConstants.STYLE_BENDABLE] = 1;
