@@ -8,14 +8,11 @@
     - [1.3. Google Fonts](#13-google-fonts)
     - [1.4. SecurIT Huisstijl](#14-securit-huisstijl)
     - [1.5. Kubernetes K8 Icons](#15-kubernetes-k8-icons)
-    - [1.5. Explore (WIP)](#15-explore-wip)
+    - [1.6. Explore (WIP)](#16-explore-wip)
 - [2. Install Plugin Within Draw-io](#2-install-plugin-within-draw-io)
     - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
         - [2.1.1. Cors Proxy information:](#211-cors-proxy-information)
     - [2.2. Installation Steps](#22-installation-steps)
-- [3. Distribution:](#3-distribution)
-    - [3.1. Plugin: securit](#31-plugin-securit)
-    - [3.1. Plugin: Resize](#31-plugin-resize)
 
 <!-- /TOC -->
 
@@ -102,7 +99,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
       <img width="25%" src="./readme.images/k8-stencils.png">
     </p>
 
-## 1.5. Explore (WIP)
+## 1.6. Explore (WIP)
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore-v1.js?maxAge=10
 
@@ -166,12 +163,12 @@ Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality 
 
 
 <!-- 
-# 3. Distribution:
+ 3. Distribution:
 
-## 3.1. Plugin: securit
+ 3.1. Plugin: securit
 - Kyam
 
-## 3.1. Plugin: Resize
+ 3.2. Plugin: Resize
 - Rogier
 - Stefan
 - Peter
