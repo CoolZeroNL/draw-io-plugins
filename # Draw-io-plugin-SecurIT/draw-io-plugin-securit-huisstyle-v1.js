@@ -132,23 +132,31 @@ Draw.loadPlugin(function(ui) {
             // var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
             // edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
             // graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
+            style[mxConstants.STYLE_VERTICAL_LABEL_POSITION] = 'top';
+            style[mxConstants.STYLE_VERTICAL_ALIGN] = 'bottom';
+            style[mxConstants.STYLE_FONTSIZE] = '18';
+            //style[mxConstants.STYLE_FONTSTYLE] = 1;
+            style[mxConstants.STYLE_FONTCOLOR] = '#333';
+            style[mxConstants.STYLE_FONTFAMILY] = 'Lato-Regular';
+            style['fontWeight'] = 'regular';
+            graph.getStylesheet().putCellStyle('imagestart', style);
 
             // Vertices
-            var style = graph.getStylesheet().getDefaultEdgeStyle();
-            style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
-            style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
-            style[mxConstants.STYLE_FOLDABLE] = 0;
-            style[mxConstants.STYLE_ARCSIZE] = 9;
-            style[mxConstants.STYLE_FILLCOLOR] = "#A6B8CE";
-            style[mxConstants.STYLE_STROKECOLOR] = "#7591b3"; //original
-            style[mxConstants.STYLE_STROKEWIDTH] = 1;
-            style[mxConstants.STYLE_PERIMETER] = mxPerimeter.RectanglePerimeter;
-            style[mxConstants.STYLE_PERIMETER_SPACING] = 2;
-            style[mxConstants.STYLE_ROUNDED] = true;
-            style[mxConstants.STYLE_SHADOW] = false;
-            style[mxConstants.STYLE_ORTHOGONAL] = true;
-            //graph.getStylesheet().putCellStyle(styles.step, style);
-            graph.getStylesheet().putCellStyle("edge_style", style);
+            // var style = graph.getStylesheet().getDefaultEdgeStyle();
+            // style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
+            // style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
+            // style[mxConstants.STYLE_FOLDABLE] = 0;
+            // style[mxConstants.STYLE_ARCSIZE] = 9;
+            // style[mxConstants.STYLE_FILLCOLOR] = "#A6B8CE";
+            // style[mxConstants.STYLE_STROKECOLOR] = "#7591b3"; //original
+            // style[mxConstants.STYLE_STROKEWIDTH] = 1;
+            // style[mxConstants.STYLE_PERIMETER] = mxPerimeter.RectanglePerimeter;
+            // style[mxConstants.STYLE_PERIMETER_SPACING] = 2;
+            // style[mxConstants.STYLE_ROUNDED] = true;
+            // style[mxConstants.STYLE_SHADOW] = false;
+            // style[mxConstants.STYLE_ORTHOGONAL] = true;
+            // //graph.getStylesheet().putCellStyle(styles.step, style);
+            // graph.getStylesheet().putCellStyle("edge_style", style);
 
             // Edges
             // var style = graph.getStylesheet().getDefaultEdgeStyle();
