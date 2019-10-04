@@ -281,6 +281,17 @@ Draw.loadPlugin(function(ui) {
                     console.log("change");
                     document.querySelector('body > div:nth-child(19) > svg > g > g:nth-child(2) > g:nth-child(3) > g > foreignObject > div > div').innerHTML = '1234';
 
+                    function getElementsByText(str, tag = 'div') {
+                        return Array.prototype.slice.call(document.getElementsByTagName(tag)).filter(el => el.textContent.trim() === str.trim());
+                    }
+
+                    //console.log(getElementsByText('Wanted Size', 'div'));
+                    getElementsByText('Wanted Size', 'div').forEach(function(element) {
+                        console.log(element);
+                    });
+
+
+
                 } catch (NullException) {
                     let dummy = '';
                 }
