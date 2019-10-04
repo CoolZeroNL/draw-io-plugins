@@ -98,11 +98,11 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_STARTSIZE] = 30;
             style[mxConstants.STYLE_DIRECTION] = 'north';
 
-            style = graph.getStylesheet().getDefaultEdgeStyle();
-            style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
-            style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
-            style[mxConstants.STYLE_SOURCE_PORT] = 'south';
-            graph.setDefaultEdgeStyle(style);
+            // style = graph.getStylesheet().getDefaultEdgeStyle();
+            // style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
+            // style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
+            // style[mxConstants.STYLE_SOURCE_PORT] = 'south';
+            // graph.setDefaultEdgeStyle(style);
             //console.log(stil);
 
             style = [];
@@ -178,7 +178,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.9.1');
+    }, null, null, 'v1.9.2');
 
 
 
