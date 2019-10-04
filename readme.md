@@ -72,7 +72,7 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
 
 ## 1.5. Explore (WIP)
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore.js?maxAge=10
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore-v1.js?maxAge=10
 
   - Todo:
     - [] add link as url in cell ( is now as tooltip )
