@@ -38,7 +38,9 @@ window.onload = function() { appendStyle(styles) };
 
 Draw.loadPlugin(function(ui) {
 
-    var graph = ui.editor.graph;
+    // var graph = ui.editor.graph;
+    var graph = editorUi.editor.graph;
+    var model = graph.model;
 
     // Adds custom sidebar entry
     //ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://draw.io/templates/flowcharts/flowchart_1.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
@@ -93,50 +95,71 @@ Draw.loadPlugin(function(ui) {
             // style[mxConstants.STYLE_FONTSIZE] = '22';
             // graph.getStylesheet().putCellStyle('sit', style);
 
-            var style = graph.getStylesheet().getDefaultVertexStyle();
-            style[mxConstants.STYLE_SHAPE] = 'Modifier';
+            // var style = graph.getStylesheet().getDefaultVertexStyle();
+            // style[mxConstants.STYLE_SHAPE] = 'Modifier';
 
-            style[mxConstants.STYLE_VERTICAL_ALIGN] = mxConstants.ALIGN_MIDDLE;
-            style[mxConstants.STYLE_ALIGN] = mxConstants.ALIGN_MIDDLE;
-            style[mxConstants.STYLE_SPACING_LEFT] = 15;
+            // style[mxConstants.STYLE_VERTICAL_ALIGN] = mxConstants.ALIGN_MIDDLE;
+            // style[mxConstants.STYLE_ALIGN] = mxConstants.ALIGN_MIDDLE;
+            // style[mxConstants.STYLE_SPACING_LEFT] = 15;
 
-            style[mxConstants.STYLE_GRADIENTCOLOR] = '#D77D00';
-            style[mxConstants.STYLE_STROKECOLOR] = '#000000';
-            style[mxConstants.STYLE_FILLCOLOR] = '#000000'; // couleur de remplissage
+            // // style[mxConstants.STYLE_GRADIENTCOLOR] = '#D77D00';
+            // style[mxConstants.STYLE_STROKECOLOR] = '#000000';
+            // style[mxConstants.STYLE_FILLCOLOR] = '#000000'; // couleur de remplissage
 
-            style[mxConstants.STYLE_FONTCOLOR] = '#000000'; // couleur de Police
-            style[mxConstants.STYLE_FONTFAMILY] = 'Arial'; // La police
-            style[mxConstants.STYLE_FONTSIZE] = '25';
-            style[mxConstants.STYLE_FONTSTYLE] = '1';
+            // style[mxConstants.STYLE_FONTCOLOR] = '#000000'; // couleur de Police
+            // style[mxConstants.STYLE_FONTFAMILY] = 'Arial'; // La police
+            // style[mxConstants.STYLE_FONTSIZE] = '25';
+            // style[mxConstants.STYLE_FONTSTYLE] = '1';
 
-            style[mxConstants.STYLE_SHADOW] = '1';
-            style[mxConstants.STYLE_ROUNDED] = '1';
-            style[mxConstants.STYLE_GLASS] = '1';
+            // style[mxConstants.STYLE_SHADOW] = '1';
+            // style[mxConstants.STYLE_ROUNDED] = '1';
+            // style[mxConstants.STYLE_GLASS] = '1';
 
-            style[mxConstants.STYLE_IMAGE] = '';
-            style[mxConstants.STYLE_IMAGE_WIDTH] = '60';
-            style[mxConstants.STYLE_IMAGE_HEIGHT] = '30';
-            style[mxConstants.STYLE_SPACING] = 8;
+            // style[mxConstants.STYLE_IMAGE] = '';
+            // style[mxConstants.STYLE_IMAGE_WIDTH] = '60';
+            // style[mxConstants.STYLE_IMAGE_HEIGHT] = '30';
+            // style[mxConstants.STYLE_SPACING] = 8;
 
-            // D�finit le style par d�faut pour les bords
-            style = graph.getStylesheet().getDefaultEdgeStyle();
-            style[mxConstants.STYLE_ROUNDED] = false;
-            style[mxConstants.STYLE_STROKEWIDTH] = 3;
-            style[mxConstants.STYLE_EXIT_X] = 0.5; // center
-            style[mxConstants.STYLE_EXIT_Y] = 1.0; // bottom
-            style[mxConstants.STYLE_EXIT_PERIMETER] = 0; // disabled
-            style[mxConstants.STYLE_ENTRY_X] = 0.5; // center
-            style[mxConstants.STYLE_ENTRY_Y] = 0; // top
-            style[mxConstants.STYLE_ENTRY_PERIMETER] = 0; // disabled
+            // // D�finit le style par d�faut pour les bords
+            // style = graph.getStylesheet().getDefaultEdgeStyle();
+            // style[mxConstants.STYLE_ROUNDED] = false;
+            // style[mxConstants.STYLE_STROKEWIDTH] = 3;
+            // style[mxConstants.STYLE_EXIT_X] = 0.5; // center
+            // style[mxConstants.STYLE_EXIT_Y] = 1.0; // bottom
+            // style[mxConstants.STYLE_EXIT_PERIMETER] = 0; // disabled
+            // style[mxConstants.STYLE_ENTRY_X] = 0.5; // center
+            // style[mxConstants.STYLE_ENTRY_Y] = 0; // top
+            // style[mxConstants.STYLE_ENTRY_PERIMETER] = 0; // disabled
 
-            // Disable the following for straight lines
-            style[mxConstants.STYLE_EDGE] = mxEdgeStyle.TopToBottom;
+            // // Disable the following for straight lines
+            // style[mxConstants.STYLE_EDGE] = mxEdgeStyle.TopToBottom;
 
 
-            graph.refresh(); // update the graph
+            // graph.refresh(); // update the graph
+
+
+
+
+
+            model.beginUpdate();
+            try {
+
+                for (var id in model.cells) {
+                    var cell = model.cells[id];
+
+                    graph.setCellStyles(mxConstants.STYLE_FONTSIZE, '22', cell);
+
+                }
+
+
+            } finally {
+                model.endUpdate();
+            }
+
+
         }
 
-    }, null, null, 'v1.9.9.1');
+    }, null, null, 'v1.9.9.2');
 
 
 
