@@ -129,18 +129,21 @@ Draw.loadPlugin(function(ui) {
             // edgeStyle[mxConstants.HANDLE_FILLCOLOR] = '#000000'
             // edgeStyle[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
 
-            // var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
-            // edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
-            // graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
-            var style = new Object();
-            style[mxConstants.STYLE_VERTICAL_LABEL_POSITION] = 'top';
-            style[mxConstants.STYLE_VERTICAL_ALIGN] = 'bottom';
-            style[mxConstants.STYLE_FONTSIZE] = '18';
-            //style[mxConstants.STYLE_FONTSTYLE] = 1;
-            style[mxConstants.STYLE_FONTCOLOR] = '#333';
-            style[mxConstants.STYLE_FONTFAMILY] = 'Lato-Regular';
-            style['fontWeight'] = 'regular';
-            graph.getStylesheet().putCellStyle('imagestart', style);
+            var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
+            edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
+            edgeStyle[mxConstants.STYLE_FONTSIZE] = '18';
+            edgeStyle[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
+
+            // var style = new Object();
+            // style[mxConstants.STYLE_VERTICAL_LABEL_POSITION] = 'top';
+            // style[mxConstants.STYLE_VERTICAL_ALIGN] = 'bottom';
+            // style[mxConstants.STYLE_FONTSIZE] = '18';
+            // //style[mxConstants.STYLE_FONTSTYLE] = 1;
+            // style[mxConstants.STYLE_FONTCOLOR] = '#333';
+            // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            // style['fontWeight'] = 'regular';
+            // graph.getStylesheet().putCellStyle('imagestart', style);
 
             // Vertices
             // var style = graph.getStylesheet().getDefaultEdgeStyle();
@@ -175,7 +178,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.9');
+    }, null, null, 'v1.9.1');
 
 
 
