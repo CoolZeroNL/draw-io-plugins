@@ -130,7 +130,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.0');
+    }, null, null, 'v1.1');
 
 
 
