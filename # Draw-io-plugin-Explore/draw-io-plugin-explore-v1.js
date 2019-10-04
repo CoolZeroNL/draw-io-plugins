@@ -268,18 +268,18 @@ Draw.loadPlugin(function(ui) {
                 console.log(cells);
 
                 try {
-                    let vari = cells[0].target.value.attributes[1].value; // this is the url !
+                    let celllink = cells[0].target.value.attributes[1].value; // this is the url !
                     let cellvalue = cells[0].target.value.attributes[0].value; // this is the url !
 
                     console.log(cells[0].target.value.attributes);
                     console.log(cells[0].target.value);
                     console.log(cells[0].target);
-                    console.log('v0.85');
+                    console.log('v0.86');
                     console.log(cellvalue);
 
                     // console.log(document.querySelector("body > div.mxTooltip"));
                     // console.log(document.getElementsByClassName("mxTooltip"));
-                    console.log(vari);
+                    console.log(celllink);
                     console.log("change");
 
                     // document.querySelector('body > div:nth-child(19) > svg > g > g:nth-child(2) > g:nth-child(3) > g > foreignObject > div > div').innerHTML = '1234';
@@ -293,7 +293,7 @@ Draw.loadPlugin(function(ui) {
                     getElementsByText(cellvalue, 'div').forEach(function(element) {
                         console.log('arr');
                         console.log(element);
-                        element.innerHTML = '<a href="">' + cellvalue + '</a>';
+                        element.innerHTML = '<a target="_blank" href="' + celllink + '">' + cellvalue + '</a>';
                     });
                     console.log('end arr');
 
