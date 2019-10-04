@@ -156,7 +156,7 @@ Draw.loadPlugin(function(ui) {
                         mxText.prototype.prev = true;
                         graph.labelsVisible = true;
                         graph.refresh();
-                        //graph.tooltipHandler.hide();
+                        graph.tooltipHandler.hide();
                     });
                 });
 
