@@ -46,7 +46,7 @@ Draw.loadPlugin(function(ui) {
     //ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://draw.io/templates/flowcharts/flowchart_1.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Adds resource for action
-    mxResources.parse('sitrefont=Apply SecurIT Font to All Cells');
+    mxResources.parse('sitrefont=WIP - Apply SecurIT Font to All Cells');
 
     if (ui.editor.isChromelessView()) {
         return;
@@ -90,10 +90,10 @@ Draw.loadPlugin(function(ui) {
             // alert('hoi');
 
             // Sets global styles
-            // style = graph.getStylesheet().getDefaultVertexStyle();
-            // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            // style[mxConstants.STYLE_FONTSIZE] = '22';
-            // graph.getStylesheet().putCellStyle('sit', style);
+            style = graph.getStylesheet().getDefaultVertexStyle();
+            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            style[mxConstants.STYLE_FONTSIZE] = '22';
+            graph.getStylesheet().putCellStyle('sit', style);
 
             // var style = graph.getStylesheet().getDefaultVertexStyle();
             // style[mxConstants.STYLE_SHAPE] = 'Modifier';
