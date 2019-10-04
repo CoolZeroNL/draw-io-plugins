@@ -270,7 +270,7 @@ Draw.loadPlugin(function(ui) {
                     let vari = cells[0].target.value.attributes[1].value; // this is the url !
                     console.log(cells[0].target.value.attributes[1]);
 
-
+                    console.log('v0.1');
 
                     console.log(vari);
                     console.log("change");
