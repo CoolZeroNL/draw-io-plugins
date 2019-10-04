@@ -276,11 +276,13 @@ Draw.loadPlugin(function(ui) {
                     console.log('v0.81');
 
 
-                    console.log(document.querySelector("body > div.mxTooltip"));
-                    console.log(document.getElementsByClassName("mxTooltip"));
+                    // console.log(document.querySelector("body > div.mxTooltip"));
+                    // console.log(document.getElementsByClassName("mxTooltip"));
                     console.log(vari);
                     console.log("change");
-                    document.querySelector('body > div:nth-child(19) > svg > g > g:nth-child(2) > g:nth-child(3) > g > foreignObject > div > div').innerHTML = '1234';
+
+                    // document.querySelector('body > div:nth-child(19) > svg > g > g:nth-child(2) > g:nth-child(3) > g > foreignObject > div > div').innerHTML = '1234';
+                    console.log('arr');
 
                     function getElementsByText(str, tag = 'div') {
                         return Array.prototype.slice.call(document.getElementsByTagName(tag)).filter(el => el.textContent.trim() === str.trim());
@@ -291,7 +293,7 @@ Draw.loadPlugin(function(ui) {
                         console.log('arr');
                         console.log(element);
                     });
-
+                    console.log('end arr');
 
 
                 } catch (NullException) {
