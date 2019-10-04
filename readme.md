@@ -5,7 +5,7 @@
 - [1. Plugins:](#1-plugins)
     - [1.1. Resize (height & width by selected cell)](#11-resize-height--width-by-selected-cell)
     - [1.2. ReOrder Childeren](#12-reorder-childeren)
-    - [1.3. Explore](#13-explore)
+    - [1.3. Explore (WIP)](#13-explore-wip)
     - [1.4. Google Fonts](#14-google-fonts)
     - [1.5. SecurIT Huisstijl](#15-securit-huisstijl)
 - [2. Install Plugin Within Draw-io](#2-install-plugin-within-draw-io)
@@ -34,7 +34,7 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
 ## 1.2. ReOrder Childeren
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReOrder/draw-io-plugin-reorder-childeren-v3.js?maxAge=10
 
-## 1.3. Explore
+## 1.3. Explore (WIP)
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore.js?maxAge=10
 
 ## 1.4. Google Fonts
