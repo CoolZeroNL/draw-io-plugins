@@ -141,11 +141,13 @@ Draw.loadPlugin(function(ui) {
 
 
 
-            model.beginUpdate();
+            // model.beginUpdate();
+            graph.getModel().beginUpdate();
             try {
 
                 for (var id in model.cells) {
                     var cell = model.cells[id];
+                    console.log(cell);
 
                     graph.setCellStyles(mxConstants.STYLE_FONTSIZE, '22', cell);
                     graph.refresh(); // update the graph
@@ -153,13 +155,15 @@ Draw.loadPlugin(function(ui) {
 
 
             } finally {
-                model.endUpdate();
+                // model.endUpdate();
+                graph.getModel().endUpdate();
+                graph.refresh(); // update the graph
             }
 
 
         }
 
-    }, null, null, 'v1.9.9.3');
+    }, null, null, 'v1.9.9.4');
 
 
 
