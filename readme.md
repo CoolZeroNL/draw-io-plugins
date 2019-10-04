@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 # 1. Plugins:
 
 ## 1.1. Resize (height & width by selected cell)
-This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Harwig Tools` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
+This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Tool Resize` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
 
 <p align="center">
   <img width="50%" src="./readme.images/example-draw-io-plugin-resize.gif">
@@ -121,9 +121,9 @@ When using custom plugins, you will get a warning every times you open Draw.io, 
   <img width="50%" src="./readme.images/06-plugin-warning.png">
 </p>
 
-Now you see a extra menu item `Harwig Tools`. As a sub item the plugin functionality will be availible.
+Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality will be availible.
 <p align="center">
-  <img width="50%" src="./readme.images/07-menu-harwig.png">
+  <img width="50%" src="./readme.images/07-menu.png">
 </p>
 
 
