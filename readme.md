@@ -111,7 +111,9 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 ## 2.1. Use of CORS Proxy:
 Because the plugins are been included within draw.io the browser will block this, because the plugin is not on the same domain as draw.io is. So the browser will give the next error: `Refused to execute script from 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.` 
 
-To fix this u need to use a CORS proxy server.
+To fix this u need to use a CORS proxy server, and the urls are:
+
+`https://yacdn.org/serve/ {raw.githubusercontent.com url} ?maxAge=10`
 
 ### 2.1.1. Cors Proxy information:
 https://ovsoinc.github.io/yacdn.org/
