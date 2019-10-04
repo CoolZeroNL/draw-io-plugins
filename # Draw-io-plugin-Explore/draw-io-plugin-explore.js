@@ -157,6 +157,7 @@ Draw.loadPlugin(function(ui) {
                         graph.labelsVisible = true;
                         graph.refresh();
                         graph.tooltipHandler.hide();
+                        console.log('animate changes');
                     });
                 });
 
@@ -269,8 +270,8 @@ Draw.loadPlugin(function(ui) {
                 try {
                     let vari = cells[0].target.value.attributes[1].value; // this is the url !
                     console.log(cells[0].target.value.attributes);
-
-                    console.log('v0.4');
+                    console.log(cells[0].target.value);
+                    console.log('v0.5');
 
 
                     console.log(document.querySelector("body > div.mxTooltip"));
