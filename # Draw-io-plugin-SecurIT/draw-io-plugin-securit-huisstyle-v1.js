@@ -107,7 +107,7 @@ Draw.loadPlugin(function(ui) {
             // style[mxConstants.STYLE_FILLCOLOR] = '#000000'; // couleur de remplissage
 
             style[mxConstants.STYLE_FONTCOLOR] = '#000000'; // couleur de Police
-            style[mxConstants.STYLE_FONTFAMILY] = 'Arial'; // La police
+            style[mxConstants.STYLE_FONTFAMILY] = 'Libre Franklin'; // La police
             style[mxConstants.STYLE_FONTSIZE] = '25';
             style[mxConstants.STYLE_FONTSTYLE] = '1';
 
