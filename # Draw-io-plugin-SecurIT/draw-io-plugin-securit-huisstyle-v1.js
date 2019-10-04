@@ -88,7 +88,7 @@ Draw.loadPlugin(function(ui) {
             alert('hoi');
 
             // Sets global styles
-            //var style = graph.getStylesheet().getDefaultEdgeStyle();
+            var style = graph.getStylesheet().getDefaultEdgeStyle();
             //style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
             // style[mxConstants.STYLE_ROUNDED] = true;
 
@@ -105,12 +105,13 @@ Draw.loadPlugin(function(ui) {
             //graph.setDefaultEdgeStyle(stil);
             //console.log(stil);
 
-            //style = [];
-            // style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
-            // style[mxConstants.STYLE_STROKECOLOR] = 'none';
-            // style[mxConstants.STYLE_FILLCOLOR] = 'none';
-            // style[mxConstants.STYLE_FOLDABLE] = false;
-            // graph.getStylesheet().putCellStyle('column', style);
+            style = [];
+            style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
+            style[mxConstants.STYLE_STROKECOLOR] = 'none';
+            style[mxConstants.STYLE_FILLCOLOR] = 'none';
+            style[mxConstants.STYLE_FOLDABLE] = false;
+            style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
+            graph.getStylesheet().putCellStyle('column', style);
 
             // graph.alternateEdgeStyle = 'targetPortConstraint=west';
 
@@ -126,18 +127,16 @@ Draw.loadPlugin(function(ui) {
             // edgeStyle[mxConstants.STYLE_EDGE] = mxConstants.EDGESTYLE_ENTITY_RELATION;
             // edgeStyle[mxConstants.LABEL_HANDLE_SIZE] = 50;
             // edgeStyle[mxConstants.HANDLE_FILLCOLOR] = '#000000'
-
+            // edgeStyle[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
 
             var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
             edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
-            edgeStyle[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
-
             graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
 
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.3');
+    }, null, null, 'v1.4');
 
 
 
