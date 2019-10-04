@@ -104,7 +104,7 @@ Draw.loadPlugin(function(ui) {
 
             // style[mxConstants.STYLE_GRADIENTCOLOR] = '#D77D00';
             style[mxConstants.STYLE_STROKECOLOR] = '#000000';
-            style[mxConstants.STYLE_FILLCOLOR] = '#000000'; // couleur de remplissage
+            // style[mxConstants.STYLE_FILLCOLOR] = '#000000'; // couleur de remplissage
 
             style[mxConstants.STYLE_FONTCOLOR] = '#000000'; // couleur de Police
             style[mxConstants.STYLE_FONTFAMILY] = 'Arial'; // La police
@@ -141,7 +141,7 @@ Draw.loadPlugin(function(ui) {
 
         }
 
-    }, null, null, 'v1.9.9.6');
+    }, null, null, 'v1.9.9.7');
 
 
 
