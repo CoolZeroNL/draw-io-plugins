@@ -7,18 +7,19 @@
     - [1.2. ReOrder Childeren](#12-reorder-childeren)
     - [1.3. Google Fonts](#13-google-fonts)
     - [1.4. SecurIT Huisstijl](#14-securit-huisstijl)
+    - [1.5. Kubernetes K8 Icons](#15-kubernetes-k8-icons)
     - [1.5. Explore (WIP)](#15-explore-wip)
 - [2. Install Plugin Within Draw-io](#2-install-plugin-within-draw-io)
     - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
         - [2.1.1. Cors Proxy information:](#211-cors-proxy-information)
     - [2.2. Installation Steps](#22-installation-steps)
 - [3. Distribution:](#3-distribution)
+    - [3.1. Plugin: securit](#31-plugin-securit)
     - [3.1. Plugin: Resize](#31-plugin-resize)
 
 <!-- /TOC -->
 
 
-https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-server.svg?sanitize=true
 
 # 1. Plugins:
 
@@ -35,6 +36,8 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReOrder/draw-io-plugin-reorder-childeren-v3.js?maxAge=10
 
 ## 1.3. Google Fonts
+<!-- https://github.com/jgraph/drawio/issues/577 -->
+
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
   
   - Will do:
@@ -69,6 +72,15 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
       <img width="25%" src="./readme.images/securit-stencils.png">
       <img width="25%" src="./readme.images/securit-fonts.png">
     </p>
+
+## 1.5. Kubernetes K8 Icons
+
+<!-- Load SVG from RAW by `?sanitize=true` -->
+<!-- https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-server.svg?sanitize=true -->
+
+<!-- https://github.com/jgraph/drawio/issues/569 -->
+
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-K8-Icons/draw-io-plugin-k8-icons-v1.js?maxAge=10
 
 ## 1.5. Explore (WIP)
 
@@ -135,6 +147,9 @@ Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality 
 
 <!-- 
 # 3. Distribution:
+
+## 3.1. Plugin: securit
+- Kyam
 
 ## 3.1. Plugin: Resize
 - Rogier
