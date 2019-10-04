@@ -85,100 +85,23 @@ Draw.loadPlugin(function(ui) {
     // Adds actions
     ui.actions.addAction('sitrefont', function() {
         if (graph.isEnabled()) {
-            // alert('hoi');
 
             // Sets global styles
-            // var style = graph.getStylesheet().getDefaultEdgeStyle();
-            // style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
-            // style[mxConstants.STYLE_ROUNDED] = true;
-
             style = graph.getStylesheet().getDefaultVertexStyle();
             style[mxConstants.STYLE_FILLCOLOR] = '#ffffff';
             // style[mxConstants.STYLE_SHAPE] = 'swimlane';
             // style[mxConstants.STYLE_STARTSIZE] = 30;
             // style[mxConstants.STYLE_DIRECTION] = 'north';
-            // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
             style[mxConstants.STYLE_FONTSIZE] = '22';
-            // style = graph.getStylesheet().getDefaultEdgeStyle();
-            // style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
-            // style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
-            // style[mxConstants.STYLE_SOURCE_PORT] = 'south';
-
-            // style = [];
-            // style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
-            // style[mxConstants.STYLE_STROKECOLOR] = 'none';
-            // style[mxConstants.STYLE_FILLCOLOR] = 'none';
-            // style[mxConstants.STYLE_FOLDABLE] = false;
-            // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            // style[mxConstants.STYLE_FONTSIZE] = '18';
-            graph.getStylesheet().putCellStyle('column', style);
-
-            // graph.alternateEdgeStyle = 'targetPortConstraint=west';
+            graph.getStylesheet().putCellStyle('sit', style);
 
 
-
-            // edgeStyle[mxConstants.STYLE_EDITABLE] = 0;
-            // edgeStyle[mxConstants.STYLE_RESIZABLE] = 0;
-
-            // edgeStyle[mxConstants.STYLE_ORTHOGONAL] = 0;
-            // edgeStyle[mxConstants.STYLE_STROKEWIDTH] = 1;
-            // edgeStyle[mxConstants.STYLE_BENDABLE] = 1;
-            // edgeStyle[mxConstants.STYLE_ROUNDED] = true;
-            // edgeStyle[mxConstants.STYLE_EDGE] = mxConstants.EDGESTYLE_ENTITY_RELATION;
-            // edgeStyle[mxConstants.LABEL_HANDLE_SIZE] = 50;
-            // edgeStyle[mxConstants.HANDLE_FILLCOLOR] = '#000000'
-            // edgeStyle[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
-
-            var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
-            edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
-            // edgeStyle[mxConstants.STYLE_FONTSIZE] = '18';
-            // edgeStyle[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
-
-            // var style = new Object();
-            // style[mxConstants.STYLE_VERTICAL_LABEL_POSITION] = 'top';
-            // style[mxConstants.STYLE_VERTICAL_ALIGN] = 'bottom';
-            // style[mxConstants.STYLE_FONTSIZE] = '18';
-            // //style[mxConstants.STYLE_FONTSTYLE] = 1;
-            // style[mxConstants.STYLE_FONTCOLOR] = '#333';
-            // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            // style['fontWeight'] = 'regular';
-            // graph.getStylesheet().putCellStyle('imagestart', style);
-
-            // Vertices
-            // var style = graph.getStylesheet().getDefaultEdgeStyle();
-            // style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
-            // style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
-            // style[mxConstants.STYLE_FOLDABLE] = 0;
-            // style[mxConstants.STYLE_ARCSIZE] = 9;
-            // style[mxConstants.STYLE_FILLCOLOR] = "#A6B8CE";
-            // style[mxConstants.STYLE_STROKECOLOR] = "#7591b3"; //original
-            // style[mxConstants.STYLE_STROKEWIDTH] = 1;
-            // style[mxConstants.STYLE_PERIMETER] = mxPerimeter.RectanglePerimeter;
-            // style[mxConstants.STYLE_PERIMETER_SPACING] = 2;
-            // style[mxConstants.STYLE_ROUNDED] = true;
-            // style[mxConstants.STYLE_SHADOW] = false;
-            // style[mxConstants.STYLE_ORTHOGONAL] = true;
-            // //graph.getStylesheet().putCellStyle(styles.step, style);
-            // graph.getStylesheet().putCellStyle("edge_style", style);
-
-            // Edges
-            // var style = graph.getStylesheet().getDefaultEdgeStyle();
-            // style[mxConstants.STYLE_ROUNDED] = true;
-            // style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
-            // style[mxConstants.STYLE_FONTFAMILY] = "Salesforce Sans";
-            // style[mxConstants.STYLE_STROKEWIDTH] = 3;
-            // style[mxConstants.STYLE_OPACITY] = 75;
-            // style[mxConstants.STYLE_SOURCE_PERIMETER_SPACING] = 5;
-            // style[mxConstants.STYLE_TARGET_PERIMETER_SPACING] = 5;
-            // style[mxConstants.STYLE_JETTY_SIZE] = 'auto';
-            // // graph.getStylesheet().putCellStyle(styles.edge, style);
-            // graph.getStylesheet().putCellStyle("edge_style", style);
 
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.9.6');
+    }, null, null, 'v1.9.7');
 
 
 
