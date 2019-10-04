@@ -288,11 +288,11 @@ Draw.loadPlugin(function(ui) {
                         return Array.prototype.slice.call(document.getElementsByTagName(tag)).filter(el => el.textContent.trim() === str.trim());
                     }
 
-                    console.log(getElementsByText('Wanted Size', 'div'));
+                    console.log(getElementsByText(element, 'div'));
                     getElementsByText(cellvalue, 'div').forEach(function(element) {
                         console.log('arr');
                         console.log(element);
-                        element.innerHTML = 'hallo!';
+                        element.innerHTML = '<a href="">' + element + '</a>';
                     });
                     console.log('end arr');
 
