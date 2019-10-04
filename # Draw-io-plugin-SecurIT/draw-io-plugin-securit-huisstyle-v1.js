@@ -97,7 +97,8 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_SHAPE] = 'swimlane';
             style[mxConstants.STYLE_STARTSIZE] = 30;
             style[mxConstants.STYLE_DIRECTION] = 'north';
-
+            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            style[mxConstants.STYLE_FONTSIZE] = '18';
             // style = graph.getStylesheet().getDefaultEdgeStyle();
             // style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
             // style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
@@ -110,7 +111,8 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_STROKECOLOR] = 'none';
             style[mxConstants.STYLE_FILLCOLOR] = 'none';
             style[mxConstants.STYLE_FOLDABLE] = false;
-            style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
+            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            style[mxConstants.STYLE_FONTSIZE] = '18';
             graph.getStylesheet().putCellStyle('column', style);
 
             // graph.alternateEdgeStyle = 'targetPortConstraint=west';
@@ -178,7 +180,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.9.2');
+    }, null, null, 'v1.9.3');
 
 
 
