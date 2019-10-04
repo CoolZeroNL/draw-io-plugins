@@ -94,6 +94,14 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-K8-Icons/draw-io-plugin-k8-icons-v1.js?maxAge=10
 
+  - Will Do:
+    - Add Stencil: 
+      - Kubernetes K8 Icons
+      
+    <p align="center">
+      <img width="25%" src="./readme.images/k8-stencils.png">
+    </p>
+
 ## 1.5. Explore (WIP)
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore-v1.js?maxAge=10
