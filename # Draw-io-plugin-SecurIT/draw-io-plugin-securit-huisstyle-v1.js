@@ -85,7 +85,7 @@ Draw.loadPlugin(function(ui) {
     // Adds actions
     ui.actions.addAction('sitrefont', function() {
         if (graph.isEnabled()) {
-            alert('hoi');
+            // alert('hoi');
 
             // Sets global styles
             var style = graph.getStylesheet().getDefaultEdgeStyle();
