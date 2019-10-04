@@ -5,9 +5,9 @@
 - [1. Plugins:](#1-plugins)
     - [1.1. Resize (height & width by selected cell)](#11-resize-height--width-by-selected-cell)
     - [1.2. ReOrder Childeren](#12-reorder-childeren)
-    - [1.3. Explore (WIP)](#13-explore-wip)
-    - [1.4. Google Fonts](#14-google-fonts)
-    - [1.5. SecurIT Huisstijl](#15-securit-huisstijl)
+    - [1.3. Google Fonts](#13-google-fonts)
+    - [1.4. SecurIT Huisstijl](#14-securit-huisstijl)
+    - [1.5. Explore (WIP)](#15-explore-wip)
 - [2. Install Plugin Within Draw-io](#2-install-plugin-within-draw-io)
     - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
         - [2.1.1. Cors Proxy information:](#211-cors-proxy-information)
@@ -34,15 +34,7 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
 ## 1.2. ReOrder Childeren
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReOrder/draw-io-plugin-reorder-childeren-v3.js?maxAge=10
 
-## 1.3. Explore (WIP)
-
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore.js?maxAge=10
-
-  - Todo:
-    - [] add link as url in cell ( is now as tooltip )
-
-
-## 1.4. Google Fonts
+## 1.3. Google Fonts
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
   
   - Will do:
@@ -57,7 +49,7 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
       <img width="25%" src="./readme.images/google-fonts-fonts.png">
     </p>
 
-## 1.5. SecurIT Huisstijl
+## 1.4. SecurIT Huisstijl
 <!-- 
 - more information: https://github.com/holroy/draw.io-plugins/wiki/Dissected-Example-Plugin
 - more information: https://code.greenhost.net/totem/ind/tree/ca8b1b90ad23b8fa1800b8e055a7ee3bd9df9bb8/grapheditorxblock/src/stencils 
@@ -77,6 +69,13 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
       <img width="25%" src="./readme.images/securit-stencils.png">
       <img width="25%" src="./readme.images/securit-fonts.png">
     </p>
+
+## 1.5. Explore (WIP)
+
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore.js?maxAge=10
+
+  - Todo:
+    - [] add link as url in cell ( is now as tooltip )
 
 # 2. Install Plugin Within Draw-io
 
