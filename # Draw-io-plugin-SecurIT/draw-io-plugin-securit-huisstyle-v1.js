@@ -88,30 +88,30 @@ Draw.loadPlugin(function(ui) {
             // alert('hoi');
 
             // Sets global styles
-            // var style = graph.getStylesheet().getDefaultEdgeStyle();
-            //style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
-            // style[mxConstants.STYLE_ROUNDED] = true;
+            var style = graph.getStylesheet().getDefaultEdgeStyle();
+            style[mxConstants.STYLE_EDGE] = mxEdgeStyle.OrthConnector;
+            style[mxConstants.STYLE_ROUNDED] = true;
 
-            // style = graph.getStylesheet().getDefaultVertexStyle();
-            // style[mxConstants.STYLE_FILLCOLOR] = '#ffffff';
-            // style[mxConstants.STYLE_SHAPE] = 'swimlane';
-            // style[mxConstants.STYLE_STARTSIZE] = 30;
-            // style[mxConstants.STYLE_DIRECTION] = 'north';
+            style = graph.getStylesheet().getDefaultVertexStyle();
+            style[mxConstants.STYLE_FILLCOLOR] = '#ffffff';
+            style[mxConstants.STYLE_SHAPE] = 'swimlane';
+            style[mxConstants.STYLE_STARTSIZE] = 30;
+            style[mxConstants.STYLE_DIRECTION] = 'north';
 
-            //style = graph.getStylesheet().getDefaultEdgeStyle();
-            //style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
-            //style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
-            //style[mxConstants.STYLE_SOURCE_PORT] = 'south';
-            //graph.setDefaultEdgeStyle(stil);
+            style = graph.getStylesheet().getDefaultEdgeStyle();
+            style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
+            style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
+            style[mxConstants.STYLE_SOURCE_PORT] = 'south';
+            graph.setDefaultEdgeStyle(style);
             //console.log(stil);
 
-            // style = [];
-            // style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
-            // style[mxConstants.STYLE_STROKECOLOR] = 'none';
-            // style[mxConstants.STYLE_FILLCOLOR] = 'none';
-            // style[mxConstants.STYLE_FOLDABLE] = false;
-            // style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
-            // graph.getStylesheet().putCellStyle('column', style);
+            style = [];
+            style[mxConstants.STYLE_SHAPE] = mxConstants.SHAPE_RECTANGLE;
+            style[mxConstants.STYLE_STROKECOLOR] = 'none';
+            style[mxConstants.STYLE_FILLCOLOR] = 'none';
+            style[mxConstants.STYLE_FOLDABLE] = false;
+            style[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
+            graph.getStylesheet().putCellStyle('column', style);
 
             // graph.alternateEdgeStyle = 'targetPortConstraint=west';
 
