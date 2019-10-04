@@ -97,8 +97,8 @@ Draw.loadPlugin(function(ui) {
             style[mxConstants.STYLE_SHAPE] = 'swimlane';
             style[mxConstants.STYLE_STARTSIZE] = 30;
             style[mxConstants.STYLE_DIRECTION] = 'north';
-            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            style[mxConstants.STYLE_FONTSIZE] = '18';
+            // style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            // style[mxConstants.STYLE_FONTSIZE] = '18';
             // style = graph.getStylesheet().getDefaultEdgeStyle();
             // style[mxConstants.STYLE_TARGET_PORT_CONSTRAINT] = 'north';
             // style[mxConstants.STYLE_STROKECOLOR] = '#ffffff';
@@ -133,8 +133,8 @@ Draw.loadPlugin(function(ui) {
 
             var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
             edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
-            edgeStyle[mxConstants.STYLE_FONTSIZE] = '18';
-            edgeStyle[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
+            // edgeStyle[mxConstants.STYLE_FONTSIZE] = '18';
+            // edgeStyle[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
             graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
 
             // var style = new Object();
@@ -180,7 +180,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.9.3');
+    }, null, null, 'v1.9.4');
 
 
 
