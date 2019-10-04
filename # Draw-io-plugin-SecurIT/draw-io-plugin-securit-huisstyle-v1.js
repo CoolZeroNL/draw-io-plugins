@@ -39,7 +39,7 @@ window.onload = function() { appendStyle(styles) };
 Draw.loadPlugin(function(ui) {
 
     // var graph = ui.editor.graph;
-    var graph = editorUi.editor.graph;
+    var graph = ui.editor.graph;
     var model = graph.model;
 
     // Adds custom sidebar entry
