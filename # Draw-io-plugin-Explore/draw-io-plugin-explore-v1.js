@@ -272,7 +272,7 @@ Draw.loadPlugin(function(ui) {
                     console.log(cells[0].target.value.attributes);
                     console.log(cells[0].target.value);
                     console.log(cells[0].target);
-                    console.log('v0.6');
+                    console.log('v0.7');
 
 
                     console.log(document.querySelector("body > div.mxTooltip"));
