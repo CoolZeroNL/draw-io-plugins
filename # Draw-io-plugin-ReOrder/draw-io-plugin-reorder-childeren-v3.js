@@ -29,7 +29,7 @@ Draw.loadPlugin(function(ui) {
 
     // Adds resource for action
     mxResources.parse('reorder=Reorder Childs');
-    mxResources.parse('dummy=Lorum-Ipsum');
+    // mxResources.parse('dummy=Lorum-Ipsum');
 
     if (ui.editor.isChromelessView()) {
         return;
@@ -40,7 +40,7 @@ Draw.loadPlugin(function(ui) {
     // Adds menu
     ui.menubar.addMenu('Tool Reorder', function(menu, parent) {
         ui.menus.addMenuItem(menu, 'reorder');
-        ui.menus.addMenuItems(menu, ['-', 'dummy']);
+        // ui.menus.addMenuItems(menu, ['-', 'dummy']);
     });
 
 
@@ -228,14 +228,14 @@ Draw.loadPlugin(function(ui) {
 
             }
         }
-    }, null, null, 'Alt+Shift+X - v0.992');
+    }, null, null, 'v3.0');
 
 
 
     // Importar desenho
-    ui.actions.addAction('dummy', function() {
-        mxUtils.alert('Importar workflow no BPM suite da Sysnovare');
-    });
+    // ui.actions.addAction('dummy', function() {
+    // mxUtils.alert('Importar workflow no BPM suite da Sysnovare');
+    // });
 
     console.log('reorder loaded');
 
