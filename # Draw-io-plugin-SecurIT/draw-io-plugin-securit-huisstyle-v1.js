@@ -130,14 +130,14 @@ Draw.loadPlugin(function(ui) {
 
             var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
             edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
-            edgeStyle[mxConstants.STYLE_FONTFAMILY] = 'Libre Franklin'
+            edgeStyle[mxConstants.STYLE_FONTFAMILY] = "Libre Franklin";
 
             graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
 
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.2');
+    }, null, null, 'v1.3');
 
 
 
