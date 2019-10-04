@@ -174,7 +174,7 @@ Draw.loadPlugin(function(ui) {
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.7');
+    }, null, null, 'v1.8');
 
 
 
