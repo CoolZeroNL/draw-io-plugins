@@ -114,23 +114,30 @@ Draw.loadPlugin(function(ui) {
 
             // graph.alternateEdgeStyle = 'targetPortConstraint=west';
 
+
+
+            // edgeStyle[mxConstants.STYLE_EDITABLE] = 0;
+            // edgeStyle[mxConstants.STYLE_RESIZABLE] = 0;
+
+            // edgeStyle[mxConstants.STYLE_ORTHOGONAL] = 0;
+            // edgeStyle[mxConstants.STYLE_STROKEWIDTH] = 1;
+            // edgeStyle[mxConstants.STYLE_BENDABLE] = 1;
+            // edgeStyle[mxConstants.STYLE_ROUNDED] = true;
+            // edgeStyle[mxConstants.STYLE_EDGE] = mxConstants.EDGESTYLE_ENTITY_RELATION;
+            // edgeStyle[mxConstants.LABEL_HANDLE_SIZE] = 50;
+            // edgeStyle[mxConstants.HANDLE_FILLCOLOR] = '#000000'
+
+
             var edgeStyle = graph.getStylesheet().getDefaultEdgeStyle();
-            edgeStyle[mxConstants.STYLE_EDITABLE] = 0;
-            edgeStyle[mxConstants.STYLE_RESIZABLE] = 0;
             edgeStyle[mxConstants.STYLE_STROKECOLOR] = "#d4d4d4";
-            edgeStyle[mxConstants.STYLE_ORTHOGONAL] = 0;
-            edgeStyle[mxConstants.STYLE_STROKEWIDTH] = 1;
-            edgeStyle[mxConstants.STYLE_BENDABLE] = 1;
-            edgeStyle[mxConstants.STYLE_ROUNDED] = true;
-            edgeStyle[mxConstants.STYLE_EDGE] = mxConstants.EDGESTYLE_ENTITY_RELATION;
-            edgeStyle[mxConstants.LABEL_HANDLE_SIZE] = 50;
-            edgeStyle[mxConstants.HANDLE_FILLCOLOR] = '#000000'
+            edgeStyle[mxConstants.STYLE_FONTFAMILY] = 'Libre Franklin'
+
             graph.getStylesheet().putCellStyle("edge_style", edgeStyle);
 
             graph.refresh(); // update the graph
         }
 
-    }, null, null, 'v1.1');
+    }, null, null, 'v1.2');
 
 
 
