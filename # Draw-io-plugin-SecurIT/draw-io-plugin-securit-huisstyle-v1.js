@@ -90,10 +90,10 @@ Draw.loadPlugin(function(ui) {
             // alert('hoi');
 
             // Sets global styles
-            style = graph.getStylesheet().getDefaultVertexStyle();
-            style[mxConstants.STYLE_FONTFAMILY] = 'Tahoma';
-            style[mxConstants.STYLE_FONTSIZE] = '22';
-            graph.getStylesheet().putCellStyle('sit', style);
+            // style = graph.getStylesheet().getDefaultVertexStyle();
+            // style[mxConstants.STYLE_FONTFAMILY] = 'Libre Franklin';
+            // style[mxConstants.STYLE_FONTSIZE] = '22';
+            // graph.getStylesheet().putCellStyle('sit', style);
 
             var style = graph.getStylesheet().getDefaultVertexStyle();
             style[mxConstants.STYLE_SHAPE] = 'Modifier';
@@ -141,7 +141,7 @@ Draw.loadPlugin(function(ui) {
 
         }
 
-    }, null, null, 'v1.9.9.8');
+    }, null, null, 'v1.9.9.9');
 
 
 
