@@ -57,7 +57,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
     - Roboto
     - Open Sans
 
-    For the complete list of fonts: [Google Fonts](https://github.com/CoolZeroNL/draw-io-plugins/blob/master/%23%20Draw-io-plugin-Google-Fonts/googleFonts.json) or [fonts.google.com](https://fonts.google.com)   
+    For the complete list of fonts: [List of Google Fonts](https://github.com/CoolZeroNL/draw-io-plugins/blob/master/%23%20Draw-io-plugin-Google-Fonts/googleFonts.json) or [fonts.google.com](https://fonts.google.com)   
     ** note that not all the fonts will work in draw.io.. like: Libre Barcode
 
     <p align="center">
