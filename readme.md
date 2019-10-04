@@ -24,7 +24,7 @@
 This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Tool Resize` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
 
 <p align="center">
-  <img width="50%" src="./readme.images/example-draw-io-plugin-resize.gif">
+  <img width="40%" src="./readme.images/example-draw-io-plugin-resize.gif">
 </p>
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReSize/draw-io-plugin-resize-v1.js?maxAge=10
@@ -33,7 +33,7 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
 This plugin enables u to reorder childeren of a root object within draw.io. To use it, select the root cell with the childeren you want to reoder, then select: `Tool Reorder` -> `Reorder`. All the childeren will now be Reodered under the root cell.
 
 <p align="center">
-  <img width="50%" src="./readme.images/example-draw-io-plugin-reorder-childs.gif">
+  <img width="40%" src="./readme.images/example-draw-io-plugin-reorder-childs.gif">
 </p>
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReOrder/draw-io-plugin-reorder-childeren-v3.js?maxAge=10
