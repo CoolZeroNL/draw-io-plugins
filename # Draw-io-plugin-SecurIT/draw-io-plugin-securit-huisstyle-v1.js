@@ -65,7 +65,7 @@ Draw.loadPlugin(function(ui) {
 
     // Collapses default sidebar entry and inserts this before
     var d = ui.sidebar.container;
-    // c.firstChild.click();
+    d.firstChild.click();
     d.insertBefore(d.lastChild, d.firstChild);
     d.insertBefore(d.lastChild, d.firstChild);
 
