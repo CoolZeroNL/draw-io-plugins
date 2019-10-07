@@ -8,7 +8,7 @@ Draw.loadPlugin(function(ui) {
     // Collapses default sidebar entry and inserts this before
     var c = ui.sidebar.container;
     c.firstChild.click();
-    // c.insertBefore(c.lastChild, c.firstChild);
-    // c.insertBefore(c.lastChild, c.firstChild);
+    c.insertBefore(c.lastChild, c.firstChild);
+    c.insertBefore(c.lastChild, c.firstChild);
 
 });
