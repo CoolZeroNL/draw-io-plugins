@@ -61,13 +61,13 @@ Draw.loadPlugin(function(ui) {
     // ###################################################################################################
 
     // Add sidebar Stencil
-    ui.sidebar.addStencilPalette('flowchart', 'Security', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/stencil-security.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
+    // ui.sidebar.addStencilPalette('flowchart', 'Security', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/stencil-security.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Collapses default sidebar entry and inserts this before
-    var d = ui.sidebar.container;
-    d.firstChild.click();
-    d.insertBefore(d.lastChild, d.firstChild);
-    d.insertBefore(d.lastChild, d.firstChild);
+    // var d = ui.sidebar.container;
+    // d.firstChild.click();
+    // d.insertBefore(d.lastChild, d.firstChild);
+    // d.insertBefore(d.lastChild, d.firstChild);
 
     // ###################################################################################################
 
