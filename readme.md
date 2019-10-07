@@ -73,6 +73,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
   - Will Do:
     - Add Stencil: 
       - SecurIT
+      - Security
       
     - Load Custom Font: 
       - Libre Franklin
