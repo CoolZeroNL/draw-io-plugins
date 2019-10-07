@@ -1,0 +1,493 @@
+<shapes name="stencils.security">
+	<shape name="security_actor-activist" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.330" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.110" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.550" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.360" y="0.100" perimeter="0" name="top"/>
+			<constraint x="0.200" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.860" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_actor-activist.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_actor-alevolent-sad" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.240" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.760" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.530" y="0.090" perimeter="0" name="top"/>
+			<constraint x="0.350" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_actor-alevolent-sad.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_actor-alice" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.240" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.760" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.100" perimeter="0" name="top"/>
+			<constraint x="0.300" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.700" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_actor-alice.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_actor-bob" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.230" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.770" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.080" perimeter="0" name="top"/>
+			<constraint x="0.350" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_actor-bob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_actor-couldnt-care" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.260" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.740" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.110" perimeter="0" name="top"/>
+			<constraint x="0.250" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_actor-couldnt-care.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_actor-journalist" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.470" y="0.960" perimeter="0" name="bottom"/>
+			<constraint x="0.210" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.790" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.470" y="0.080" perimeter="0" name="top"/>
+			<constraint x="0.300" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_actor-journalist.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_actor-malevolent-happy" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.240" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.760" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.080" perimeter="0" name="top"/>
+			<constraint x="0.350" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.650" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_actor-malevolent-happy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_database" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.510" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.210" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.800" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.510" y="0.120" perimeter="0" name="top"/>
+			<constraint x="0.200" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_database.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_desktop" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.080" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.920" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.200" perimeter="0" name="top"/>
+			<constraint x="0.360" y="0.200" perimeter="0" name="top-monitor"/>
+			<constraint x="0.790" y="0.200" perimeter="0" name="top-case"/>
+			<constraint x="0.070" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.930" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_desktop.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_document-encrypted" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.240" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.760" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.140" perimeter="0" name="top"/>
+			<constraint x="0.240" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.760" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_document-encrypted.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_document-plain" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.240" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.760" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.140" perimeter="0" name="top"/>
+			<constraint x="0.240" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.760" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_document-plain.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_firewall" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.970" perimeter="0" name="bottom"/>
+			<constraint x="0.170" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.830" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.160" perimeter="0" name="top"/>
+			<constraint x="0.170" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_firewall.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_gateway-network-hop" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.890" perimeter="0" name="bottom"/>
+			<constraint x="0.200" y="0.980" perimeter="0" name="bottom-box"/>
+			<constraint x="0.800" y="1.000" perimeter="0" name="bottom-world"/>
+			<constraint x="0.030" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.970" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.740" perimeter="0" name="top"/>
+			<constraint x="0.200" y="0.660" perimeter="0" name="top-box"/>
+			<constraint x="0.800" y="0.630" perimeter="0" name="top-world"/>
+			<constraint x="0.030" y="0.820" perimeter="0" name="left"/>
+			<constraint x="0.970" y="0.820" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_gateway-network-hop.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_hacker" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.240" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.760" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.100" perimeter="0" name="top"/>
+			<constraint x="0.250" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_hacker.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_internet" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.120" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.890" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.410" y="0.130" perimeter="0" name="top"/>
+			<constraint x="0.110" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.720" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_internet.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_isp-malevolent" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.200" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.800" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.160" perimeter="0" name="top"/>
+			<constraint x="0.200" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_isp-malevolent.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_isp-server" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.200" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.800" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.160" perimeter="0" name="top"/>
+			<constraint x="0.200" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_isp-server.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_isp-traffic" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.550" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.250" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.840" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.550" y="0.160" perimeter="0" name="top"/>
+			<constraint x="0.150" y="0.540" perimeter="0" name="left"/>
+			<constraint x="0.850" y="0.540" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_isp-traffic.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_isp-trusted-gateway" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.200" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.800" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.160" perimeter="0" name="top"/>
+			<constraint x="0.200" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_isp-trusted-gateway.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_key-private" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.200" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.800" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.060" perimeter="0" name="top"/>
+			<constraint x="0.230" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.770" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_key-private.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_key-public" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.200" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.800" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.060" perimeter="0" name="top"/>
+			<constraint x="0.180" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.820" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_key-public.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_key-symmetric" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.290" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.710" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.040" perimeter="0" name="top"/>
+			<constraint x="0.400" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.600" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_key-symmetric.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_lock-closed" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.250" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.750" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.140" perimeter="0" name="top"/>
+			<constraint x="0.250" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_lock-closed.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_lock-open" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.590" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.340" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.850" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.590" y="0.390" perimeter="0" name="top"/>
+			<constraint x="0.330" y="0.050" perimeter="0" name="top-hook"/>
+			<constraint x="0.340" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.850" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_lock-open.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_malevolent-message" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.170" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.830" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.110" perimeter="0" name="top"/>
+			<constraint x="0.170" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_malevolent-message.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_message-neutral" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.170" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.830" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.110" perimeter="0" name="top"/>
+			<constraint x="0.170" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_message-neutral.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_message-neutral2" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.170" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.830" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.110" perimeter="0" name="top"/>
+			<constraint x="0.170" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.830" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_message-neutral2.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_message-open" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.140" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.790" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.300" perimeter="0" name="top"/>
+			<constraint x="0.140" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.860" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_message-open.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_mixnet" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.930" perimeter="0" name="bottom"/>
+			<constraint x="0.220" y="0.930" perimeter="0" name="bottom-left"/>
+			<constraint x="0.780" y="0.930" perimeter="0" name="bottom-right"/>
+			<constraint x="0.090" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.910" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.560" perimeter="0" name="top"/>
+			<constraint x="0.220" y="0.560" perimeter="0" name="top-left"/>
+			<constraint x="0.780" y="0.560" perimeter="0" name="top-right"/>
+			<constraint x="0.090" y="0.700" perimeter="0" name="left"/>
+			<constraint x="0.910" y="0.700" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_mixnet.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_mobile-phone" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.200" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.500" y="0.030" perimeter="0" name="top"/>
+			<constraint x="0.200" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.800" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_mobile-phone.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_old_document-encrypted" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.240" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.760" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.140" perimeter="0" name="top"/>
+			<constraint x="0.240" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.760" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_old_document-encrypted.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_protected-tor" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.140" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.790" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.310" perimeter="0" name="top"/>
+			<constraint x="0.160" y="0.640" perimeter="0" name="left"/>
+			<constraint x="0.780" y="0.640" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_protected-tor.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_protected-vpn" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.140" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.790" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.310" perimeter="0" name="top"/>
+			<constraint x="0.160" y="0.640" perimeter="0" name="left"/>
+			<constraint x="0.780" y="0.640" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_protected-vpn.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_protected" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.180" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.820" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.310" perimeter="0" name="top"/>
+			<constraint x="0.180" y="0.640" perimeter="0" name="left"/>
+			<constraint x="0.820" y="0.640" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_protected.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_social-network" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.190" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.810" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.020" perimeter="0" name="top"/>
+			<constraint x="0.250" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_social-network.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_square" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.250" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.750" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.120" perimeter="0" name="top"/>
+			<constraint x="0.250" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.750" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_square.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+	<shape name="security_website" w="136.06" h="121.89" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.900" perimeter="0" name="bottom"/>
+			<constraint x="0.130" y="0.875" perimeter="0" name="baseline-start"/>
+			<constraint x="0.870" y="0.875" perimeter="0" name="baseline-end"/>
+			<constraint x="0.500" y="0.190" perimeter="0" name="top"/>
+			<constraint x="0.130" y="0.500" perimeter="0" name="left"/>
+			<constraint x="0.870" y="0.500" perimeter="0" name="right"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsecurity_website.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="136.06" h="121.89"/>
+		</foreground>
+	</shape>
+</shapes>

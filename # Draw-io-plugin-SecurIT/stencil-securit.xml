@@ -1,4 +1,4 @@
-<shapes name="stencils.security">
+<shapes name="stencils.securit">
 	<shape name="SecurIT_Header" w="1006" h="124" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
