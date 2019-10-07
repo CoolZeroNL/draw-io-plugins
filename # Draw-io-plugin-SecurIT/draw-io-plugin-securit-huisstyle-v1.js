@@ -57,8 +57,6 @@ Draw.loadPlugin(function(ui) {
         ui.menus.addMenuItem(menu, 'sitrefont');
     });
 
-
-
     // Add sidebar Stencil
     ui.sidebar.addStencilPalette('flowchart', 'SecurIT', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/stencil-securit.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
