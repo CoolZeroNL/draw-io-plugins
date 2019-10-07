@@ -8,6 +8,7 @@
     - [1.3. Google Fonts](#13-google-fonts)
     - [1.4. SecurIT Huisstijl](#14-securit-huisstijl)
     - [1.5. Kubernetes K8 Icons](#15-kubernetes-k8-icons)
+    - [1.5. Security Icons](#15-security-icons)
     - [1.6. Explore (WIP)](#16-explore-wip)
 - [2. Install Plugin Within Draw-io](#2-install-plugin-within-draw-io)
     - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
@@ -91,6 +92,18 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 <!-- https://github.com/jgraph/drawio/issues/569 -->
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-K8-Icons/draw-io-plugin-k8-icons-v1.js?maxAge=10
+
+  - Will Do:
+    - Add Stencil: 
+      - Kubernetes K8 Icons
+      
+    <p align="center">
+      <img width="25%" src="./readme.images/k8-stencils.png">
+    </p>
+
+## 1.5. Security Icons
+
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Security-Icons/draw-io-plugin-security-icons-v1.js?maxAge=10
 
   - Will Do:
     - Add Stencil: 
