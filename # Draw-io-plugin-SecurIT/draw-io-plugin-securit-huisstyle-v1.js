@@ -58,18 +58,6 @@ Draw.loadPlugin(function(ui) {
     });
 
 
-    // ###################################################################################################
-
-    // Add sidebar Stencil
-    // ui.sidebar.addStencilPalette('flowchart', 'Security', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/stencil-security.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
-
-    // Collapses default sidebar entry and inserts this before
-    // var d = ui.sidebar.container;
-    // d.firstChild.click();
-    // d.insertBefore(d.lastChild, d.firstChild);
-    // d.insertBefore(d.lastChild, d.firstChild);
-
-    // ###################################################################################################
 
     // Add sidebar Stencil
     ui.sidebar.addStencilPalette('flowchart', 'SecurIT', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/stencil-securit.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
@@ -79,8 +67,6 @@ Draw.loadPlugin(function(ui) {
     c.firstChild.click();
     c.insertBefore(c.lastChild, c.firstChild);
     c.insertBefore(c.lastChild, c.firstChild);
-
-    // ###################################################################################################
 
     // LOAD FONTS:
 
@@ -155,7 +141,7 @@ Draw.loadPlugin(function(ui) {
 
         }
 
-    }, null, null, 'v1.9.9.9.3');
+    }, null, null, 'v1.9.9.9');
 
 
 
