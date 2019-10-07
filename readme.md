@@ -107,10 +107,10 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 
   - Will Do:
     - Add Stencil: 
-      - Kubernetes K8 Icons
+      - Security Icons
       
     <p align="center">
-      <img width="25%" src="./readme.images/k8-stencils.png">
+      <img width="25%" src="./readme.images/security-stencils.png">
     </p>
 
 ## 1.6. Explore (WIP)
