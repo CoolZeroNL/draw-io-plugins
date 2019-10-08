@@ -187,7 +187,6 @@ Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality 
 URL: file:///Users/{username}/plugins/plugin.js
 3. Apply and restart.
 
-
 ** Note that the plugins that load the resource fromt the inet dont work in the desktop version of Draw.io because the content is been block du security reasons.
 
 
