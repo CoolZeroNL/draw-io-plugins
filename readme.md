@@ -8,12 +8,13 @@
     - [1.3. Google Fonts](#13-google-fonts)
     - [1.4. SecurIT Huisstijl](#14-securit-huisstijl)
     - [1.5. Kubernetes K8 Icons](#15-kubernetes-k8-icons)
-    - [1.5. Security Icons](#15-security-icons)
-    - [1.6. Explore (WIP)](#16-explore-wip)
+    - [1.6. Security Icons](#16-security-icons)
+    - [1.7. Explore (WIP)](#17-explore-wip)
 - [2. Install Plugin Within Draw-io](#2-install-plugin-within-draw-io)
     - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
         - [2.1.1. Cors Proxy information:](#211-cors-proxy-information)
-    - [2.2. Installation Steps](#22-installation-steps)
+    - [2.2. Installation Steps (draw.io Online)](#22-installation-steps-drawio-online)
+    - [2.3. For macOS desktop:](#23-for-macos-desktop)
 
 <!-- /TOC -->
 
@@ -101,7 +102,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
       <img width="25%" src="./readme.images/k8-stencils.png">
     </p>
 
-## 1.5. Security Icons
+## 1.6. Security Icons
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Security-Icons/draw-io-plugin-security-icons-v1.js?maxAge=10
 
@@ -113,7 +114,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
       <img width="25%" src="./readme.images/security-stencils.png">
     </p>
 
-## 1.6. Explore (WIP)
+## 1.7. Explore (WIP)
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore-v1.js?maxAge=10
 
@@ -132,7 +133,7 @@ To fix this u need to use a CORS proxy server, and the urls are:
 ### 2.1.1. Cors Proxy information:
 https://ovsoinc.github.io/yacdn.org/
 
-## 2.2. Installation Steps
+## 2.2. Installation Steps (draw.io Online)
 To add a new plugin, do the next steps:
 
 Go to `Extras` -> `Plugins`
@@ -177,7 +178,12 @@ Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality 
 </p>
 
 
+## 2.3. For macOS desktop:
 
+1. Download plugin file. eg: /Users/xxx/plugins/plugin.js
+2. Add plugin in Plugin Panel
+URL: file:///Users/{username}/plugins/plugin.js
+3. Apply and restart.
 
 <!-- 
  3. Distribution:
