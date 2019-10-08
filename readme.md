@@ -14,7 +14,7 @@
     - [2.1. Use of CORS Proxy:](#21-use-of-cors-proxy)
         - [2.1.1. Cors Proxy information:](#211-cors-proxy-information)
     - [2.2. Installation Steps (draw.io Online)](#22-installation-steps-drawio-online)
-    - [2.3. For macOS desktop:](#23-for-macos-desktop)
+    - [2.3. For windows/macOS/linux draw.io desktop:](#23-for-windowsmacoslinux-drawio-desktop)
 
 <!-- /TOC -->
 
@@ -178,12 +178,18 @@ Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality 
 </p>
 
 
-## 2.3. For macOS desktop:
+## 2.3. For windows/macOS/linux draw.io desktop:
+
+0. download Draw.io from the next location: https://about.draw.io/integrations/#integrations_offline
 
 1. Download plugin file. eg: /Users/xxx/plugins/plugin.js
 2. Add plugin in Plugin Panel
 URL: file:///Users/{username}/plugins/plugin.js
 3. Apply and restart.
+
+
+** Note that the plugins that load the resource fromt the inet dont work in the desktop version of Draw.io because the content is been block du security reasons.
+
 
 <!-- 
  3. Distribution:
