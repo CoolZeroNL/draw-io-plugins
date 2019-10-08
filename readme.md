@@ -136,6 +136,7 @@ https://ovsoinc.github.io/yacdn.org/
 To add a new plugin, do the next steps:
 
 Go to `Extras` -> `Plugins`
+kbd:[File] -> kbd:[Save] -> kbd:[Option]
 
 <p align="center">
   <img width="50%" src="./readme.images/01-plugins.png">
