@@ -3,7 +3,7 @@
 <!-- TOC -->
 
 - [1. Plugins:](#1-plugins)
-    - [1.1. Resize (height & width by selected cell)](#11-resize-height--width-by-selected-cell)
+    - [1.1. Resize Cells (height & width by selected cell)](#11-resize-cells-height--width-by-selected-cell)
     - [1.2. ReOrder Childeren](#12-reorder-childeren)
     - [1.3. Google Fonts](#13-google-fonts)
     - [1.4. SecurIT Huisstijl](#14-securit-huisstijl)
@@ -22,7 +22,7 @@
 
 # 1. Plugins:
 
-## 1.1. Resize (height & width by selected cell)
+## 1.1. Resize Cells (height & width by selected cell)
 This plugin enables u to resize a object within draw.io. To use it, select the object that is the right size(height & width), then select: `Tool Resize` -> `Resize`. All the same objects(same style as selected cell) will be resize to the same size of the selected object.
 
 <p align="center">
@@ -189,6 +189,14 @@ URL: file:///Users/{username}/plugins/plugin.js
 
 ** Note that the plugins that load the resource fromt the inet dont work in the desktop version of Draw.io because the content is been block du security reasons.
 
+** https://developer.chrome.com/apps/contentSecurityPolicy
+** https://developer.chrome.com/apps/app_external#sandboxing
+
+
+Supported Plugins:
+  - ReOrder Childeren
+  - 
+
 
 <!-- 
  3. Distribution:
@@ -199,6 +207,6 @@ URL: file:///Users/{username}/plugins/plugin.js
  3.2. Plugin: Resize
 - Rogier
 - Stefan
-- Peter
+- Peter b
 - Abdel 
 -->

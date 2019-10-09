@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-KEY=$1 # get key at https://developers.google.com/fonts/docs/developer_api
+
+KEY=$1                                        # get key at https://developers.google.com/fonts/docs/developer_api
 OUTPUT_FILE="./googleFonts.json"
 
 if [ -z $KEY ]; then
@@ -8,18 +9,14 @@ if [ -z $KEY ]; then
 fi
 
 echo '[' > $OUTPUT_FILE
+
 curl -s "https://www.googleapis.com/webfonts/v1/webfonts?key=$KEY&sort=alpha" | jq .items[].family >> $OUTPUT_FILE
 
-# curl -s "https://www.googleapis.com/webfonts/v1/webfonts?key=$KEY&sort=alpha" | \
-#   sed -n 's/ *"family": "\(.*\)",/  "\1",/p' | \
-#   sed '$s/\(.*\),/\1/' >> $OUTPUT_FILE
-
-sed -i '/^"/ s/$/,/' $OUTPUT_FILE     # append end of line ,
-sed -i '$s/\(.*\),/\1/' $OUTPUT_FILE  # remove last ,
-sed -i -r 's/[[:space:]]+/+/g' $OUTPUT_FILE
+sed -i '/^"/ s/$/,/' $OUTPUT_FILE             # append end of line ,
+sed -i '$s/\(.*\),/\1/' $OUTPUT_FILE          # remove last ,
+sed -i -r 's/[[:space:]]+/+/g' $OUTPUT_FILE   # replace space with +
 
 echo ']' >> $OUTPUT_FILE
-
 
 ########################################
 
