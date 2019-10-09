@@ -60,12 +60,6 @@ Draw.loadPlugin(function(ui) {
     // Add sidebar Stencil
     ui.sidebar.addStencilPalette('flowchart', 'SecurIT', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/stencil-securit.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
-    //    ui.sidebar.addStencilPalette('flowchart', 'SecurIT', 'xml;xml=rZRNb4MwDIZ/DUeiFMakHSs6tEnTLttplykFFzJBgmLTrvv1ywdVh9pJVO0FlNcvfhyHOEpzbEQPGCVciQ6idBUlCRKoUrbIEMrBSLJSlD5GfBnxh2j8YvLBm/M9v38+gajAOHvCdyG04Pw+CM0oJHdhLbCHkoK4FUaKdQsTkoeVWilrk1rhJHIIIhkhlS2Rf4dUnGWcB8L+oPCD0oORHZCtMUSCetwI6T4uQdG4iWIukl+HbGFDlwAX1wKNrJuridlcoqfdqK+zoa6nN2Eu5rd2rYl0d4PjvJx58Yme3pPLof+2N82t8t/VTfONNlAbPajqtFbZidpNFzRlYDVEvU2wdIyk+EKteiY20FbMVuO4xWBaaw2+JHPOzHntw4gdqyU1w3pAMLYgO9mIlbrz0Vzr9gOMfn3xy8q6Y6njvh1qqdBrnUC/wzFhlqThxVcTczxOQG8cpyZrBolI+xaY31NIiJLixo9JhtvalVugUJLkD7jFiswAodt/fsiTqz5vxJ45k3Od94Ew1IN2FNzB/QI=', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
-
-
-
-
-
     // Collapses default sidebar entry and inserts this before
     var c = ui.sidebar.container;
     c.firstChild.click();
