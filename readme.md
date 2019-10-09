@@ -189,7 +189,7 @@ URL: file:///Users/{username}/plugins/plugin.js
 
 ** Note that the plugins that load the resource fromt the inet dont work in the desktop version of Draw.io because the content is been block du security reasons.
 
-** https://developer.chrome.com/apps/contentSecurityPolicy
+** https://developer.chrome.com/apps/contentSecurityPolicy  
 ** https://developer.chrome.com/apps/app_external#sandboxing
 
 
