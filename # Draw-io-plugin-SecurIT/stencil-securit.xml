@@ -1,5 +1,6 @@
 <shapes name="stencils.securit">
-	<shape name="SecurIT_Header" w="1055.5" h="212.95" aspect="variable">
+	<shape name="SecurIT_Header" w="1056" h="213" aspect="variable">
+	<!-- 1006 x 124 -->
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
