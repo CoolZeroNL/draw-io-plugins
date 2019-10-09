@@ -12,7 +12,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="-40.00" y="100.00" w="1056" h="213"/>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="-39.00" y="100.00" w="1056" h="213"/>
 		</foreground>
 	</shape>
 </shapes>
