@@ -195,6 +195,7 @@ URL: file:///Users/{username}/plugins/plugin.js
 
 Supported Plugins:
   - ReOrder Childeren
+  - Resize Cells (height & width by selected cell)
   - 
 
 
