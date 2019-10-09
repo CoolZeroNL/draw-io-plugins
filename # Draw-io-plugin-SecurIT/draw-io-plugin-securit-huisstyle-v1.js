@@ -9,9 +9,6 @@ function appendStyle(styles) {
     document.getElementsByTagName("head")[0].appendChild(css);
 }
 
-//   var styles = "@font-face { font-family: 'Marvel'; src: url(/confluence/download/attachments/851969/Marvel-Regular.ttf?api=v2) format('truetype')}";
-//   styles += ' #content { color: blue; text-align: left; }';
-
 var styles = `
     @font-face {
         font-family: 'Libre Franklin';
@@ -41,9 +38,6 @@ Draw.loadPlugin(function(ui) {
     // var graph = ui.editor.graph;
     var graph = ui.editor.graph;
     var model = graph.model;
-
-    // Adds custom sidebar entry
-    //ui.sidebar.addStencilPalette('flowchart', 'Odoo flow', 'https://draw.io/templates/flowcharts/flowchart_1.xml',';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Adds resource for action
     mxResources.parse('sitrefont=WIP - Apply SecurIT Font to All Cells');
