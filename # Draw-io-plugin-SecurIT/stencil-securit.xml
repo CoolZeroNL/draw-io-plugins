@@ -1,5 +1,6 @@
 <shapes name="stencils.securit">
-	<shape name="SecurIT_Header" x="0.00" y="0.00" w="810" h="110" aspect="variable">
+	<shape name="SecurIT_Header" x="0.00" y="0.00" w="810" h="124" aspect="variable">
+	<!-- <shape name="SecurIT_Header" x="0.00" y="0.00" w="1006" h="124" aspect="variable"> -->
 	<!-- 1006 x 124 -->
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
@@ -12,8 +13,9 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="-38.00" y="-50.00" w="810" h="110"/>
+			<!-- <image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="-38.00" y="-50.00" w="1056" h="213"/> -->
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="810" h="110"/>
 		</foreground>
 	</shape>
 </shapes>
-<!-- 810 x 110 -->
+<!-- 810 x110 -->
