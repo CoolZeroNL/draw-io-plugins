@@ -14,7 +14,7 @@ ls cyberark.images | grep .svg | while read line
 do
    # do something with $line here
    item=`basename $line .svg`
-   url=`urlencode https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/$line`
+   url=`urlencode https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/$line`
    # 
    #    label=$(basename $(dirname $line))
 
