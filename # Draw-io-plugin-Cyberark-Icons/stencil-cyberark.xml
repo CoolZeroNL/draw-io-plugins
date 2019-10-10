@@ -1,4 +1,4 @@
-<shapes name="stencils.stencil-cyberark-v2">
+<shapes name="stencils.stencil-cyberark">
 	<shape name="ca_icons_ad" w="66" h="66" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
