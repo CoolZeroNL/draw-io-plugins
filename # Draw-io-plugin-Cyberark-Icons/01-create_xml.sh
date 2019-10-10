@@ -24,7 +24,7 @@ do
 # echo $label
 
 cat >>$filename <<EOL
-	<shape name="ca_icons_${item}" w="64" h="64" aspect="variable">
+	<shape name="ca_icons_${item}" h="64" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
