@@ -41,7 +41,7 @@ cat >>$filename <<EOL
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=${url}%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://jsonp.afeld.me/?url=${url}%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="${width}" h="${height}"/>
 		</foreground>
 	</shape>
 EOL
