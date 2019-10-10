@@ -7,12 +7,7 @@ function appendStyle(styles) {
     else css.appendChild(document.createTextNode(styles));
 
     document.getElementsByTagName("head")[0].appendChild(css);
-
-    // replace 2019 - > 2020
-    // document.body.innerHTML = document.body.innerHTML.replace('2019', '2020');
 }
-
-// document.body.innerHTML = document.body.innerHTML.replace('hello', 'hi');
 
 
 var styles = `
