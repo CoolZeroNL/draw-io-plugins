@@ -14,7 +14,7 @@
 		</connections>
 		<foreground>
 			<!-- <image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="-38.00" y="-50.00" w="1056" h="213"/> -->
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="-38.00" y="0.00" w="810" h="110"/>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-SecurIT%2Fsecurit.huisstyle.images%2Fsit-header.svg%3Fsanitize%3Dtrue" x="-30.00" y="0.00" w="810" h="110"/>
 		</foreground>
 	</shape>
 </shapes>
