@@ -9,6 +9,9 @@ function appendStyle(styles) {
     document.getElementsByTagName("head")[0].appendChild(css);
 }
 
+
+
+
 var styles = `
     @font-face {
         font-family: 'Libre Franklin';
