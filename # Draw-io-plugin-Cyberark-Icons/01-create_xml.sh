@@ -2,7 +2,7 @@
 
 ## need: sudo apt install gridsite-clients
 
-name='stencil-cyberark'
+name='stencil-cyberark-v2'
 filename=$name'.xml'
 
 ## start:
@@ -12,6 +12,11 @@ echo '<shapes name="stencils.'"$name"'">' > $filename
 
 ls cyberark.images | grep .svg | while read line
 do
+
+	size=`identify cyberark.images/$line`
+	width=`echo $size | awk '{print $3}' | awk -F'x' '{print $1}'`
+	height=`echo $size | awk '{print $3}' | awk -F'x' '{print $2}'`
+
    # do something with $line here
    item=`basename $line .svg`
    url=`urlencode https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/$line`
@@ -24,7 +29,7 @@ do
 # echo $label
 
 cat >>$filename <<EOL
-	<shape name="ca_icons_${item}" h="64" aspect="variable">
+	<shape name="ca_icons_${item}" w="${width}" h="${height}" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
