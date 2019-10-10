@@ -15,7 +15,7 @@
 		</foreground>
 	</shape>
 
-	<shape name="SecurIT_Header" x="0.00" y="0.00" w="810" h="124" aspect="variable">
+	<shape name="SecurIT_Header" x="0.00" y="0.00" w="810" h="100" aspect="variable">
 	<!-- <shape name="SecurIT_Header" x="0.00" y="0.00" w="1006" h="124" aspect="variable"> -->
 	<!-- 1006 x 124 -->
 		<connections>
