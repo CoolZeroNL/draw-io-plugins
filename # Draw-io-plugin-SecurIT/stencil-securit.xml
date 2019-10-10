@@ -15,7 +15,7 @@
 		</foreground>
 	</shape>
 
-	<shape name="SecurIT_Header" x="-10.00" y="-10.00" w="810" h="100" aspect="variable">
+	<shape name="SecurIT_Header" x="-100.00" y="-100.00" w="810" h="100" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
 			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
