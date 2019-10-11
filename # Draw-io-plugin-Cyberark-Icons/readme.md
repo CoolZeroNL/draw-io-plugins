@@ -15,4 +15,3 @@ Place your images in the `cyberark.images` \ `subfolder` to have them embedded i
 # run
 
 When there is an update of the images folder, run `01-create_xml-gen-v1.sh` to re-generate the plugin js file and the xml files for the sencil.
-
