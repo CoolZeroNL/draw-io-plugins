@@ -124,7 +124,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
       - Cyberark Icons
 
     <p align="center">
-      <img width="50%" src="./readme.images/00-cyberark-all.png">
+      <img width="50%" src="./readme.images/00-cyberark-all.svg">
     </p>
 
 ## 1.8. Explore (WIP)
