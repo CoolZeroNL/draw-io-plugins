@@ -8,8 +8,6 @@ filename=$name'.xml'
 ## start:
 echo '<shapes name="stencils.'"$name"'">' > $filename
 
-
-
 ls cyberark.images | grep .svg | while read line
 do
 

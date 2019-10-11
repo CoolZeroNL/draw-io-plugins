@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1128.1414mm"
-   height="888.33002mm"
-   viewBox="0 0 1128.1411 888.33"
+   width="19.111567mm"
+   height="18.454mm"
+   viewBox="0 0 19.111566 18.454001"
    version="1.1"
    id="svg1203"
-   sodipodi:docname="00-cyberark-all.svg"
+   sodipodi:docname="cyberark-vault-integration.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs1197">
@@ -350,13 +350,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254835"
-     inkscape:cx="2313.1566"
-     inkscape:cy="248.70979"
+     inkscape:zoom="2.5600001"
+     inkscape:cx="184.1863"
+     inkscape:cy="-271.84459"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2834"
+     inkscape:window-width="1887"
      inkscape:window-height="2105"
      inkscape:window-x="67"
      inkscape:window-y="27"
@@ -383,7 +383,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(986.25598,474.04416)">
+     transform="translate(188.26806,-35.361767)">
     <g
        id="g4647"
        transform="translate(-97.674686,-122.07736)">
@@ -2365,6 +2365,14 @@
            style="fill:#58595b;fill-opacity:1" />
       </g>
     </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5448-1-5-2"
+       width="176.15575"
+       height="199.85909"
+       x="-74.147614"
+       y="32.693279"
+       ry="21.717821" />
     <g
        data-name="Layer 2"
        id="Layer_2-3"
@@ -4526,12 +4534,12 @@
            style="fill:#58595b;fill-opacity:1;stroke:#58595b;stroke-width:1.04146099;stroke-opacity:1" />
         <polygon
            id="polygon9635"
-           points="3.98,30.93 7.96,36.17 0,36.17 "
+           points="7.96,36.17 0,36.17 3.98,30.93 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke:#58595b;stroke-width:1.04146099;stroke-opacity:1" />
         <polygon
            id="polygon9637"
-           points="73.02,39.71 77,34.47 69.04,34.47 "
+           points="77,34.47 69.04,34.47 73.02,39.71 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke:#58595b;stroke-width:1.04146099;stroke-opacity:1" />
       </g>
@@ -4718,7 +4726,7 @@
            style="fill:#58595b;fill-opacity:1;stroke-width:0.78268147" />
         <polygon
            id="polygon9906"
-           points="45.12,18.05 45.12,38.67 9.88,38.67 9.88,18.05 34.85,18.05 35.32,17.19 9.02,17.19 9.02,39.53 45.98,39.53 45.98,17.19 41.2,17.19 40.73,18.05 "
+           points="41.2,17.19 40.73,18.05 45.12,18.05 45.12,38.67 9.88,38.67 9.88,18.05 34.85,18.05 35.32,17.19 9.02,17.19 9.02,39.53 45.98,39.53 45.98,17.19 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.78268147" />
       </g>
@@ -4746,37 +4754,37 @@
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
         <polygon
            id="polygon10002"
-           points="30,8.92 31.22,0 28.78,0 "
+           points="31.22,0 28.78,0 30,8.92 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
         <polygon
            id="polygon10004"
-           points="15.09,15.09 9.65,7.93 7.93,9.65 "
+           points="9.65,7.93 7.93,9.65 15.09,15.09 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
         <polygon
            id="polygon10006"
-           points="44.91,44.91 50.35,52.07 52.07,50.35 "
+           points="50.35,52.07 52.07,50.35 44.91,44.91 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
         <polygon
            id="polygon10008"
-           points="8.92,30 0,28.78 0,31.22 "
+           points="0,28.78 0,31.22 8.92,30 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
         <polygon
            id="polygon10010"
-           points="60,28.78 51.08,30 60,31.22 "
+           points="51.08,30 60,31.22 60,28.78 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
         <polygon
            id="polygon10012"
-           points="7.93,50.35 9.65,52.07 15.09,44.91 "
+           points="9.65,52.07 15.09,44.91 7.93,50.35 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
         <polygon
            id="polygon10014"
-           points="52.07,9.65 50.35,7.93 44.91,15.09 "
+           points="50.35,7.93 44.91,15.09 52.07,9.65 "
            class="cls-1"
            style="fill:#58595b;fill-opacity:1;stroke-width:0.89766783" />
       </g>
@@ -4862,10 +4870,21 @@
            style="fill:#58595b;stroke-width:1.06055093" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.246076"
+       y="30.668388"
+       id="text2549"><tspan
+         sodipodi:role="line"
+         id="tspan2547"
+         x="10.246076"
+         y="30.668388"
+         style="stroke-width:0.26458332">v1</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
        id="rect5448-1-5-2-3"
-       width="1109.069"
+       width="901.51746"
        height="387.53241"
        x="-985.75598"
        y="26.253435"
@@ -4880,7 +4899,7 @@
          id="tspan2547-7"
          x="-268.9715"
          y="22.355207"
-         style="stroke-width:0.26458332">export for draw.io</tspan></text>
+         style="stroke-width:0.26458332">v2</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
        id="rect5448-1-53"
@@ -5364,12 +5383,12 @@
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon2994"
-           points="58.22,70.95 61.03,66.98 63.38,66.98 58.83,73.28 "
+           points="63.38,66.98 58.83,73.28 58.22,70.95 61.03,66.98 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon2996"
-           points="54.27,66.98 58.83,60.68 58.83,63.8 56.63,66.98 "
+           points="58.83,63.8 56.63,66.98 54.27,66.98 58.83,60.68 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
       </g>
@@ -5470,7 +5489,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon3075"
-           points="58.45,18.07 58.45,6.43 39.23,17.54 49.34,23.35 "
+           points="39.23,17.54 49.34,23.35 58.45,18.07 58.45,6.43 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -5481,7 +5500,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon3079"
-           points="39.03,17.89 39.06,40.07 49.13,34.23 49.13,23.71 "
+           points="49.13,34.23 49.13,23.71 39.03,17.89 39.06,40.07 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -5492,7 +5511,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon3083"
-           points="49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 "
+           points="67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -5503,7 +5522,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon3087"
-           points="78.28,17.63 58.87,6.43 58.87,18.07 68.19,23.46 "
+           points="58.87,18.07 68.19,23.46 78.28,17.63 58.87,6.43 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -5514,7 +5533,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon3091"
-           points="78.3,28.63 58.89,39.85 58.89,51.5 78.3,40.28 "
+           points="58.89,51.5 78.3,40.28 78.3,28.63 58.89,39.85 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -5525,7 +5544,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon3095"
-           points="58.47,39.84 49.34,34.59 39.26,40.43 58.47,51.48 "
+           points="39.26,40.43 58.47,51.48 58.47,39.84 49.34,34.59 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -5548,17 +5567,17 @@
            style="fill:#666666" />
         <polygon
            id="polygon3103"
-           points="117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 "
+           points="108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 "
            class="cls-4"
            style="fill:#e98023" />
         <polygon
            id="polygon3105"
-           points="103.11,82.11 108.2,82.11 103.11,76.24 "
+           points="108.2,82.11 103.11,76.24 103.11,82.11 "
            class="cls-5"
            style="fill:#c66928" />
         <polygon
            id="polygon3107"
-           points="14.21,82.11 9.12,82.11 14.21,76.24 "
+           points="9.12,82.11 14.21,76.24 14.21,82.11 "
            class="cls-5"
            style="fill:#c66928" />
         <path
@@ -7105,12 +7124,12 @@
            style="fill:#616161" />
         <polygon
            id="polygon3776"
-           points="31.04,506.2 21.71,501.96 21.71,512.34 21.71,512.68 31.04,516.92 31.04,508.74 31.04,507.93 "
+           points="21.71,512.34 21.71,512.68 31.04,516.92 31.04,508.74 31.04,507.93 31.04,506.2 21.71,501.96 "
            class="cls-2"
            style="fill:#616161" />
         <polygon
            id="polygon3778"
-           points="41.1,500.21 31.91,496.04 22.71,500.38 31.9,504.56 "
+           points="22.71,500.38 31.9,504.56 41.1,500.21 31.91,496.04 "
            class="cls-2"
            style="fill:#616161" />
         <path
@@ -7836,27 +7855,27 @@
            style="fill:#414042" />
         <polygon
            id="polygon3986"
-           points="363.2,334.81 365.43,344.07 366.92,341.54 475.39,488.4 477,487.22 368.53,340.35 371.39,339.67 "
+           points="366.92,341.54 475.39,488.4 477,487.22 368.53,340.35 371.39,339.67 363.2,334.81 365.43,344.07 "
            class="cls-2"
            style="fill:#616161" />
         <polygon
            id="polygon3988"
-           points="152.87,420.05 240.22,340.68 241.19,343.45 245.2,334.81 236.21,337.97 238.88,339.2 151.52,418.57 "
+           points="241.19,343.45 245.2,334.81 236.21,337.97 238.88,339.2 151.52,418.57 152.87,420.05 240.22,340.68 "
            class="cls-2"
            style="fill:#616161" />
         <polygon
            id="polygon3990"
-           points="302.17,469.94 302.17,485.31 304.17,485.31 304.17,469.94 306.87,471.09 303.17,462.31 299.46,471.09 "
+           points="304.17,485.31 304.17,469.94 306.87,471.09 303.17,462.31 299.46,471.09 302.17,469.94 302.17,485.31 "
            class="cls-2"
            style="fill:#616161" />
         <polygon
            id="polygon3992"
-           points="302.17,350.44 302.17,372.81 304.17,372.81 304.17,350.44 306.87,351.59 303.17,342.81 299.46,351.59 "
+           points="304.17,372.81 304.17,350.44 306.87,351.59 303.17,342.81 299.46,351.59 302.17,350.44 302.17,372.81 "
            class="cls-2"
            style="fill:#616161" />
         <polygon
            id="polygon3994"
-           points="302.17,114.18 299.46,113.03 303.17,121.81 306.87,113.03 304.17,114.18 304.17,89.31 302.17,89.31 "
+           points="303.17,121.81 306.87,113.03 304.17,114.18 304.17,89.31 302.17,89.31 302.17,114.18 299.46,113.03 "
            class="cls-2"
            style="fill:#616161" />
         <path
@@ -9303,7 +9322,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4751"
-           points="337.38,315.49 336.02,306.06 343.73,311.66 339.74,312.23 "
+           points="343.73,311.66 339.74,312.23 337.38,315.49 336.02,306.06 "
            class="cls-1"
            style="fill:#616161" />
         <line
@@ -9324,7 +9343,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4757"
-           points="215.71,310.72 224.02,306.06 221.55,315.26 219.59,311.75 "
+           points="221.55,315.26 219.59,311.75 215.71,310.72 224.02,306.06 "
            class="cls-1"
            style="fill:#616161" />
         <line
@@ -9345,7 +9364,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4763"
-           points="276.51,353.84 280.21,345.06 283.91,353.84 280.21,352.26 "
+           points="283.91,353.84 280.21,352.26 276.51,353.84 280.21,345.06 "
            class="cls-1"
            style="fill:#616161" />
         <line
@@ -9366,7 +9385,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4769"
-           points="283.91,229.78 280.21,238.56 276.51,229.78 280.21,231.35 "
+           points="276.51,229.78 280.21,231.35 283.91,229.78 280.21,238.56 "
            class="cls-1"
            style="fill:#616161" />
         <path
@@ -9611,7 +9630,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon5153"
-           points="58.45,18.07 58.45,6.43 39.23,17.54 49.34,23.35 "
+           points="39.23,17.54 49.34,23.35 58.45,18.07 58.45,6.43 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -9622,7 +9641,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon5157"
-           points="39.03,17.89 39.06,40.07 49.13,34.23 49.13,23.71 "
+           points="49.13,34.23 49.13,23.71 39.03,17.89 39.06,40.07 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -9633,7 +9652,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon5161"
-           points="49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 "
+           points="67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -9644,7 +9663,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon5165"
-           points="78.28,17.63 58.87,6.43 58.87,18.07 68.19,23.46 "
+           points="58.87,18.07 68.19,23.46 78.28,17.63 58.87,6.43 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -9655,7 +9674,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon5169"
-           points="78.3,28.63 58.89,39.85 58.89,51.5 78.3,40.28 "
+           points="58.89,51.5 78.3,40.28 78.3,28.63 58.89,39.85 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -9666,7 +9685,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon5173"
-           points="58.47,39.84 49.34,34.59 39.26,40.43 58.47,51.48 "
+           points="39.26,40.43 58.47,51.48 58.47,39.84 49.34,34.59 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -9701,17 +9720,17 @@
            style="fill:#666666" />
         <polygon
            id="polygon5185"
-           points="117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 "
+           points="108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 "
            class="cls-4"
            style="fill:#4d8fcc" />
         <polygon
            id="polygon5187"
-           points="103.11,82.11 108.2,82.11 103.11,76.24 "
+           points="108.2,82.11 103.11,76.24 103.11,82.11 "
            class="cls-5"
            style="fill:#2f73b0" />
         <polygon
            id="polygon5189"
-           points="14.21,82.11 9.12,82.11 14.21,76.24 "
+           points="9.12,82.11 14.21,76.24 14.21,82.11 "
            class="cls-5"
            style="fill:#2f73b0" />
         <path
@@ -9896,7 +9915,7 @@
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5404"
-           points="44.9,22.25 38.16,22.25 44.9,11.54 33.46,11.54 28.7,25.63 36.18,25.63 33.06,38.49 "
+           points="44.9,11.54 33.46,11.54 28.7,25.63 36.18,25.63 33.06,38.49 44.9,22.25 38.16,22.25 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <path
@@ -9924,17 +9943,17 @@
          style="fill:#616161;fill-opacity:1">
         <polygon
            id="polygon5432"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5434"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5436"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
       </g>
@@ -9950,17 +9969,17 @@
          style="fill:#616161;fill-opacity:1">
         <polygon
            id="polygon5458"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5460"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5462"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
       </g>
@@ -9976,17 +9995,17 @@
          style="fill:#616161;fill-opacity:1">
         <polygon
            id="polygon5484"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5486"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5488"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
       </g>
@@ -10002,17 +10021,17 @@
          style="fill:#616161;fill-opacity:1">
         <polygon
            id="polygon5510"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5512"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5514"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
       </g>
@@ -10028,17 +10047,17 @@
          style="fill:#616161;fill-opacity:1">
         <polygon
            id="polygon5536"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5538"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5540"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
       </g>
@@ -10161,32 +10180,32 @@
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5625"
-           points="27.56,12.45 29.94,11.07 29.94,8.03 24.92,10.93 "
+           points="29.94,8.03 24.92,10.93 27.56,12.45 29.94,11.07 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5627"
-           points="27.51,12.55 24.86,11.03 24.87,16.82 27.51,15.3 "
+           points="24.87,16.82 27.51,15.3 27.51,12.55 24.86,11.03 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5629"
-           points="27.51,15.3 27.56,15.39 30,13.98 32.44,15.39 32.55,15.33 32.55,12.45 32.49,12.48 32.44,12.45 32.44,15.27 30.05,13.89 30.05,11.07 29.94,11.07 29.94,13.89 "
+           points="32.44,12.45 32.44,15.27 30.05,13.89 30.05,11.07 29.94,11.07 29.94,13.89 27.51,15.3 27.56,15.39 30,13.98 32.44,15.39 32.55,15.33 32.55,12.45 32.49,12.48 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5631"
-           points="32.49,12.48 35.13,10.96 30.05,8.03 30.05,11.07 "
+           points="30.05,8.03 30.05,11.07 32.49,12.48 35.13,10.96 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5633"
-           points="35.14,16.88 35.14,13.83 30.06,16.77 30.06,19.82 "
+           points="30.06,16.77 30.06,19.82 35.14,16.88 35.14,13.83 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5635"
-           points="29.95,19.81 29.95,16.77 27.56,15.39 24.93,16.92 "
+           points="27.56,15.39 24.93,16.92 29.95,19.81 29.95,16.77 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <path
@@ -10627,7 +10646,7 @@
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5930"
-           points="64.25,41.27 71.17,41.27 71.17,8.71 15.55,8.71 15.55,41.27 54.96,41.27 55.71,42.62 14.19,42.62 14.19,7.35 72.52,7.35 72.52,42.62 64.99,42.62 "
+           points="72.52,42.62 64.99,42.62 64.25,41.27 71.17,41.27 71.17,8.71 15.55,8.71 15.55,41.27 54.96,41.27 55.71,42.62 14.19,42.62 14.19,7.35 72.52,7.35 "
            class="cls-2"
            style="fill:#616161;fill-opacity:1" />
         <circle
@@ -10659,7 +10678,7 @@
            style="fill:#616161;fill-opacity:1" />
         <polygon
            id="polygon5958"
-           points="45.6,13.91 54.22,11.62 51.93,20.25 "
+           points="54.22,11.62 51.93,20.25 45.6,13.91 "
            class="cls-1"
            style="fill:#616161;fill-opacity:1" />
         <path
@@ -10899,7 +10918,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6098"
-           points="58.45,6.43 39.23,17.54 49.34,23.35 58.45,18.07 "
+           points="49.34,23.35 58.45,18.07 58.45,6.43 39.23,17.54 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -10910,7 +10929,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6102"
-           points="39.06,40.07 49.13,34.23 49.13,23.71 39.03,17.89 "
+           points="49.13,23.71 39.03,17.89 39.06,40.07 49.13,34.23 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -10921,7 +10940,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6106"
-           points="58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 "
+           points="58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -10932,7 +10951,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6110"
-           points="58.87,6.43 58.87,18.07 68.19,23.46 78.28,17.63 "
+           points="68.19,23.46 78.28,17.63 58.87,6.43 58.87,18.07 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -10943,7 +10962,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6114"
-           points="58.89,39.85 58.89,51.5 78.3,40.28 78.3,28.63 "
+           points="78.3,40.28 78.3,28.63 58.89,39.85 58.89,51.5 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -10954,7 +10973,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6118"
-           points="49.34,34.59 39.26,40.43 58.47,51.48 58.47,39.84 "
+           points="58.47,51.48 58.47,39.84 49.34,34.59 39.26,40.43 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -10983,17 +11002,17 @@
            style="fill:#666666" />
         <polygon
            id="polygon6128"
-           points="103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 "
+           points="9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 "
            class="cls-4"
            style="fill:#6aae45" />
         <polygon
            id="polygon6130"
-           points="108.2,82.11 103.11,76.24 103.11,82.11 "
+           points="103.11,76.24 103.11,82.11 108.2,82.11 "
            class="cls-5"
            style="fill:#55893e" />
         <polygon
            id="polygon6132"
-           points="9.12,82.11 14.21,76.24 14.21,82.11 "
+           points="14.21,76.24 14.21,82.11 9.12,82.11 "
            class="cls-5"
            style="fill:#55893e" />
         <path
@@ -11082,7 +11101,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6218"
-           points="58.45,18.07 58.45,6.43 39.23,17.54 49.34,23.35 "
+           points="39.23,17.54 49.34,23.35 58.45,18.07 58.45,6.43 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -11093,7 +11112,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6222"
-           points="39.03,17.89 39.06,40.07 49.13,34.23 49.13,23.71 "
+           points="49.13,34.23 49.13,23.71 39.03,17.89 39.06,40.07 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -11104,7 +11123,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6226"
-           points="49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 "
+           points="67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -11115,7 +11134,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6230"
-           points="78.28,17.63 58.87,6.43 58.87,18.07 68.19,23.46 "
+           points="58.87,18.07 68.19,23.46 78.28,17.63 58.87,6.43 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -11126,7 +11145,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6234"
-           points="78.3,28.63 58.89,39.85 58.89,51.5 78.3,40.28 "
+           points="58.89,51.5 78.3,40.28 78.3,28.63 58.89,39.85 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -11137,7 +11156,7 @@
            style="fill:#666666" />
         <polygon
            id="polygon6238"
-           points="58.47,39.84 49.34,34.59 39.26,40.43 58.47,51.48 "
+           points="39.26,40.43 58.47,51.48 58.47,39.84 49.34,34.59 "
            class="cls-3"
            style="fill:#d0d2d3" />
         <path
@@ -11154,17 +11173,17 @@
            style="fill:#666666" />
         <polygon
            id="polygon6244"
-           points="117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 "
+           points="108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 "
            class="cls-4"
            style="fill:#ffcc02" />
         <polygon
            id="polygon6246"
-           points="103.11,82.11 108.2,82.11 103.11,76.24 "
+           points="108.2,82.11 103.11,76.24 103.11,82.11 "
            class="cls-5"
            style="fill:#cda52c" />
         <polygon
            id="polygon6248"
-           points="14.21,82.11 9.12,82.11 14.21,76.24 "
+           points="9.12,82.11 14.21,76.24 14.21,82.11 "
            class="cls-5"
            style="fill:#cda52c" />
         <path
@@ -11559,7 +11578,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon6409"
-             points="122.72,120.77 129.63,124.76 136.54,120.77 136.54,112.78 129.63,108.79 122.72,112.78 "
+             points="129.63,108.79 122.72,112.78 122.72,120.77 129.63,124.76 136.54,120.77 136.54,112.78 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -11850,7 +11869,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon6497"
-             points="409.1,220.77 416.01,224.76 422.93,220.77 422.93,212.79 416.01,208.79 409.1,212.79 "
+             points="416.01,208.79 409.1,212.79 409.1,220.77 416.01,224.76 422.93,220.77 422.93,212.79 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -12174,7 +12193,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon6595"
-             points="551.41,120.77 558.33,124.76 565.24,120.77 565.24,112.78 558.33,108.79 551.41,112.78 "
+             points="558.33,108.79 551.41,112.78 551.41,120.77 558.33,124.76 565.24,120.77 565.24,112.78 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -12525,7 +12544,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon6703"
-             points="693.55,15.77 700.47,19.76 707.38,15.77 707.38,7.79 700.47,3.79 693.55,7.79 "
+             points="700.47,3.79 693.55,7.79 693.55,15.77 700.47,19.76 707.38,15.77 707.38,7.79 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -12890,7 +12909,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon6815"
-             points="758.96,120.77 765.88,124.76 772.79,120.77 772.79,112.78 765.88,108.79 758.96,112.78 "
+             points="765.88,108.79 758.96,112.78 758.96,120.77 765.88,124.76 772.79,120.77 772.79,112.78 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -13227,7 +13246,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon6919"
-             points="826.12,220.77 833.03,224.76 839.94,220.77 839.94,212.79 833.03,208.79 826.12,212.79 "
+             points="833.03,208.79 826.12,212.79 826.12,220.77 833.03,224.76 839.94,220.77 839.94,212.79 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -13765,7 +13784,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon7085"
-             points="962.41,15.77 969.32,19.76 976.24,15.77 976.24,7.79 969.32,3.79 962.41,7.79 "
+             points="969.32,3.79 962.41,7.79 962.41,15.77 969.32,19.76 976.24,15.77 976.24,7.79 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -14031,7 +14050,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon7167"
-             points="1035.93,91.77 1042.84,95.76 1049.76,91.77 1049.76,83.78 1042.84,79.79 1035.93,83.78 "
+             points="1042.84,79.79 1035.93,83.78 1035.93,91.77 1042.84,95.76 1049.76,91.77 1049.76,83.78 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -14608,7 +14627,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon7347"
-             points="1100.38,154.27 1107.3,158.26 1114.21,154.27 1114.21,146.29 1107.3,142.29 1100.38,146.29 "
+             points="1107.3,142.29 1100.38,146.29 1100.38,154.27 1107.3,158.26 1114.21,154.27 1114.21,146.29 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <g
@@ -15023,7 +15042,7 @@
              style="fill:none;stroke:#4d8fcc;stroke-miterlimit:10" />
           <polygon
              id="polygon7475"
-             points="1162.31,247.5 1169.23,251.49 1176.14,247.5 1176.14,239.52 1169.23,235.52 1162.31,239.52 "
+             points="1169.23,235.52 1162.31,239.52 1162.31,247.5 1169.23,251.49 1176.14,247.5 1176.14,239.52 "
              class="cls-5"
              style="fill:#4d8fcc;stroke:#153653;stroke-miterlimit:10" />
           <path
@@ -24503,12 +24522,12 @@
            style="fill:#616161;stroke-width:1.13065147" />
         <polygon
            id="polygon2994-8"
-           points="58.83,73.28 58.22,70.95 61.03,66.98 63.38,66.98 "
+           points="61.03,66.98 63.38,66.98 58.83,73.28 58.22,70.95 "
            class="cls-1"
            style="fill:#616161;stroke-width:1.13065147" />
         <polygon
            id="polygon2996-6"
-           points="56.63,66.98 54.27,66.98 58.83,60.68 58.83,63.8 "
+           points="58.83,60.68 58.83,63.8 56.63,66.98 54.27,66.98 "
            class="cls-1"
            style="fill:#616161;stroke-width:1.13065147" />
       </g>
@@ -25241,7 +25260,7 @@
            style="fill:#616161;stroke-width:0.9890691" />
         <polygon
            id="polygon5404-5"
-           points="33.46,11.54 28.7,25.63 36.18,25.63 33.06,38.49 44.9,22.25 38.16,22.25 44.9,11.54 "
+           points="36.18,25.63 33.06,38.49 44.9,22.25 38.16,22.25 44.9,11.54 33.46,11.54 28.7,25.63 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.9890691" />
         <path
@@ -25320,7 +25339,7 @@
            style="fill:#666666;stroke-width:1.18900669" />
         <polygon
            id="polygon5930-1"
-           points="64.99,42.62 64.25,41.27 71.17,41.27 71.17,8.71 15.55,8.71 15.55,41.27 54.96,41.27 55.71,42.62 14.19,42.62 14.19,7.35 72.52,7.35 72.52,42.62 "
+           points="72.52,7.35 72.52,42.62 64.99,42.62 64.25,41.27 71.17,41.27 71.17,8.71 15.55,8.71 15.55,41.27 54.96,41.27 55.71,42.62 14.19,42.62 14.19,7.35 "
            class="cls-2"
            style="fill:#cccccc;stroke-width:1.18900669" />
         <circle
@@ -25897,7 +25916,7 @@
            style="fill:#616161;stroke-width:0.94197059" />
         <polygon
            id="polygon5958-0"
-           points="45.6,13.91 54.22,11.62 51.93,20.25 "
+           points="54.22,11.62 51.93,20.25 45.6,13.91 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.94197059" />
         <path
@@ -26024,7 +26043,7 @@
     <g
        data-name="Layer 2"
        id="Layer_2-5-0"
-       transform="matrix(0.21858714,0,0,0.21953081,-341.70652,209.41992)"
+       transform="matrix(0.21858714,0,0,0.21953081,-324.96336,199.70475)"
        style="stroke-width:1.20782065">
       <g
          data-name="Layer 1"
@@ -26347,17 +26366,17 @@
          style="stroke-width:0.3846738">
         <polygon
            id="polygon5432-9"
-           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
+           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
            class="cls-1"
            style="fill:#4d8fcc;stroke-width:0.3846738" />
         <polygon
            id="polygon5434-7"
-           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
+           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
            class="cls-1"
            style="fill:#4d8fcc;stroke-width:0.3846738" />
         <polygon
            id="polygon5436-5"
-           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
+           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
            class="cls-1"
            style="fill:#4d8fcc;stroke-width:0.3846738" />
       </g>
@@ -26373,17 +26392,17 @@
          style="stroke-width:0.3846738">
         <polygon
            id="polygon5458-8"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#6aa845;stroke-width:0.3846738" />
         <polygon
            id="polygon5460-5"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#6aa845;stroke-width:0.3846738" />
         <polygon
            id="polygon5462-3"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#6aa845;stroke-width:0.3846738" />
       </g>
@@ -26399,17 +26418,17 @@
          style="stroke-width:0.3846738">
         <polygon
            id="polygon5484-3"
-           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
+           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
            class="cls-1"
            style="fill:#5c5d60;stroke-width:0.3846738" />
         <polygon
            id="polygon5486-7"
-           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
+           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
            class="cls-1"
            style="fill:#5c5d60;stroke-width:0.3846738" />
         <polygon
            id="polygon5488-9"
-           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
+           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
            class="cls-1"
            style="fill:#5c5d60;stroke-width:0.3846738" />
       </g>
@@ -26425,17 +26444,17 @@
          style="stroke-width:0.3846738">
         <polygon
            id="polygon5510-8"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#f18a00;stroke-width:0.3846738" />
         <polygon
            id="polygon5512-7"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#f18a00;stroke-width:0.3846738" />
         <polygon
            id="polygon5514-4"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#f18a00;stroke-width:0.3846738" />
       </g>
@@ -26451,17 +26470,17 @@
          style="stroke-width:0.3846738">
         <polygon
            id="polygon5536-0"
-           points="26.92,20.71 26.92,6.56 13.97,11.97 13.97,26.83 "
+           points="13.97,11.97 13.97,26.83 26.92,20.71 26.92,6.56 "
            class="cls-1"
            style="fill:#ffb71b;stroke-width:0.3846738" />
         <polygon
            id="polygon5538-9"
-           points="0,20.71 12.95,26.83 12.95,11.96 0,5.84 "
+           points="12.95,11.96 0,5.84 0,20.71 12.95,26.83 "
            class="cls-1"
            style="fill:#ffb71b;stroke-width:0.3846738" />
         <polygon
            id="polygon5540-8"
-           points="13.47,11.08 26.15,5.78 13.45,0 0.76,5.07 "
+           points="13.45,0 0.76,5.07 13.47,11.08 26.15,5.78 "
            class="cls-1"
            style="fill:#ffb71b;stroke-width:0.3846738" />
       </g>
@@ -26592,32 +26611,32 @@
            style="fill:#616161;stroke-width:0.80655336" />
         <polygon
            id="polygon5625-2"
-           points="29.94,8.03 24.92,10.93 27.56,12.45 29.94,11.07 "
+           points="27.56,12.45 29.94,11.07 29.94,8.03 24.92,10.93 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.80655336" />
         <polygon
            id="polygon5627-0"
-           points="24.87,16.82 27.51,15.3 27.51,12.55 24.86,11.03 "
+           points="27.51,12.55 24.86,11.03 24.87,16.82 27.51,15.3 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.80655336" />
         <polygon
            id="polygon5629-2"
-           points="30.05,11.07 29.94,11.07 29.94,13.89 27.51,15.3 27.56,15.39 30,13.98 32.44,15.39 32.55,15.33 32.55,12.45 32.49,12.48 32.44,12.45 32.44,15.27 30.05,13.89 "
+           points="32.55,15.33 32.55,12.45 32.49,12.48 32.44,12.45 32.44,15.27 30.05,13.89 30.05,11.07 29.94,11.07 29.94,13.89 27.51,15.3 27.56,15.39 30,13.98 32.44,15.39 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.80655336" />
         <polygon
            id="polygon5631-1"
-           points="30.05,8.03 30.05,11.07 32.49,12.48 35.13,10.96 "
+           points="32.49,12.48 35.13,10.96 30.05,8.03 30.05,11.07 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.80655336" />
         <polygon
            id="polygon5633-7"
-           points="30.06,16.77 30.06,19.82 35.14,16.88 35.14,13.83 "
+           points="35.14,16.88 35.14,13.83 30.06,16.77 30.06,19.82 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.80655336" />
         <polygon
            id="polygon5635-5"
-           points="27.56,15.39 24.93,16.92 29.95,19.81 29.95,16.77 "
+           points="29.95,19.81 29.95,16.77 27.56,15.39 24.93,16.92 "
            class="cls-1"
            style="fill:#616161;stroke-width:0.80655336" />
         <path
@@ -27108,7 +27127,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon3075-5"
-           points="39.23,17.54 49.34,23.35 58.45,18.07 58.45,6.43 "
+           points="58.45,18.07 58.45,6.43 39.23,17.54 49.34,23.35 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27119,7 +27138,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon3079-9"
-           points="49.13,34.23 49.13,23.71 39.03,17.89 39.06,40.07 "
+           points="39.03,17.89 39.06,40.07 49.13,34.23 49.13,23.71 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27130,7 +27149,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon3083-2"
-           points="58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 "
+           points="68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27141,7 +27160,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon3087-7"
-           points="58.87,18.07 68.19,23.46 78.28,17.63 58.87,6.43 "
+           points="78.28,17.63 58.87,6.43 58.87,18.07 68.19,23.46 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27152,7 +27171,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon3091-5"
-           points="58.89,51.5 78.3,40.28 78.3,28.63 58.89,39.85 "
+           points="78.3,28.63 58.89,39.85 58.89,51.5 78.3,40.28 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27163,7 +27182,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon3095-1"
-           points="39.26,40.43 58.47,51.48 58.47,39.84 49.34,34.59 "
+           points="58.47,39.84 49.34,34.59 39.26,40.43 58.47,51.48 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27186,17 +27205,17 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon3103-8"
-           points="108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 "
+           points="117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 "
            class="cls-4"
            style="fill:#e98023;stroke-width:1.81340086" />
         <polygon
            id="polygon3105-5"
-           points="108.2,82.11 103.11,76.24 103.11,82.11 "
+           points="103.11,76.24 103.11,82.11 108.2,82.11 "
            class="cls-5"
            style="fill:#c66928;stroke-width:1.81340086" />
         <polygon
            id="polygon3107-1"
-           points="9.12,82.11 14.21,76.24 14.21,82.11 "
+           points="14.21,76.24 14.21,82.11 9.12,82.11 "
            class="cls-5"
            style="fill:#c66928;stroke-width:1.81340086" />
         <path
@@ -27278,7 +27297,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon5153-5"
-           points="58.45,6.43 39.23,17.54 49.34,23.35 58.45,18.07 "
+           points="49.34,23.35 58.45,18.07 58.45,6.43 39.23,17.54 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27289,7 +27308,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon5157-3"
-           points="39.06,40.07 49.13,34.23 49.13,23.71 39.03,17.89 "
+           points="49.13,23.71 39.03,17.89 39.06,40.07 49.13,34.23 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27300,7 +27319,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon5161-1"
-           points="49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 "
+           points="67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27311,7 +27330,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon5165-0"
-           points="58.87,6.43 58.87,18.07 68.19,23.46 78.28,17.63 "
+           points="68.19,23.46 78.28,17.63 58.87,6.43 58.87,18.07 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27322,7 +27341,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon5169-3"
-           points="58.89,39.85 58.89,51.5 78.3,40.28 78.3,28.63 "
+           points="78.3,40.28 78.3,28.63 58.89,39.85 58.89,51.5 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27333,7 +27352,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon5173-6"
-           points="49.34,34.59 39.26,40.43 58.47,51.48 58.47,39.84 "
+           points="58.47,51.48 58.47,39.84 49.34,34.59 39.26,40.43 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27368,17 +27387,17 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon5185-6"
-           points="114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 "
+           points="103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 "
            class="cls-4"
            style="fill:#4d8fcc;stroke-width:1.81340086" />
         <polygon
            id="polygon5187-3"
-           points="108.2,82.11 103.11,76.24 103.11,82.11 "
+           points="103.11,76.24 103.11,82.11 108.2,82.11 "
            class="cls-5"
            style="fill:#2f73b0;stroke-width:1.81340086" />
         <polygon
            id="polygon5189-7"
-           points="9.12,82.11 14.21,76.24 14.21,82.11 "
+           points="14.21,76.24 14.21,82.11 9.12,82.11 "
            class="cls-5"
            style="fill:#2f73b0;stroke-width:1.81340086" />
         <path
@@ -27460,7 +27479,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6098-1"
-           points="39.23,17.54 49.34,23.35 58.45,18.07 58.45,6.43 "
+           points="58.45,18.07 58.45,6.43 39.23,17.54 49.34,23.35 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27471,7 +27490,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6102-4"
-           points="49.13,34.23 49.13,23.71 39.03,17.89 39.06,40.07 "
+           points="39.03,17.89 39.06,40.07 49.13,34.23 49.13,23.71 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27482,7 +27501,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6106-7"
-           points="49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 "
+           points="67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27493,7 +27512,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6110-0"
-           points="58.87,18.07 68.19,23.46 78.28,17.63 58.87,6.43 "
+           points="78.28,17.63 58.87,6.43 58.87,18.07 68.19,23.46 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27504,7 +27523,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6114-2"
-           points="58.89,51.5 78.3,40.28 78.3,28.63 58.89,39.85 "
+           points="78.3,28.63 58.89,39.85 58.89,51.5 78.3,40.28 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27515,7 +27534,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6118-0"
-           points="39.26,40.43 58.47,51.48 58.47,39.84 49.34,34.59 "
+           points="58.47,39.84 49.34,34.59 39.26,40.43 58.47,51.48 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27544,17 +27563,17 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6128-3"
-           points="108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 "
+           points="117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 "
            class="cls-4"
            style="fill:#6aae45;stroke-width:1.81340086" />
         <polygon
            id="polygon6130-4"
-           points="103.11,76.24 103.11,82.11 108.2,82.11 "
+           points="103.11,82.11 108.2,82.11 103.11,76.24 "
            class="cls-5"
            style="fill:#55893e;stroke-width:1.81340086" />
         <polygon
            id="polygon6132-9"
-           points="14.21,76.24 14.21,82.11 9.12,82.11 "
+           points="14.21,82.11 9.12,82.11 14.21,76.24 "
            class="cls-5"
            style="fill:#55893e;stroke-width:1.81340086" />
         <path
@@ -27624,7 +27643,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6218-0"
-           points="39.23,17.54 49.34,23.35 58.45,18.07 58.45,6.43 "
+           points="58.45,18.07 58.45,6.43 39.23,17.54 49.34,23.35 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27635,7 +27654,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6222-9"
-           points="49.13,34.23 49.13,23.71 39.03,17.89 39.06,40.07 "
+           points="39.03,17.89 39.06,40.07 49.13,34.23 49.13,23.71 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27646,7 +27665,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6226-2"
-           points="68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 "
+           points="49.13,34.23 49.34,34.59 58.66,29.19 67.98,34.59 68.4,34.35 68.4,23.34 68.2,23.46 67.99,23.34 67.99,34.12 58.87,28.84 58.87,18.07 58.45,18.07 58.45,28.84 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27657,7 +27676,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6230-1"
-           points="58.87,18.07 68.19,23.46 78.28,17.63 58.87,6.43 "
+           points="78.28,17.63 58.87,6.43 58.87,18.07 68.19,23.46 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27668,7 +27687,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6234-3"
-           points="58.89,51.5 78.3,40.28 78.3,28.63 58.89,39.85 "
+           points="78.3,28.63 58.89,39.85 58.89,51.5 78.3,40.28 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27679,7 +27698,7 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6238-2"
-           points="39.26,40.43 58.47,51.48 58.47,39.84 49.34,34.59 "
+           points="58.47,39.84 49.34,34.59 39.26,40.43 58.47,51.48 "
            class="cls-3"
            style="fill:#d0d2d3;stroke-width:1.81340086" />
         <path
@@ -27696,17 +27715,17 @@
            style="fill:#666666;stroke-width:1.81340086" />
         <polygon
            id="polygon6244-5"
-           points="14.21,76.24 0,76.24 3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 "
+           points="3.23,85.41 0,94.53 9.12,94.53 9.12,100.39 108.2,100.39 108.2,94.53 117.33,94.53 114.1,85.41 117.33,76.24 103.11,76.24 108.2,82.11 9.12,82.11 14.21,76.24 0,76.24 "
            class="cls-4"
            style="fill:#ffcc02;stroke-width:1.81340086" />
         <polygon
            id="polygon6246-1"
-           points="103.11,82.11 108.2,82.11 103.11,76.24 "
+           points="108.2,82.11 103.11,76.24 103.11,82.11 "
            class="cls-5"
            style="fill:#cda52c;stroke-width:1.81340086" />
         <polygon
            id="polygon6248-7"
-           points="14.21,82.11 9.12,82.11 14.21,76.24 "
+           points="9.12,82.11 14.21,76.24 14.21,82.11 "
            class="cls-5"
            style="fill:#cda52c;stroke-width:1.81340086" />
         <path
@@ -28566,7 +28585,7 @@
            style="fill:#59595c" />
         <polygon
            id="polygon10225"
-           points="567.54,359.4 557.01,364.39 574.97,364.4 "
+           points="557.01,364.39 574.97,364.4 567.54,359.4 "
            class="cls-1"
            style="fill:#133653" />
         <path
@@ -28860,7 +28879,7 @@
          id="Layer_1-2-31">
         <polygon
            id="polygon10511"
-           points="314.66,301.92 324.85,291.73 324.85,277.32 314.66,267.12 300.25,267.12 290.05,277.32 290.05,291.73 300.25,301.92 "
+           points="324.85,277.32 314.66,267.12 300.25,267.12 290.05,277.32 290.05,291.73 300.25,301.92 314.66,301.92 324.85,291.73 "
            class="cls-1"
            style="fill:#f05b40;stroke:#be1e2d;stroke-width:2px;stroke-miterlimit:10" />
         <path
@@ -29664,7 +29683,7 @@
            style="fill:#59595c" />
         <polygon
            id="polygon10769"
-           points="557.01,364.39 574.98,364.4 567.55,359.4 "
+           points="574.98,364.4 567.55,359.4 557.01,364.39 "
            class="cls-2"
            style="fill:#133653" />
         <path
@@ -29849,7 +29868,7 @@
            style="fill:#ffffff" />
         <polygon
            id="polygon10831"
-           points="237.45,378.18 247.64,367.99 247.64,353.57 237.45,343.38 223.04,343.38 212.84,353.57 212.84,367.99 223.04,378.18 "
+           points="247.64,353.57 237.45,343.38 223.04,343.38 212.84,353.57 212.84,367.99 223.04,378.18 237.45,378.18 247.64,367.99 "
            class="cls-1"
            style="fill:#f05b40;stroke:#be1e2d;stroke-width:2px;stroke-miterlimit:10" />
         <path
@@ -31093,97 +31112,97 @@
          id="Layer_1-2-0488">
         <polygon
            id="polygon13915"
-           points="79.45,141.34 79.45,97.44 41.22,115.51 41.22,159.41 "
+           points="41.22,115.51 41.22,159.41 79.45,141.34 79.45,97.44 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon13917"
-           points="0,141.34 38.22,159.41 38.22,115.51 0,97.44 "
+           points="38.22,115.51 0,97.44 0,141.34 38.22,159.41 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon13919"
-           points="0,144.66 0,187.06 38.22,205.13 38.22,162.72 "
+           points="38.22,205.13 38.22,162.72 0,144.66 0,187.06 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
            id="polygon13921"
-           points="79.45,94.12 79.45,52.35 41.22,68.34 41.22,112.19 "
+           points="41.22,68.34 41.22,112.19 79.45,94.12 79.45,52.35 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon13923"
-           points="0,94.12 38.22,112.19 38.22,68.29 0,50.22 "
+           points="38.22,68.29 0,50.22 0,94.12 38.22,112.19 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon13925"
-           points="39.76,65.7 77.2,50.04 39.69,32.99 2.25,47.97 "
+           points="39.69,32.99 2.25,47.97 39.76,65.7 77.2,50.04 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon13927"
-           points="80.97,48.47 118.35,32.83 80.92,16.5 43.54,31.45 "
+           points="80.92,16.5 43.54,31.45 80.97,48.47 118.35,32.83 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon13929"
-           points="122.17,31.23 159.5,14.94 122.17,0 84.83,14.94 "
+           points="122.17,0 84.83,14.94 122.17,31.23 159.5,14.94 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon13931"
-           points="120.67,74.63 120.67,35.11 82.44,51.1 82.44,92.7 "
+           points="82.44,51.1 82.44,92.7 120.67,74.63 120.67,35.11 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon13933"
-           points="79.45,181.48 41.22,164.1 41.22,205.2 41.22,206.54 79.45,224.61 79.45,188.53 "
+           points="79.45,224.61 79.45,188.53 79.45,181.48 41.22,164.1 41.22,205.2 41.22,206.54 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
            id="polygon13935"
-           points="43.29,161.75 80.93,178.86 118.6,161.05 80.96,143.94 "
+           points="118.6,161.05 80.96,143.94 43.29,161.75 80.93,178.86 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
            id="polygon13937"
-           points="161.89,58.46 161.89,55.15 161.89,48.9 123.67,35 123.67,73.22 123.67,74.63 161.89,92.7 "
+           points="161.89,48.9 123.67,35 123.67,73.22 123.67,74.63 161.89,92.7 161.89,58.46 161.89,55.15 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon13939"
-           points="163.4,16.5 126.2,32.74 163.35,46.24 199.2,31.36 "
+           points="163.35,46.24 199.2,31.36 163.4,16.5 126.2,32.74 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon13941"
-           points="244.33,97.44 206.11,115.51 206.11,159.41 244.33,141.34 "
+           points="206.11,159.41 244.33,141.34 244.33,97.44 206.11,115.51 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon13943"
-           points="164.89,97.44 164.89,141.34 203.11,159.41 203.11,115.51 "
+           points="203.11,159.41 203.11,115.51 164.89,97.44 164.89,141.34 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon13945"
-           points="206.11,162.72 206.11,205.13 244.33,187.06 244.33,144.66 "
+           points="244.33,187.06 244.33,144.66 206.11,162.72 206.11,205.13 "
            class="cls-4"
            style="fill:#6aa845" />
         <polygon
            id="polygon13947"
-           points="206.11,112.19 244.33,94.12 244.33,50.03 206.11,64.62 "
+           points="244.33,50.03 206.11,64.62 206.11,112.19 244.33,94.12 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon13949"
-           points="164.89,50.03 164.89,94.12 203.11,112.19 203.11,64.62 "
+           points="203.11,112.19 203.11,64.62 164.89,50.03 164.89,94.12 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon13951"
-           points="167.44,47.79 204.61,61.99 241.65,47.84 203.13,32.98 "
+           points="241.65,47.84 203.13,32.98 167.44,47.79 204.61,61.99 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
@@ -31193,12 +31212,12 @@
            style="fill:#4d8fcc" />
         <polygon
            id="polygon13955"
-           points="120.67,125.17 120.67,121.85 120.67,114.77 82.44,97.4 82.44,139.92 82.44,141.32 120.67,158.7 "
+           points="120.67,114.77 82.44,97.4 82.44,139.92 82.44,141.32 120.67,158.7 120.67,125.17 120.67,121.85 "
            class="cls-5"
            style="fill:#4d8fcc" />
         <polygon
            id="polygon13957"
-           points="84.51,95.04 122.16,112.16 159.82,94.35 122.18,77.23 "
+           points="159.82,94.35 122.18,77.23 84.51,95.04 122.16,112.16 "
            class="cls-5"
            style="fill:#4d8fcc" />
         <polygon
@@ -31208,22 +31227,22 @@
            style="fill:#ffb71b" />
         <polygon
            id="polygon13961"
-           points="120.67,200.22 82.44,182.84 82.44,187.14 82.44,224.65 82.44,226.01 120.67,243.39 120.67,207.28 "
+           points="82.44,187.14 82.44,224.65 82.44,226.01 120.67,243.39 120.67,207.28 120.67,200.22 82.44,182.84 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
            id="polygon13963"
-           points="122.16,197.6 159.82,179.79 122.18,162.68 84.51,180.49 "
+           points="122.18,162.68 84.51,180.49 122.16,197.6 159.82,179.79 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
            id="polygon13965"
-           points="203.11,164.06 164.89,180.74 164.89,188.53 164.89,224.61 203.11,206.54 203.11,205.2 "
+           points="203.11,206.54 203.11,205.2 203.11,164.06 164.89,180.74 164.89,188.53 164.89,224.61 "
            class="cls-4"
            style="fill:#6aa845" />
         <polygon
            id="polygon13967"
-           points="200.99,161.72 161.89,143.2 124.28,160.97 163.39,178.13 "
+           points="124.28,160.97 163.39,178.13 200.99,161.72 161.89,143.2 "
            class="cls-4"
            style="fill:#6aa845" />
         <path
@@ -31384,17 +31403,17 @@
            style="fill:#6d6e71" />
         <polygon
            id="polygon14021"
-           points="357.54,49.55 357.54,35.4 344.59,40.82 344.59,55.68 "
+           points="344.59,40.82 344.59,55.68 357.54,49.55 357.54,35.4 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon14023"
-           points="330.62,49.55 343.57,55.68 343.57,40.8 330.62,34.68 "
+           points="343.57,40.8 330.62,34.68 330.62,49.55 343.57,55.68 "
            class="cls-1"
            style="fill:#5c5d60" />
         <polygon
            id="polygon14025"
-           points="344.09,39.93 356.78,34.62 344.07,28.85 331.39,33.92 "
+           points="344.07,28.85 331.39,33.92 344.09,39.93 356.78,34.62 "
            class="cls-1"
            style="fill:#5c5d60" />
         <path
@@ -31513,17 +31532,17 @@
            style="fill:#6d6e71" />
         <polygon
            id="polygon14065"
-           points="357.54,128.99 357.54,114.84 344.59,120.25 344.59,135.11 "
+           points="344.59,120.25 344.59,135.11 357.54,128.99 357.54,114.84 "
            class="cls-5"
            style="fill:#4d8fcc" />
         <polygon
            id="polygon14067"
-           points="330.62,128.99 343.57,135.11 343.57,120.24 330.62,114.11 "
+           points="343.57,120.24 330.62,114.11 330.62,128.99 343.57,135.11 "
            class="cls-5"
            style="fill:#4d8fcc" />
         <polygon
            id="polygon14069"
-           points="344.09,119.36 356.78,114.06 344.07,108.28 331.39,113.35 "
+           points="344.07,108.28 331.39,113.35 344.09,119.36 356.78,114.06 "
            class="cls-5"
            style="fill:#4d8fcc" />
         <path
@@ -31612,17 +31631,17 @@
            style="fill:#6d6e71" />
         <polygon
            id="polygon14099"
-           points="357.54,89.27 357.54,75.12 344.59,80.54 344.59,95.39 "
+           points="344.59,80.54 344.59,95.39 357.54,89.27 357.54,75.12 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon14101"
-           points="330.62,89.27 343.57,95.39 343.57,80.52 330.62,74.4 "
+           points="343.57,80.52 330.62,74.4 330.62,89.27 343.57,95.39 "
            class="cls-3"
            style="fill:#f18a00" />
         <polygon
            id="polygon14103"
-           points="344.09,79.64 356.78,74.34 344.07,68.56 331.39,73.64 "
+           points="344.07,68.56 331.39,73.64 344.09,79.64 356.78,74.34 "
            class="cls-3"
            style="fill:#f18a00" />
         <path
@@ -31687,17 +31706,17 @@
            style="fill:#6d6e71" />
         <polygon
            id="polygon14125"
-           points="357.54,208.42 357.54,194.27 344.59,199.69 344.59,214.54 "
+           points="344.59,199.69 344.59,214.54 357.54,208.42 357.54,194.27 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
            id="polygon14127"
-           points="330.62,208.42 343.57,214.54 343.57,199.67 330.62,193.55 "
+           points="343.57,199.67 330.62,193.55 330.62,208.42 343.57,214.54 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
            id="polygon14129"
-           points="344.09,198.79 356.78,193.49 344.07,187.71 331.39,192.79 "
+           points="344.07,187.71 331.39,192.79 344.09,198.79 356.78,193.49 "
            class="cls-2"
            style="fill:#ffb71b" />
         <path
@@ -31816,17 +31835,17 @@
            style="fill:#6d6e71" />
         <polygon
            id="polygon14169"
-           points="357.54,168.71 357.54,154.56 344.59,159.97 344.59,174.83 "
+           points="344.59,159.97 344.59,174.83 357.54,168.71 357.54,154.56 "
            class="cls-4"
            style="fill:#6aa845" />
         <polygon
            id="polygon14171"
-           points="330.62,168.71 343.57,174.83 343.57,159.95 330.62,153.83 "
+           points="343.57,159.95 330.62,153.83 330.62,168.71 343.57,174.83 "
            class="cls-4"
            style="fill:#6aa845" />
         <polygon
            id="polygon14173"
-           points="344.09,159.08 356.78,153.77 344.07,148 331.39,153.07 "
+           points="344.07,148 331.39,153.07 344.09,159.08 356.78,153.77 "
            class="cls-4"
            style="fill:#6aa845" />
       </g>
@@ -31897,7 +31916,7 @@
     <g
        data-name="Layer 2"
        id="Layer_2-94-9"
-       transform="matrix(0.28834375,0,0,0.28834375,-291.77551,181.24916)"
+       transform="matrix(0.28834375,0,0,0.28834375,-300.66386,199.85268)"
        style="stroke-width:0.91759688">
       <g
          data-name="Layer 1"
@@ -32942,7 +32961,7 @@
          id="Layer_1-2-31-0">
         <polygon
            id="polygon10511-2"
-           points="290.05,277.32 290.05,291.73 300.25,301.92 314.66,301.92 324.85,291.73 324.85,277.32 314.66,267.12 300.25,267.12 "
+           points="300.25,301.92 314.66,301.92 324.85,291.73 324.85,277.32 314.66,267.12 300.25,267.12 290.05,277.32 290.05,291.73 "
            class="cls-1"
            style="fill:#f05b40;stroke:#be1e2d;stroke-width:2px;stroke-miterlimit:10" />
         <path
@@ -33746,7 +33765,7 @@
            style="fill:#59595c" />
         <polygon
            id="polygon10769-0"
-           points="567.55,359.4 557.01,364.39 574.98,364.4 "
+           points="557.01,364.39 574.98,364.4 567.55,359.4 "
            class="cls-2"
            style="fill:#133653" />
         <path
@@ -33931,7 +33950,7 @@
            style="fill:#ffffff" />
         <polygon
            id="polygon10831-0"
-           points="212.84,353.57 212.84,367.99 223.04,378.18 237.45,378.18 247.64,367.99 247.64,353.57 237.45,343.38 223.04,343.38 "
+           points="223.04,378.18 237.45,378.18 247.64,367.99 247.64,353.57 237.45,343.38 223.04,343.38 212.84,353.57 212.84,367.99 "
            class="cls-1"
            style="fill:#f05b40;stroke:#be1e2d;stroke-width:2px;stroke-miterlimit:10" />
         <path
@@ -34866,7 +34885,7 @@
            style="fill:#59595c" />
         <polygon
            id="polygon10225-8"
-           points="574.97,364.4 567.54,359.4 557.01,364.39 "
+           points="567.54,359.4 557.01,364.39 574.97,364.4 "
            class="cls-1"
            style="fill:#133653" />
         <path
@@ -35154,7 +35173,7 @@
     <g
        data-name="Layer 2"
        id="Layer_2-86-5"
-       transform="matrix(0.26458333,0,0,0.26458333,-952.70348,49.9984)">
+       transform="matrix(0.26458333,0,0,0.26458333,-810.48994,302.5928)">
       <g
          data-name="Layer 1"
          id="Layer_1-2-0488-8">
@@ -35205,7 +35224,7 @@
            style="fill:#5c5d60" />
         <polygon
            id="polygon13933-8"
-           points="41.22,164.1 41.22,205.2 41.22,206.54 79.45,224.61 79.45,188.53 79.45,181.48 "
+           points="41.22,206.54 79.45,224.61 79.45,188.53 79.45,181.48 41.22,164.1 41.22,205.2 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
@@ -35255,7 +35274,7 @@
            style="fill:#f18a00" />
         <polygon
            id="polygon13953-7"
-           points="123.67,114.76 123.67,120.44 123.67,121.85 123.67,123.75 123.67,125.17 123.67,158.66 161.89,140.59 161.89,139.92 161.89,105.68 161.89,102.36 161.89,96.69 "
+           points="161.89,102.36 161.89,96.69 123.67,114.76 123.67,120.44 123.67,121.85 123.67,123.75 123.67,125.17 123.67,158.66 161.89,140.59 161.89,139.92 161.89,105.68 "
            class="cls-5"
            style="fill:#4d8fcc" />
         <polygon
@@ -35270,7 +35289,7 @@
            style="fill:#4d8fcc" />
         <polygon
            id="polygon13959-7"
-           points="161.89,226.01 161.89,187.14 161.89,182.13 123.67,200.2 123.67,243.39 "
+           points="123.67,200.2 123.67,243.39 161.89,226.01 161.89,187.14 161.89,182.13 "
            class="cls-2"
            style="fill:#ffb71b" />
         <polygon
@@ -35285,7 +35304,7 @@
            style="fill:#ffb71b" />
         <polygon
            id="polygon13965-3"
-           points="164.89,180.74 164.89,188.53 164.89,224.61 203.11,206.54 203.11,205.2 203.11,164.06 "
+           points="164.89,224.61 203.11,206.54 203.11,205.2 203.11,164.06 164.89,180.74 164.89,188.53 "
            class="cls-4"
            style="fill:#6aa845" />
         <polygon
@@ -35901,7 +35920,7 @@
     <g
        data-name="Layer 2"
        id="Layer_2-31-6"
-       transform="matrix(0.26458333,0,0,0.26458333,-777.30941,45.544433)">
+       transform="matrix(0.26458333,0,0,0.26458333,-776.896,86.885578)">
       <g
          data-name="Layer 1"
          id="Layer_1-2-49-1">
@@ -37099,7 +37118,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4751-3"
-           points="343.73,311.66 339.74,312.23 337.38,315.49 336.02,306.06 "
+           points="339.74,312.23 337.38,315.49 336.02,306.06 343.73,311.66 "
            class="cls-1"
            style="fill:#616161" />
         <line
@@ -37120,7 +37139,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4757-4"
-           points="221.55,315.26 219.59,311.75 215.71,310.72 224.02,306.06 "
+           points="219.59,311.75 215.71,310.72 224.02,306.06 221.55,315.26 "
            class="cls-1"
            style="fill:#616161" />
         <line
@@ -37141,7 +37160,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4763-7"
-           points="283.91,353.84 280.21,352.26 276.51,353.84 280.21,345.06 "
+           points="280.21,352.26 276.51,353.84 280.21,345.06 283.91,353.84 "
            class="cls-1"
            style="fill:#616161" />
         <line
@@ -37162,7 +37181,7 @@
            style="fill:none;stroke:#616161;stroke-width:2px;stroke-miterlimit:10" />
         <polygon
            id="polygon4769-4"
-           points="276.51,229.78 280.21,231.35 283.91,229.78 280.21,238.56 "
+           points="280.21,231.35 283.91,229.78 280.21,238.56 276.51,229.78 "
            class="cls-1"
            style="fill:#616161" />
         <path
@@ -37225,7 +37244,7 @@
     <g
        data-name="Layer 2"
        id="Layer_2-68-4"
-       transform="matrix(0.26458333,0,0,0.26458333,-807.98421,232.01053)">
+       transform="matrix(0.26458333,0,0,0.26458333,-994.01937,95.584754)">
       <g
          data-name="Layer 1"
          id="Layer_1-2-84-7"
@@ -38171,7 +38190,7 @@
            style="fill:#616161" />
         <polygon
            id="polygon3774-1"
-           points="32.77,507.93 32.77,508.39 32.77,508.74 32.77,516.91 42.1,512.5 42.1,512.34 42.1,503.98 42.1,503.17 42.1,501.79 32.77,506.19 32.77,507.58 "
+           points="32.77,506.19 32.77,507.58 32.77,507.93 32.77,508.39 32.77,508.74 32.77,516.91 42.1,512.5 42.1,512.34 42.1,503.98 42.1,503.17 42.1,501.79 "
            class="cls-2"
            style="fill:#616161" />
         <polygon
@@ -39173,17 +39192,13 @@
            x="-53.932301"
            y="86.133041"> </tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="188.31004"
-       y="151.77707"
-       id="text33536"><tspan
-         sodipodi:role="line"
-         id="tspan33534"
-         x="188.31004"
-         y="151.77707"
-         style="stroke-width:0.26458332"> </tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect26081"
+       width="78.444824"
+       height="24.391275"
+       x="-165.10974"
+       y="30.343508" />
   </g>
   <style
      id="style11984"
