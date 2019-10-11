@@ -44,5 +44,6 @@ Draw.loadPlugin(function(ui) {
     c.firstChild.click();
     c.insertBefore(c.lastChild, c.firstChild);
     c.insertBefore(c.lastChild, c.firstChild);
+    c.firstChild.click();
 
 });
