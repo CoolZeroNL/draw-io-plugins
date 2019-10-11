@@ -44,21 +44,6 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Fautomatic_credential_rotation.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="94" h="66"/>
 		</foreground>
 	</shape>
-	<shape name="ca_icons_centralized_secure_storage" w="63" h="66" aspect="variable">
-		<connections>
-			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
-			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
-			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
-			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
-			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
-			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
-			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
-			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
-		</connections>
-		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Fcentralized_secure_storage.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="63" h="66"/>
-		</foreground>
-	</shape>
 	<shape name="ca_icons_central_policy_manager" w="66" h="66" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
@@ -102,6 +87,21 @@
 		</connections>
 		<foreground>
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Fcloud_access_security.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="67" h="66"/>
+		</foreground>
+	</shape>
+	<shape name="ca_icons_cloud_centralized_secure_storage" w="63" h="66" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Fcloud_centralized_secure_storage.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="63" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cloud_config" w="67" h="66" aspect="variable">
@@ -299,21 +299,6 @@
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Fdecentralized_secure_storage.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
-	<shape name="ca_icons_detailed_audit_reporting" w="61" h="66" aspect="variable">
-		<connections>
-			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
-			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
-			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
-			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
-			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
-			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
-			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
-			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
-		</connections>
-		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Fdetailed_audit_reporting.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="61" h="66"/>
-		</foreground>
-	</shape>
 	<shape name="ca_icons_developers" w="129" h="66" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
@@ -402,6 +387,21 @@
 		</connections>
 		<foreground>
 			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Fgranular_privileged_access_controls.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="65" h="66"/>
+		</foreground>
+	</shape>
+	<shape name="ca_icons_laptop_detailed_audit_reporting" w="61" h="66" aspect="variable">
+		<connections>
+			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>
+			<constraint x="0.000" y="0.000" perimeter="0" name="top-left"/>
+			<constraint x="1.000" y="0.000" perimeter="0" name="top-right"/>
+			<constraint x="1.000" y="0.500" perimeter="0" name="right-center"/>
+			<constraint x="0.000" y="0.500" perimeter="0" name="left-center"/>
+			<constraint x="0.000" y="1.000" perimeter="0" name="bottom-left"/>
+			<constraint x="1.000" y="1.000" perimeter="0" name="bottom-right"/>
+			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
+		</connections>
+		<foreground>
+			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FComponents%2Flaptop_detailed_audit_reporting.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="61" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_laptop_down" w="69" h="66" aspect="variable">
