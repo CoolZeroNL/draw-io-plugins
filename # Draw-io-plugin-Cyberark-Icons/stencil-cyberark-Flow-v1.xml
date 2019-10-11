@@ -1,4 +1,4 @@
-<shapes name="stencils.stencil-cyberark-Flow-v3">
+<shapes name="stencils.stencil-cyberark-Flow-v1">
 	<shape name="ca_icons_attack_chain_1" w="816" h="559" aspect="variable">
 		<connections>
 			<constraint x="0.500" y="0.000" perimeter="0" name="top-center"/>

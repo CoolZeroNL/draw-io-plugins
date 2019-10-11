@@ -2,7 +2,7 @@
 
 ## need: sudo apt install gridsite-clients
 
-plugin_filename='draw-io-plugin-cyberark-icons-v3.js'
+plugin_filename='draw-io-plugin-cyberark-icons-v1.js'
 
 ## start:
 	echo 'Draw.loadPlugin(function(ui) {' > $plugin_filename
@@ -13,7 +13,7 @@ do
 
 
 
-	name='stencil-cyberark-'$folder'-v3'
+	name='stencil-cyberark-'$folder'-v1'
 	filename=$name'.xml'
 
 cat >>$plugin_filename <<EOL
