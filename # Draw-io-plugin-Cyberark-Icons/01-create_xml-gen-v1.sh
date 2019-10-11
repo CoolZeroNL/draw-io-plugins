@@ -8,7 +8,7 @@ plugin_filename='draw-io-plugin-cyberark-icons-v1.js'
 	echo 'Draw.loadPlugin(function(ui) {' > $plugin_filename
 	echo '' >> $plugin_filename
 
-ls -F cyberark.images/ | grep / | sed 's|/||g' | while read folder
+ls -F cyberark.images/ | grep / | sed 's|/||g' | sort -r | while read folder
 do
 
 
