@@ -1,45 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="18.454mm"
-   height="18.454mm"
-   viewBox="0 0 18.454 18.454"
-   version="1.1"
    id="svg298960"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="dc4.svg">
+   version="1.1"
+   viewBox="0 0 18.454 18.454"
+   height="18.454mm"
+   width="18.454mm">
   <defs
      id="defs298954" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-1440.8406"
-     inkscape:cy="417.73084"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="3773"
-     inkscape:window-height="2105"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata298957">
     <rdf:RDF>
@@ -53,31 +25,28 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-357.4099,-240.90395)">
+     transform="translate(-357.4099,-240.90395)"
+     id="layer1">
     <g
-       transform="matrix(0.2032912,0,0,0.2032912,318.98002,159.42082)"
+       style="stroke-width:1.30149925"
        id="g1930-2-3"
-       style="stroke-width:1.30149925">
+       transform="matrix(0.2032912,0,0,0.2032912,318.98002,159.42082)">
       <circle
-         r="41.483597"
-         cy="446.20786"
-         cx="234.4267"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:7.80899525;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
          id="path1921-2-4"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:7.80899525;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1" />
+         cx="234.4267"
+         cy="446.20786"
+         r="41.483597" />
       <text
-         id="text1925-6-5"
-         y="457.11115"
-         x="201.77777"
+         xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1.30149925"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#58595b;fill-opacity:1;stroke-width:1.30149925"
-           y="457.11115"
-           x="201.77777"
+         x="201.77777"
+         y="457.11115"
+         id="text1925-6-5"><tspan
            id="tspan1923-9-8"
-           sodipodi:role="line">DC4</tspan></text>
+           x="201.77777"
+           y="457.11115"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#58595b;fill-opacity:1;stroke-width:1.30149925">DC4</tspan></text>
     </g>
   </g>
 </svg>
