@@ -1,96 +1,39 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg209576"
-   version="1.1"
-   viewBox="0 0 30.029404 18.663574"
-   height="18.663574mm"
-   width="30.029404mm">
-  <defs
-     id="defs209570" />
-  <metadata
-     id="metadata209573">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(208.53851,-40.471784)"
-     id="layer1">
-    <g
-       style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.1470964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g5623-6"
-       transform="matrix(2.7050913,0,0,2.7335943,-480.90752,8.4228956)">
-      <path
-         style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.1470964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 102.70263,16.552829 c -0.0589,0.03778 -0.15461,0.03778 -0.21356,0 l -1.05989,-0.679465 c -0.0701,-0.04496 -0.0701,-0.117802 0,-0.162707 l 1.05997,-0.679465 c 0.0589,-0.03778 0.15461,-0.03778 0.21355,0 l 0.0496,0.0318 c 0.0643,0.0412 0.0643,0.108011 0,0.149257 l -0.89625,0.57447 c -0.004,0.0029 -0.004,0.0077 0,0.01058 l 0.90582,0.580654 c 0.0589,0.03778 0.0589,0.09911 0,0.136891 z"
-         id="path2634-8" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.1470964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 109.83837,16.562216 c 0.0589,0.03778 0.15461,0.03778 0.21355,0 l 1.05997,-0.679465 c 0.0701,-0.04496 0.0701,-0.117802 0,-0.162707 l -1.05997,-0.679465 c -0.0589,-0.03778 -0.15461,-0.03778 -0.21355,0 l -0.0496,0.0318 c -0.0643,0.0412 -0.0643,0.108011 0,0.149257 l 0.89618,0.57447 c 0.005,0.0029 0.005,0.0077 0,0.01058 l -0.90583,0.580654 c -0.0589,0.03778 -0.0589,0.09911 0,0.136891 z"
-         id="path2636-7" />
-      <g
-         id="g605-3-4"
-         transform="matrix(0.42411151,0,0,-0.35277777,103.94113,18.269926)"
-         style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.3802869;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           d="M 18.170602,-0.46560726 H -7.3387775 V 18.222393 H 18.170602 Z"
-           style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.66550207;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path607-2-9" />
-        <path
-           d="M 18.170602,-0.46560659 H -7.338777 V 14.273655 h 25.509379 z"
-           style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.66550207;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path607-2-8-2" />
-      </g>
-      <g
-         style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.41696614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="g649-0-4"
-         transform="matrix(0.35277777,0,0,-0.35277777,102.26393,12.54966)">
-        <path
-           d="m 0,0 c 0,-0.236 -0.191,-0.427 -0.427,-0.427 -0.235,0 -0.425,0.191 -0.425,0.427 0,0.236 0.19,0.427 0.425,0.427 C -0.191,0.427 0,0.236 0,0 Z"
-           style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.41696614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path651-3-4" />
-      </g>
-      <g
-         style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.41696614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="g649-0-7-5"
-         transform="matrix(0.35277777,0,0,-0.35277777,101.62872,12.54966)">
-        <path
-           d="m 0,0 c 0,-0.236 -0.191,-0.427 -0.427,-0.427 -0.235,0 -0.425,0.191 -0.425,0.427 0,0.236 0.19,0.427 0.425,0.427 C -0.191,0.427 0,0.236 0,0 Z"
-           style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.41696614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path651-3-0-9" />
-      </g>
-      <g
-         style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.41696614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="g649-0-0-1"
-         transform="matrix(0.35277777,0,0,-0.35277777,102.89803,12.54966)">
-        <path
-           d="m 0,0 c 0,-0.236 -0.191,-0.427 -0.427,-0.427 -0.235,0 -0.425,0.191 -0.425,0.427 0,0.236 0.19,0.427 0.425,0.427 C -0.191,0.427 0,0.236 0,0 Z"
-           style="fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.41696614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path651-3-3-2" />
-      </g>
-      <text
-         id="text2824-7-6-49-8"
-         style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.02449918px;font-family:RopaSansPro;-inkscape-font-specification:RopaSansPro-Light;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#58595b;stroke-width:0.1470964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="118.55934"
-         y="14.934935"
-         transform="scale(0.89622736,1.1157883)">
-        <tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:RopaSansPro;-inkscape-font-specification:'RopaSansPro Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.1470964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="118.55934"
-           y="14.934935"
-           id="tspan3084-2-9">CODE</tspan>
-      </text>
-    </g>
-  </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg209576" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 85.1 52.9"
+	 style="enable-background:new 0 0 85.1 52.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#58595B;stroke-width:0.1471;}
+	.st1{fill:none;stroke:#58595B;stroke-width:0.6655;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#58595B;stroke-width:0.417;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:17.5038px;}
+</style>
+<g id="layer1" transform="translate(208.53851,-40.471784)">
+	<g id="g5623-6" transform="matrix(2.7050913,0,0,2.7335943,-480.90752,8.4228956)">
+		<path id="path2634-8" class="st0" d="M106.4,25.4c-0.2,0.1-0.4,0.1-0.6,0l-3-1.9c-0.2-0.1-0.2-0.3,0-0.5l3-1.9
+			c0.2-0.1,0.4-0.1,0.6,0l0.1,0.1c0.2,0.1,0.2,0.3,0,0.4l-2.5,1.6c0,0,0,0,0,0l2.6,1.6c0.2,0.1,0.2,0.3,0,0.4L106.4,25.4z"/>
+		<path id="path2636-7" class="st0" d="M126.6,25.4c0.2,0.1,0.4,0.1,0.6,0l3-1.9c0.2-0.1,0.2-0.3,0-0.5l-3-1.9
+			c-0.2-0.1-0.4-0.1-0.6,0l-0.1,0.1c-0.2,0.1-0.2,0.3,0,0.4l2.5,1.6c0,0,0,0,0,0l-2.6,1.6c-0.2,0.1-0.2,0.3,0,0.4L126.6,25.4z"/>
+		<g id="g605-3-4" transform="matrix(0.42411151,0,0,-0.35277777,103.94113,18.269926)">
+			<path id="path607-2-9" class="st1" d="M65.6-35.4H-6.7v53h72.3V-35.4z"/>
+			<path id="path607-2-8-2" class="st1" d="M65.6-35.4H-6.7V6.4h72.3L65.6-35.4z"/>
+		</g>
+		<g id="g649-0-4" transform="matrix(0.35277777,0,0,-0.35277777,102.26393,12.54966)">
+			<path id="path651-3-4" class="st2" d="M8.2-4.3C8.2-5,7.7-5.5,7-5.5C6.3-5.5,5.8-5,5.8-4.3S6.3-3.1,7-3.1
+				C7.7-3.1,8.2-3.6,8.2-4.3z"/>
+		</g>
+		<g id="g649-0-7-5" transform="matrix(0.35277777,0,0,-0.35277777,101.62872,12.54966)">
+			<path id="path651-3-0-9" class="st2" d="M4.9-4.3c0-0.7-0.5-1.2-1.2-1.2C3-5.5,2.5-5,2.5-4.3S3-3.1,3.7-3.1
+				C4.4-3.1,4.9-3.6,4.9-4.3z"/>
+		</g>
+		<g id="g649-0-0-1" transform="matrix(0.35277777,0,0,-0.35277777,102.89803,12.54966)">
+			<path id="path651-3-3-2" class="st2" d="M11.5-4.3c0-0.7-0.5-1.2-1.2-1.2C9.6-5.5,9.1-5,9.1-4.3s0.5,1.2,1.2,1.2
+				C11-3.1,11.5-3.6,11.5-4.3z"/>
+		</g>
+		<text transform="matrix(0.2938 0 0 0.3658 109.0413 25.7281)" class="st0 st3 st4">CODE</text>
+	</g>
+</g>
 </svg>

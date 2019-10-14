@@ -1,52 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg94928"
-   version="1.1"
-   viewBox="0 0 12.685078 18.454"
-   height="18.454mm"
-   width="12.685078mm">
-  <defs
-     id="defs94922" />
-  <metadata
-     id="metadata94925">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-215.90746,65.256762)"
-     id="layer1">
-    <g
-       style="fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1.43156588;stroke-opacity:1"
-       transform="matrix(0.18482093,0,0,0.18482093,215.9074,-65.256762)"
-       id="g2882-5">
-      <path
-         style="fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1.43156588;stroke-opacity:1"
-         d="M 46.68,64.517 C 74.499,19.438 27.205,0 27.205,0 39.369,10.145 43.614,44.657 21.337,45.114 5.534,45.438 8.277,28.492 9.976,24.917 8.197,27.438 -3.772,48.629 1.201,70.003 6.175,91.378 36.243,99.848 36.243,99.848 30.023,81.213 41.916,72.17 46.68,64.517 Z"
-         id="path2862-7" />
-      <path
-         style="fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1.43156588;stroke-opacity:1"
-         d="m 59.161,38.038 c 2.465,4.582 -2.596,23.759 -9.987,32.491 -13.705,16.23 -9.383,24.461 -8.313,28.29 0.169,-0.4 1.947,-2.261 14.586,-10.921 27.324,-18.675 3.714,-49.86 3.714,-49.86 z"
-         id="path2864-3" />
-      <path
-         style="fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1.43156588;stroke-opacity:1"
-         d="m 40.893,98.928 c -0.009,-0.035 -0.022,-0.072 -0.031,-0.109 -0.049,0.112 0.031,0.109 0.031,0.109 z"
-         id="path2866-3" />
-      <path
-         style="fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1.43156588;stroke-opacity:1"
-         d="m 9.976,24.917 c 0.146,-0.209 0.237,-0.328 0.237,-0.328 -0.1,0.077 -0.174,0.19 -0.237,0.328 z"
-         id="path2868-8" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg94928" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 36 52.3"
+	 style="enable-background:new 0 0 36 52.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#58595B;}
+</style>
+<g id="layer1" transform="translate(-215.90746,65.256762)">
+	<g id="g2882-5" transform="matrix(0.18482093,0,0,0.18482093,215.9074,-65.256762)">
+		<path id="path2862-7" class="st0" d="M132.3,182.9C211.2,55.1,77.1,0,77.1,0c34.5,28.8,46.5,126.6-16.6,127.9
+			c-44.8,0.9-37-47.1-32.2-57.3c-5,7.1-39,67.2-24.9,127.8C17.5,259,102.7,283,102.7,283C85.1,230.2,118.8,204.6,132.3,182.9z"/>
+		<path id="path2864-3" class="st0" d="M167.7,107.8c7,13-7.4,67.3-28.3,92.1c-38.8,46-26.6,69.3-23.6,80.2c0.5-1.1,5.5-6.4,41.3-31
+			C234.6,196.2,167.7,107.8,167.7,107.8z"/>
+		<path id="path2866-3" class="st0" d="M115.9,280.4c0-0.1-0.1-0.2-0.1-0.3C115.7,280.4,115.9,280.4,115.9,280.4z"/>
+		<path id="path2868-8" class="st0" d="M28.3,70.6c0.4-0.6,0.7-0.9,0.7-0.9C28.7,69.9,28.5,70.2,28.3,70.6z"/>
+	</g>
+</g>
 </svg>
