@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg186023"
+   version="1.1"
+   viewBox="0 0 18.985476 18.454"
+   height="18.454mm"
+   width="18.985476mm">
+  <defs
+     id="defs186017" />
+  <metadata
+     id="metadata186020">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(33.305237,-139.60633)"
+     id="layer1">
+    <g
+       style="stroke-width:1.07530892"
+       transform="matrix(0.24605333,0,0,0.24605333,-33.305237,139.60633)"
+       id="Layer_1-2-317-8"
+       data-name="Layer 1">
+      <rect
+         style="fill:#666666;stroke-width:1.07530892"
+         x="0"
+         class="cls-1"
+         y="51.34"
+         width="3.3800001"
+         height="10.26"
+         id="rect12062-0" />
+      <rect
+         style="fill:#666666;stroke-width:1.07530892"
+         x="0"
+         class="cls-1"
+         y="13.4"
+         width="3.3800001"
+         height="10.26"
+         id="rect12064-9" />
+      <path
+         style="fill:#666666;stroke-width:1.07530892"
+         class="cls-1"
+         d="M 71.16,75 H 8.1 a 6,6 0 0 1 -6,-6 V 6 a 6,6 0 0 1 6,-6 h 63.06 a 6,6 0 0 1 6,6 v 63 a 6,6 0 0 1 -6,6 z M 8.1,3.21 A 2.76,2.76 0 0 0 5.35,6 V 69 A 2.76,2.76 0 0 0 8.1,71.79 H 71.16 A 2.77,2.77 0 0 0 73.92,69 V 6 A 2.77,2.77 0 0 0 71.16,3.24 Z"
+         id="path12066-7" />
+      <path
+         style="fill:#666666;stroke-width:1.07530892"
+         class="cls-1"
+         d="M 63.55,66.5 H 16.14 A 5.65,5.65 0 0 1 10.63,61.28 V 13.47 c 0,-2.85 2.91,-5 5.51,-5 h 47.41 a 5,5 0 0 1 5.09,5 v 48 l -0.07,0.12 A 5.13,5.13 0 0 1 63.55,66.5 Z M 16.14,10.1 c -1.8,0 -3.9,1.47 -3.9,3.37 v 47.81 a 4.09,4.09 0 0 0 3.9,3.62 H 63.55 A 3.52,3.52 0 0 0 67,61.39 v -0.21 l 0.06,-0.11 V 13.47 A 3.47,3.47 0 0 0 63.58,10.1 Z"
+         id="path12068-9" />
+      <path
+         style="fill:#666666;stroke-width:1.07530892"
+         class="cls-1"
+         d="m 39.83,50.1 h -0.57 a 12.6,12.6 0 1 1 13.13,-12 v 0 a 12.59,12.59 0 0 1 -12.56,12 z m 0,-22.13 a 9.53,9.53 0 1 0 9.51,10 v 0 A 9.54,9.54 0 0 0 40.24,28 Z"
+         id="path12178-9" />
+      <path
+         style="fill:#666666;stroke-width:1.07530892"
+         class="cls-1"
+         d="M 30.33,48.45 A 1.54,1.54 0 0 1 29.25,45.82 L 48.23,27 a 1.54,1.54 0 0 1 2.16,2.19 L 31.41,48 a 1.51,1.51 0 0 1 -1.08,0.45 z"
+         id="path12180-3" />
+      <path
+         style="fill:#666666;stroke-width:1.07530892"
+         class="cls-1"
+         d="m 49.85,47.88 a 1.55,1.55 0 0 1 -1,-0.39 L 28.77,29.82 a 1.54,1.54 0 1 1 2,-2.31 l 20.1,17.67 a 1.54,1.54 0 0 1 0.13,2.17 1.51,1.51 0 0 1 -1.15,0.53 z"
+         id="path12182-2" />
+      <ellipse
+         style="fill:#666666;stroke-width:1.07530892"
+         class="cls-1"
+         cx="39.82"
+         cy="37.5"
+         rx="3.78"
+         ry="3.79"
+         id="ellipse12184-4" />
+    </g>
+  </g>
+</svg>

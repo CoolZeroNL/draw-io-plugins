@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg229054"
+   version="1.1"
+   viewBox="0 0 19.319592 18.454"
+   height="18.454mm"
+   width="19.319592mm">
+  <defs
+     id="defs229048" />
+  <metadata
+     id="metadata229051">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(97.350272,-200.08252)"
+     id="layer1">
+    <g
+       style="stroke-width:1.18900669"
+       transform="matrix(0.22252467,0,0,0.22252467,-97.350272,200.08255)"
+       id="Layer_2-83-4"
+       data-name="Layer 2">
+      <g
+         style="stroke-width:1.18900669"
+         id="Layer_1-2-18-2"
+         data-name="Layer 1">
+        <path
+           style="fill:#666666;stroke-width:1.18900669"
+           class="cls-1"
+           d="m 73.93,4.07 a 2,2 0 0 1 2,2 V 45.44 H 66.5 l 1.5,2.72 h 8.46 L 82,57 h -9.17 l 0.75,1.36 h 9.17 V 59 a 3.39,3.39 0 0 1 -3.39,3.39 H 75.81 L 78,66.47 h 1.32 A 7.47,7.47 0 0 0 86.82,59 V 57.65 A 2.08,2.08 0 0 0 86.51,56.57 L 80,46.22 V 6.1 A 6.11,6.11 0 0 0 73.93,0 h -61 A 6.11,6.11 0 0 0 6.78,6.1 V 46.22 L 0.31,56.57 A 2.08,2.08 0 0 0 0,57.65 V 59 a 7.47,7.47 0 0 0 7.46,7.46 H 68.74 L 66.51,62.4 h -59 A 3.39,3.39 0 0 1 4.07,59 v -0.68 h 60.2 L 63.53,57 H 54.15 L 53.58,53.61 H 33.23 L 32.67,57 H 4.86 l 5.51,-8.81 H 58.69 L 57.2,45.44 H 10.85 V 6.1 a 2,2 0 0 1 2,-2 h 26.9 L 40,5.43 h 6.8 l 0.27,-1.36 z"
+           id="path5924-2" />
+        <polyline
+           style="fill:#666666;stroke-width:1.18900669"
+           class="cls-1"
+           points="26.92 14.13 33.39 26.66 47.28 15.98 78.61 72.01 83.36 69.41 83.06 82.93 71.5 75.91 76.24 73.31 46.42 20.06 32.47 30.79 23.87 14.13"
+           id="polyline5926-6" />
+        <path
+           style="fill:#666666;stroke-width:1.18900669"
+           class="cls-1"
+           d="M 20.07,36.75 V 11.64 a 0.68,0.68 0 1 0 -1.35,0 v 25.79 a 0.67,0.67 0 0 0 0.68,0.67 h 47.93 a 0.68,0.68 0 0 0 0,-1.35"
+           id="path5928-4" />
+        <polygon
+           style="fill:#cccccc;stroke-width:1.18900669"
+           class="cls-2"
+           points="54.96,41.27 55.71,42.62 14.19,42.62 14.19,7.35 72.52,7.35 72.52,42.62 64.99,42.62 64.25,41.27 71.17,41.27 71.17,8.71 15.55,8.71 15.55,41.27 "
+           id="polygon5930-1" />
+        <circle
+           style="fill:#666666;stroke-width:1.18900669"
+           class="cls-1"
+           cx="25.35"
+           cy="14.13"
+           r="2.6900001"
+           id="circle5932-2" />
+      </g>
+    </g>
+  </g>
+</svg>

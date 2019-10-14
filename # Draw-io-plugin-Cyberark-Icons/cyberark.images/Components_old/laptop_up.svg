@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg237506"
+   version="1.1"
+   viewBox="0 0 18.592598 18.453999"
+   height="18.453999mm"
+   width="18.592598mm">
+  <defs
+     id="defs237500" />
+  <metadata
+     id="metadata237503">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(26.683204,-180.42776)"
+     id="layer1">
+    <g
+       style="fill:#58595b;fill-opacity:1;stroke-width:0.78268147"
+       transform="matrix(0.33804725,0,0,0.33804725,-26.683204,180.42776)"
+       id="Layer_2-61"
+       data-name="Layer 2">
+      <g
+         style="fill:#58595b;fill-opacity:1;stroke-width:0.78268147"
+         id="Layer_1-2-7"
+         data-name="Layer 1">
+        <path
+           style="fill:#58595b;fill-opacity:1;stroke-width:0.78268147"
+           class="cls-1"
+           d="M 54.8,48.3 50.7,41.74 V 16.33 a 3.86,3.86 0 0 1 -3.86,-3.87 h -3 L 42.38,15 h 4.46 a 1.28,1.28 0 0 0 1.28,1.29 V 41.25 H 6.88 V 16.33 A 1.28,1.28 0 0 0 8.16,15 h 17 l 0.17,0.86 h 4.3 L 29.8,15 h 6.7 l 1.42,-2.58 H 8.16 A 3.86,3.86 0 0 1 4.3,16.33 V 41.74 L 0.2,48.3 A 1.26,1.26 0 0 1 0,49 v 0.86 a 4.73,4.73 0 0 1 4.73,4.73 H 50.27 A 4.73,4.73 0 0 1 55,49.84 V 49 A 1.26,1.26 0 0 1 54.8,48.3 Z M 6.57,43 h 41.86 l 3.49,5.58 H 34.3 L 34,46.41 H 21.05 L 20.7,48.55 H 3.08 Z m 43.7,9 H 4.73 A 2.16,2.16 0 0 0 2.58,49.85 v -0.43 h 49.84 v 0.43 A 2.16,2.16 0 0 0 50.27,52 Z"
+           id="path9902" />
+        <path
+           style="fill:#58595b;fill-opacity:1;stroke-width:0.78268147"
+           class="cls-1"
+           d="M 29.44,31.48 20.6,24.69 15.15,35.23 H 13.32 V 21.05 a 0.43,0.43 0 1 0 -0.86,0 v 14.61 a 0.43,0.43 0 0 1 0.43,0.43 h 29.22 a 0.43,0.43 0 0 0 0.43,-0.43 0.43,0.43 0 0 0 -0.43,-0.43 h -25 L 21.21,27.3 30,34.07 44.88,6.92 47.88,8.57 47.7,0 l -7.33,4.44 3,1.65 z"
+           id="path9904" />
+        <polygon
+           style="fill:#58595b;fill-opacity:1;stroke-width:0.78268147"
+           class="cls-1"
+           points="9.02,39.53 45.98,39.53 45.98,17.19 41.2,17.19 40.73,18.05 45.12,18.05 45.12,38.67 9.88,38.67 9.88,18.05 34.85,18.05 35.32,17.19 9.02,17.19 "
+           id="polygon9906" />
+      </g>
+    </g>
+  </g>
+</svg>
