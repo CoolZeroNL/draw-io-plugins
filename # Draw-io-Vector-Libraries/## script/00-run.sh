@@ -1,7 +1,8 @@
 #!/bin/bash
 
 
-
+# #TODO
+# bug: all svg files can not have a space in the filename
 
 
 ## For Each Folder in Cyberark.Images 
