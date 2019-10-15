@@ -72,4 +72,6 @@ done
 
 
 # housekeeping
-# rm basemodel_url_encoded
+rm basemodel_url_encoded
+rm basemodel_tmp
+rm basemodel_done
