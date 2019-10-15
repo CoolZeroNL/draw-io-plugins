@@ -1,0 +1,9 @@
+Stappen:
+1. encode SVG to base64
+2. add img to base mxGraphModel
+3. encode hole mxGraphModel to base64
+
+Base mxGraphModel:
+```
+<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" value="" style="shape=image;editableCssRules=.*;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,{ BASE64 SVG CODE }" vertex="1" parent="1"><mxGeometry y="-5.684341886080802e-14" width="52" height="52" as="geometry"/></mxCell></root></mxGraphModel>
+```
