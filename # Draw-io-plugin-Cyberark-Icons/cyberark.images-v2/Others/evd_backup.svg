@@ -1,39 +1,42 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
 	 id="svg209576" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 85.1 52.9"
 	 style="enable-background:new 0 0 85.1 52.9;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#58595B;stroke-width:0.1471;}
-	.st1{fill:none;stroke:#58595B;stroke-width:0.6655;stroke-linecap:round;stroke-linejoin:round;}
-	.st2{fill:none;stroke:#58595B;stroke-width:0.417;stroke-linecap:round;stroke-linejoin:round;}
-	.st3{font-family:'Arial-BoldMT';}
-	.st4{font-size:17.5038px;}
+	.st0{fill:none;stroke:#58595B;}
+	.st1{fill:none;}
+	.st2{fill:#58595B;stroke:#58595B;stroke-width:0.25;}
+	.st3{fill:#58595B;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{font-size:17.5029px;}
 </style>
 <g id="layer1" transform="translate(208.53851,-40.471784)">
 	<g id="g5623-6" transform="matrix(2.7050913,0,0,2.7335943,-480.90752,8.4228956)">
 		<path id="path2634-8" class="st0" d="M106.4,25.4c-0.2,0.1-0.4,0.1-0.6,0l-3-1.9c-0.2-0.1-0.2-0.3,0-0.5l3-1.9
-			c0.2-0.1,0.4-0.1,0.6,0l0.1,0.1c0.2,0.1,0.2,0.3,0,0.4l-2.5,1.6c0,0,0,0,0,0l2.6,1.6c0.2,0.1,0.2,0.3,0,0.4L106.4,25.4z"/>
+			c0.2-0.1,0.4-0.1,0.6,0l0.1,0.1c0.2,0.1,0.2,0.3,0,0.4l-2.5,1.6l0,0l2.6,1.6c0.2,0.1,0.2,0.3,0,0.4L106.4,25.4z"/>
 		<path id="path2636-7" class="st0" d="M126.6,25.4c0.2,0.1,0.4,0.1,0.6,0l3-1.9c0.2-0.1,0.2-0.3,0-0.5l-3-1.9
-			c-0.2-0.1-0.4-0.1-0.6,0l-0.1,0.1c-0.2,0.1-0.2,0.3,0,0.4l2.5,1.6c0,0,0,0,0,0l-2.6,1.6c-0.2,0.1-0.2,0.3,0,0.4L126.6,25.4z"/>
-		<g id="g605-3-4" transform="matrix(0.42411151,0,0,-0.35277777,103.94113,18.269926)">
-			<path id="path607-2-9" class="st1" d="M65.6-35.4H-6.7v53h72.3V-35.4z"/>
-			<path id="path607-2-8-2" class="st1" d="M65.6-35.4H-6.7V6.4h72.3L65.6-35.4z"/>
+			c-0.2-0.1-0.4-0.1-0.6,0l-0.1,0.1c-0.2,0.1-0.2,0.3,0,0.4l2.5,1.6l0,0l-2.6,1.6c-0.2,0.1-0.2,0.3,0,0.4L126.6,25.4z"/>
+		<g>
+			<rect x="75.5" y="9.1" class="st1" width="81.9" height="9.8"/>
+			<rect x="75.5" y="3.7" class="st1" width="81.9" height="39.3"/>
+			<path class="st2" d="M131.8,11.9h-30.7c-0.1,0-0.2,0.1-0.2,0.2v4v14.7c0,0.1,0.1,0.2,0.2,0.2h30.7c0.1,0,0.2-0.1,0.2-0.2V16v-4
+				C131.9,12,131.9,11.9,131.8,11.9z M131.6,12.2v3.6h-30.3v-3.6H131.6z M131.6,30.6h-30.3V16.2h30.3V30.6z"/>
 		</g>
 		<g id="g649-0-4" transform="matrix(0.35277777,0,0,-0.35277777,102.26393,12.54966)">
-			<path id="path651-3-4" class="st2" d="M8.2-4.3C8.2-5,7.7-5.5,7-5.5C6.3-5.5,5.8-5,5.8-4.3S6.3-3.1,7-3.1
-				C7.7-3.1,8.2-3.6,8.2-4.3z"/>
+			<path class="st3" d="M7-6C6-6,5.3-5.3,5.3-4.3S6-2.6,7-2.6s1.7-0.7,1.7-1.7S8-6,7-6z M7-3.6c-0.4,0-0.7-0.3-0.7-0.7
+				C6.3-4.7,6.6-5,7-5c0.4,0,0.7,0.3,0.7,0.7C7.7-3.9,7.4-3.6,7-3.6z"/>
 		</g>
 		<g id="g649-0-7-5" transform="matrix(0.35277777,0,0,-0.35277777,101.62872,12.54966)">
-			<path id="path651-3-0-9" class="st2" d="M4.9-4.3c0-0.7-0.5-1.2-1.2-1.2C3-5.5,2.5-5,2.5-4.3S3-3.1,3.7-3.1
-				C4.4-3.1,4.9-3.6,4.9-4.3z"/>
+			<path class="st3" d="M3.7-6C2.7-6,2-5.3,2-4.3s0.7,1.7,1.7,1.7s1.7-0.7,1.7-1.7S4.7-6,3.7-6z M3.7-3.6C3.3-3.6,3-3.9,3-4.3
+				C3-4.7,3.3-5,3.7-5c0.4,0,0.7,0.3,0.7,0.7C4.4-3.9,4.1-3.6,3.7-3.6z"/>
 		</g>
 		<g id="g649-0-0-1" transform="matrix(0.35277777,0,0,-0.35277777,102.89803,12.54966)">
-			<path id="path651-3-3-2" class="st2" d="M11.5-4.3c0-0.7-0.5-1.2-1.2-1.2C9.6-5.5,9.1-5,9.1-4.3s0.5,1.2,1.2,1.2
-				C11-3.1,11.5-3.6,11.5-4.3z"/>
+			<path class="st3" d="M10.3-6c-1,0-1.7,0.7-1.7,1.7s0.7,1.7,1.7,1.7S12-3.3,12-4.3S11.3-6,10.3-6z M10.3-3.6
+				c-0.4,0-0.7-0.3-0.7-0.7C9.6-4.7,9.9-5,10.3-5C10.7-5,11-4.7,11-4.3C11-3.9,10.7-3.6,10.3-3.6z"/>
 		</g>
-		<text transform="matrix(0.2938 0 0 0.3658 109.0413 25.7281)" class="st0 st3 st4">CODE</text>
+		<text transform="matrix(0.2938 0 0 0.3658 109.0413 25.7281)" class="st0 st4 st5">CODE</text>
 	</g>
 </g>
 </svg>

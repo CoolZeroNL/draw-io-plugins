@@ -6,8 +6,7 @@
 	 style="enable-background:new 0 0 85.7 52.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#878589;}
-	.st1{fill:#394D54;}
-	.st2{fill:#666666;}
+	.st1{fill:#58595B;stroke:#58595B;stroke-width:0.25;}
 </style>
 <g id="layer1" transform="translate(38.931804,-139.60633)">
 	<g id="Layer_2-94-9" transform="matrix(0.28834374,0,0,0.28834374,-38.931804,139.60633)">
@@ -27,8 +26,8 @@
 			<rect id="rect11332-2" x="166" y="70.8" class="st0" width="2.7" height="41.3"/>
 			<rect id="rect11334-5" x="128.6" y="128" class="st0" width="2.7" height="41.3"/>
 			<rect id="rect11336-3" x="93.8" y="70.8" class="st0" width="2.8" height="41.3"/>
-			<rect id="rect11338-4" x="21.6" y="128" class="st1" width="2.8" height="41.3"/>
-			<rect id="rect11340-9" x="14.2" y="128" class="st1" width="2.7" height="41.3"/>
+			<rect id="rect11338-4" x="21.6" y="128" class="st0" width="2.8" height="41.3"/>
+			<rect id="rect11340-9" x="14.2" y="128" class="st0" width="2.7" height="41.3"/>
 			<rect id="rect11342-0" x="29.1" y="128" class="st0" width="2.8" height="41.3"/>
 			<rect id="rect11344-2" x="108.8" y="128" class="st0" width="2.7" height="41.3"/>
 			<rect id="rect11346-0" x="36.6" y="128" class="st0" width="2.8" height="41.3"/>
@@ -58,7 +57,7 @@
 			<rect id="rect11394-8" x="185.8" y="70.8" class="st0" width="2.7" height="41.3"/>
 			<rect id="rect11396-5" x="193.1" y="128" class="st0" width="2.8" height="41.3"/>
 			<rect id="rect11398-8" x="185.8" y="128" class="st0" width="2.7" height="41.3"/>
-			<rect id="rect11400-2" x="223.1" y="70.8" class="st1" width="2.7" height="41.3"/>
+			<rect id="rect11400-2" x="223.1" y="70.8" class="st0" width="2.7" height="41.3"/>
 			<rect id="rect11402-6" x="215.6" y="70.8" class="st0" width="2.8" height="41.3"/>
 			<rect id="rect11404-0" x="200.6" y="128" class="st0" width="2.8" height="41.3"/>
 			<rect id="rect11406-6" x="223.1" y="128" class="st0" width="2.7" height="41.3"/>
@@ -120,7 +119,7 @@
 			<rect id="rect11518-3" x="208.1" y="70.8" class="st0" width="2.8" height="41.3"/>
 			<rect id="rect11520-7" x="215.6" y="70.8" class="st0" width="2.8" height="41.3"/>
 			<rect id="rect11522-8" x="193.1" y="70.8" class="st0" width="2.8" height="41.3"/>
-			<path id="path11524-7" class="st2" d="M240.1,114.3V0h-68.6v57.2H57.2v57.1H0v67.1h297.3v-67.1H240.1z M59.1,173.4H9.5v-49.5
+			<path id="path11524-7" class="st1" d="M240.1,114.3V0h-68.6v57.2H57.2v57.1H0v67.1h297.3v-67.1H240.1z M59.1,173.4H9.5v-49.5
 				h49.5V173.4z M116.2,173.4H66.7v-49.5h49.5L116.2,173.4z M116.2,116.2H66.7V66.7h49.5V116.2z M173.4,173.4h-49.5v-49.5h49.5
 				V173.4z M173.4,116.2h-49.5V66.7h49.5V116.2z M230.6,173.4H181v-49.5h49.5V173.4z M230.6,116.2H181V66.7h49.5V116.2z M230.6,59
 				H181V9.5h49.5V59z M287.7,173.4h-49.6v-49.5h49.5L287.7,173.4z"/>

@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg296078" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 id="svg297519" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 52.3 52.3"
 	 style="enable-background:new 0 0 52.3 52.3;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#58595B;stroke-width:7.809;stroke-miterlimit:1;}
+	.st01{fill:#58595B;stroke:#58595B;stroke-width:0.25;}
 	.st1{fill:#58595B;}
 	.st2{font-family:'NimbusSanL-BoldCond';}
 	.st3{font-size:16.9036px;}
 </style>
-<g id="layer1" transform="translate(33.0395,-139.60633)">
-	<g id="g1930-1-0" transform="matrix(0.2032912,0,0,0.2032912,-71.469384,58.123203)">
-		
-			<ellipse id="path1921-5-9" transform="matrix(7.088904e-02 -0.9975 0.9975 7.088904e-02 -232.9707 808.844)" class="st0" cx="317.7" cy="529.5" rx="23.9" ry="23.9"/>
-		<text transform="matrix(4.9191 0 0 4.9191 225.1511 560.3868)" class="st1 st2 st3">DC2</text>
+<g id="layer1" transform="translate(-299.95752,-225.78491)">
+	<g id="g1930-5" transform="matrix(0.2032912,0,0,0.2032912,259.24654,153.21879)">
+		<path class="st0" d="M328.9,613c-70.3,0-127.4-57.2-127.4-127.4c0-70.3,57.2-127.4,127.4-127.4s127.4,57.2,127.4,127.4
+			C456.3,555.9,399.2,613,328.9,613z M328.9,377.8c-59.4,0-107.8,48.3-107.8,107.8s48.3,107.8,107.8,107.8
+			c59.4,0,107.8-48.3,107.8-107.8S388.3,377.8,328.9,377.8z"/>
+		<text transform="matrix(4.9191 0 0 4.9191 261.5795 516.524)" class="st1 st2 st3">DC2</text>
 	</g>
 </g>
 </svg>
