@@ -1,5 +1,7 @@
 
-# Library for Draw.io
+# Draw.io Libraries
+
+https://github.com/jgraph/drawio-libs/tree/master/libs
 
 ! Work in Progress !
 
@@ -21,26 +23,36 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 - Flow
     - is created by hand...
 
-# Install Library
-https://desk.draw.io/support/solutions/articles/16000079239
+# Using a custom library
+
+Let us now add the custom library we created in the previous section.
+
+Go to `Select File` -> `Open library from` -> `URL`
+
+<p align="center">
+    <img width="25%" src="./readme.images/file-open-library-from-url.png">
+</p>
+
+The URL popup will appears, and we can add or library url.
+
+<p align="center">
+    <img width="25%" src="./readme.images/url.png">
+</p>
+
+Click on Open when u entered the url, and the library menu will appear.
+
+<p align="center">
+    <img width="25%" src="./readme.images/library-loaded.png">
+</p>
+
+See also: https://desk.draw.io/support/solutions/articles/16000067790
 
 
-Opening a custom library
-
-Having created our custom library, we can load it into another session of draw.io. Below we created a new diagram in Google Drive.  Let us now add the custom library we created in the previous section.
-
-Select File -> Open library from -> Browser (since we saved the library in local Browser storage).
-
-The Browser file picker appears, and we can see our custom library file.
-
-Clicking the file causes the library symbol menu to appear.
-
-See also: Create and share custom libraries
-
-<!-- https://github.com/jgraph/drawio-libs/tree/master/libs -->
 
 
 <!-- Rule:
+https://desk.draw.io/support/solutions/articles/16000079239
+
 ```
 editableCssRules=.*;
 ```
