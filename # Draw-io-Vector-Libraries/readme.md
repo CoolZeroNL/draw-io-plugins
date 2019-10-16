@@ -29,23 +29,16 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 ------------------
 Need to be fixt
 Components
-x - cloud_infrastructure.svg
-x - granular_privileged_access_controls.svg
-x - vault_digital.svg
-x - vault_enterprise_password.svg
-x - vault_integration.svg
-x - vault_secure_flexible_architecture.svg
-x - vault.svg
+- discovery engine
+- enterprise intergration api
+- extensice intergrarions library
+- password vailt web access
 
 Other
-
-- brain_gear.svg
-- cert.svg
-- cyber_security_professional.svg
-- insurance.svg
-- it_services.svg
-- manufacturing.svg
-- network_devices.svg
+- lightbulb
+- telecom
+- website-webapps
+- windows
 
 - Flow
     - All... (redraw in Draw.io and use it as template)
