@@ -3,8 +3,6 @@
 
 https://github.com/jgraph/drawio-libs/tree/master/libs
 
-! Work in Progress !
-
 ## library-cyberark-Components-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml  
 
