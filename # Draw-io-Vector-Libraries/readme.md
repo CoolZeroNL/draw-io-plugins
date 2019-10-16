@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 
 # 2. Using a custom library
 
-Let us now add the custom library we created in the previous section.
+Let us add a custom library.
 
 Go to `Select File` -> `Open library from` -> `URL`
 
