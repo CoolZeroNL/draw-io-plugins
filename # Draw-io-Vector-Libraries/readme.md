@@ -66,13 +66,13 @@ Go to `Select File` -> `Open library from` -> `URL`
     <img width="25%" src="./readme.images/file-open-library-from-url.png">
 </p>
 
-The URL popup will appears, and we can add or library url.
+The URL popup will appear, here u enter the library url.
 
 <p align="center">
     <img width="25%" src="./readme.images/url.png">
 </p>
 
-Click on Open when u entered the url, and the library menu will appear.
+Click on `Open` when u entered the url, and the library menu will appear.
 
 <p align="center">
     <img width="25%" src="./readme.images/library-added.png">
