@@ -29,16 +29,16 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 ------------------
 Need to be fixt
 Components
-- discovery engine
-- enterprise intergration api
-- extensice intergrarions library
-- password vailt web access
+x - discovery engine
+x - enterprise intergration api
+x - extensice intergrarions library
+x - password vailt web access
 
 Other
-- lightbulb
-- telecom
-- website-webapps
-- windows
+x - lightbulb
+x - telecom
+x - website-webapps
+x - windows
 
 - Flow
     - All... (redraw in Draw.io and use it as template)
