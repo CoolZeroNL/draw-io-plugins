@@ -30,24 +30,24 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 Need to be fixt, with ill (border, and merge path)
 
 - Components
-    - cloud_devops_pipeline.svg
-    - cloud_infrastructure.svg
-    - granular_privileged_access_controls.svg
-    - vault_digital.svg
-    - vault_enterprise_password.svg
-    - vault_integration.svg
-    - vault_secure_flexible_architecture.svg
-    - vault.svg
+    - x - cloud_devops_pipeline.svg
+    - x - cloud_infrastructure.svg
+    - x - granular_privileged_access_controls.svg
+    - x - vault_digital.svg
+    - x - vault_enterprise_password.svg
+    - x - vault_integration.svg
+    - x - vault_secure_flexible_architecture.svg
+    - x - vault.svg
 
 - Other
-    - brain_gear.svg
-    - cert.svg
+    - x - brain_gear.svg
+    - x - cert.svg
+    - x - cyber_security_professional.svg
+    - x - insurance.svg
+    - x - it_services.svg
+    - x - manufacturing.svg
+    - x - network_devices.svg
     - countries.svg
-    - cyber_security_professional.svg
-    - insurance.svg
-    - it_services.svg
-    - manufacturing.svg
-    - network_devices.svg
     - website_webapps.svg
 
 - Flow
