@@ -118,6 +118,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 ## 1.7. Cyberark Icons
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v1.js?maxAge=10
+- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v2.js?maxAge=10
 
   - Will Do:
     - Add Stencil: 
