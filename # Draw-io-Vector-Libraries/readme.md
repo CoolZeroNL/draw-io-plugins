@@ -42,7 +42,7 @@ The URL popup will appears, and we can add or library url.
 Click on Open when u entered the url, and the library menu will appear.
 
 <p align="center">
-    <img width="25%" src="./readme.images/library-loaded.png">
+    <img width="25%" src="./readme.images/library-added.png">
 </p>
 
 See also: https://desk.draw.io/support/solutions/articles/16000067790
