@@ -16,7 +16,7 @@
  */
 Draw.loadPlugin(function(ui) {
     // Adds custom sidebar entry
-    ui.sidebar.addPalette('OdooDesign', 'aaa', true, function(content) {
+    ui.sidebar.addPalette('aa', 'aaa', true, function(content) {
 
         // content.appendChild(ui.sidebar.createVertexTemplate(null, 120, 60));
         content.appendChild(ui.sidebar.createVertexTemplate('https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml', 1006, 124));
