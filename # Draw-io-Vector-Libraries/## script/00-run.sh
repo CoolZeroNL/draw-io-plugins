@@ -12,7 +12,7 @@
 path='../../# Draw-io-plugin-Cyberark-Icons/cyberark.images-v2/'
 
 ## For Each Folder in Cyberark.Images 
-ls -F "$path" | grep / | sed 's|/||g' | sort -r | while read folder
+ls -F "$path" | grep / | sed 's|/||g' | grep -v 'Flow' | sort -r | while read folder
 do
 
     # Declare filenames
