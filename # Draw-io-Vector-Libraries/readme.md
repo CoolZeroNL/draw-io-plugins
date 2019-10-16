@@ -18,12 +18,19 @@ editableCssRules=.*;
 8. click on apply
 9. click on the + icon in the Libary
 
-
+# library-cyberark-Components-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml  
+
+# library-cyberark-Levels-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Levels-v1.xml  
+
+# library-cyberark-Logos-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Logos-v1.xml  
+
+# library-cyberark-Others-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Others-v1.xml  
   
+# library-cyberark-Flow-v2
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Flow-v2.xml
 
 - Flow
