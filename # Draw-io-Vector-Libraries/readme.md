@@ -22,35 +22,35 @@ https://github.com/jgraph/drawio-libs/tree/master/
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml  
 
 <p align="center">
-    <img width="25%" src="./readme.images/lib-components.png">
+    <img width="50%" src="./readme.images/lib-components.png">
 </p>
 
 ## 1.2. library-cyberark-Levels-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Levels-v1.xml  
 
 <p align="center">
-    <img width="25%" src="./readme.images/lib-levels.png">
+    <img width="50%" src="./readme.images/lib-levels.png">
 </p>
 
 ## 1.3. library-cyberark-Logos-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Logos-v1.xml  
 
 <p align="center">
-    <img width="25%" src="./readme.images/lib-logos.png">
+    <img width="50%" src="./readme.images/lib-logos.png">
 </p>
 
 ## 1.4. library-cyberark-Others-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Others-v1.xml  
 
 <p align="center">
-    <img width="25%" src="./readme.images/lib-others.png">
+    <img width="50%" src="./readme.images/lib-others.png">
 </p>
 
 ## 1.5. library-cyberark-Flow-v2
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Flow-v2.xml
 
 <p align="center">
-    <img width="25%" src="./readme.images/lib-flows.png">
+    <img width="50%" src="./readme.images/lib-flows.png">
 </p>
 
 - Flow
