@@ -26,113 +26,29 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Others-v1.xml
 
 
+------------------
+Need to be fixt, with ill (border, and merge path)
 
-# library-cyberark-Components-v1.xml
-## no line
-ad
-appliation access manager
-cloud access keys secrets
-cloud access security
-cloud config
-cloud devops pipeline
-cloud infrastructure
-cloud management console
-cloud
-cloud xaas platform
-computer bolt
-dc3
-developters
-discovery engine
-enterprise class intergration api
-extensice intergrations library
-laptop detailed audit reporting
-laptop down
-laptop endpoint privilege manager
-laptop key safe
-laptop up
-paper autdit check
-paper check
-pvwa
-privileged threat analiytics
-security
-vault digital
-vault enterpise password
-vault intergration
-vault secure flexible architecture
-vault
+- Components
+    - cloud_devops_pipeline.svg
+    - cloud_infrastructure.svg
+    - granular_privileged_access_controls.svg
+    - vault_digital.svg
+    - vault_enterprise_password.svg
+    - vault_integration.svg
+    - vault_secure_flexible_architecture.svg
+    - vault.svg
 
-## Strange splitsing 
-containers
-dc1
-dc2
-dc4
-decentralize secure storage
+- Other
+    - brain_gear.svg
+    - cert.svg
+    - countries.svg
+    - cyber_security_professional.svg
+    - insurance.svg
+    - it_services.svg
+    - manufacturing.svg
+    - network_devices.svg
+    - website_webapps.svg
 
-## Line
-automatic credential rotation
-central policy manager
-cloud centralized secure storage
-end to end automation
-granular privileged access controls
-privileged session manager
-
-
-# library-cyberark-Flow-v1.xml
-## Line
-## No Line
-
-# library-cyberark-Levels-v1.xml
-## line
-
-## no line
-defender
-sentry
-trustee
-guardian
-
-# library-cyberark-Others-v1.xml
-## Line
-## No Line
-arrow_bullseye
-authorize
-banks
-brain gear
-cert
-countries
-cube blue
-cube green
-cube yellow
-cube orange
-cube gray
-customers stars
-customers
-cyber cecurity professional
-deliver scale
-energy
-evd backup
-extensive partner
-fortune 500
-global 2000
-help wanted
-insurance
-it service
-lightbulb
-manufacturing
-network devices
-partner network
-scalability
-secret management
-telecom
-website - webapps
-windows
-
-
-
-
-
-
-
-
-
-
-
+- Flow
+    - All... (redraw in Draw.io and use it as template)
