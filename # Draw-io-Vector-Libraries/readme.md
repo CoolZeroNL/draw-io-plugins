@@ -1,27 +1,42 @@
 
-# Draw.io Libraries
+# Index
+
+<!-- TOC -->
+
+- [Index](#index)
+- [1. Draw.io Libraries](#1-drawio-libraries)
+    - [1.1. library-cyberark-Components-v1](#11-library-cyberark-components-v1)
+    - [1.2. library-cyberark-Levels-v1](#12-library-cyberark-levels-v1)
+    - [1.3. library-cyberark-Logos-v1](#13-library-cyberark-logos-v1)
+    - [1.4. library-cyberark-Others-v1](#14-library-cyberark-others-v1)
+    - [1.5. library-cyberark-Flow-v2](#15-library-cyberark-flow-v2)
+- [2. Using a custom library](#2-using-a-custom-library)
+
+<!-- /TOC -->
+
+# 1. Draw.io Libraries
 
 https://github.com/jgraph/drawio-libs/tree/master/libs
 
-## library-cyberark-Components-v1
+## 1.1. library-cyberark-Components-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml  
 
-## library-cyberark-Levels-v1
+## 1.2. library-cyberark-Levels-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Levels-v1.xml  
 
-## library-cyberark-Logos-v1
+## 1.3. library-cyberark-Logos-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Logos-v1.xml  
 
-## library-cyberark-Others-v1
+## 1.4. library-cyberark-Others-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Others-v1.xml  
   
-## library-cyberark-Flow-v2
+## 1.5. library-cyberark-Flow-v2
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Flow-v2.xml
 
 - Flow
     - is created by hand...
 
-# Using a custom library
+# 2. Using a custom library
 
 Let us now add the custom library we created in the previous section.
 
