@@ -16,7 +16,7 @@
 
 # 1. Draw.io Libraries
 
-https://github.com/jgraph/drawio-libs/tree/master/libs
+https://github.com/jgraph/drawio-libs/tree/master/
 
 ## 1.1. library-cyberark-Components-v1
 https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml  
