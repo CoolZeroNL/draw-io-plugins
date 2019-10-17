@@ -24,7 +24,6 @@ https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-i
 # Install Library
 https://desk.draw.io/support/solutions/articles/16000079239
 
-
 Opening a custom library
 
 Having created our custom library, we can load it into another session of draw.io. Below we created a new diagram in Google Drive.  Let us now add the custom library we created in the previous section.
