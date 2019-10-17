@@ -21,7 +21,7 @@ do
    
     echo "Building:" $filename
 
-    echo '<mxlibrary title="Cyberark Icons '$folder'">[' > ../$filename
+    echo '<mxlibrary title="L Cyberark Icons '$folder'">[' > ../$filename
 
         # Count the images.
         counterimg=`ls "$path"/"$folder" | grep .svg | wc -l`

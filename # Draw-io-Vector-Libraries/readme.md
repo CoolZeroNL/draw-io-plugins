@@ -1,45 +1,91 @@
 
-# Library for Draw.io
+# Index
 
-! Work in Progress !
+<!-- TOC -->
 
-## library-cyberark-Components-v1
-https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml  
+- [Index](#index)
+- [1. Draw.io Libraries](#1-drawio-libraries)
+    - [1.1. library-cyberark-Components-v1](#11-library-cyberark-components-v1)
+    - [1.2. library-cyberark-Levels-v1](#12-library-cyberark-levels-v1)
+    - [1.3. library-cyberark-Logos-v1](#13-library-cyberark-logos-v1)
+    - [1.4. library-cyberark-Others-v1](#14-library-cyberark-others-v1)
+    - [1.5. library-cyberark-Flow-v2](#15-library-cyberark-flow-v2)
+- [2. Using a custom library](#2-using-a-custom-library)
 
-## library-cyberark-Levels-v1
-https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Levels-v1.xml  
+<!-- /TOC -->
 
-## library-cyberark-Logos-v1
-https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Logos-v1.xml  
+# 1. Draw.io Libraries
 
-## library-cyberark-Others-v1
-https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Others-v1.xml  
-  
-## library-cyberark-Flow-v2
-https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Flow-v2.xml
+https://github.com/jgraph/drawio-libs/tree/master/
+
+## 1.1. library-cyberark-Components-v1
+- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Components-v1.xml  
+
+<p align="center">
+    <img width="50%" src="./readme.images/lib-components.png">
+</p>
+
+## 1.2. library-cyberark-Levels-v1
+- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Levels-v1.xml  
+
+<p align="center">
+    <img width="50%" src="./readme.images/lib-levels.png">
+</p>
+
+## 1.3. library-cyberark-Logos-v1
+- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Logos-v1.xml  
+
+<p align="center">
+    <img width="50%" src="./readme.images/lib-logos.png">
+</p>
+
+## 1.4. library-cyberark-Others-v1
+- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Others-v1.xml  
+
+<p align="center">
+    <img width="50%" src="./readme.images/lib-others.png">
+</p>
+
+## 1.5. library-cyberark-Flow-v2
+- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-Vector-Libraries/library-cyberark-Flow-v2.xml
+
+<p align="center">
+    <img width="50%" src="./readme.images/lib-flows.png">
+</p>
 
 - Flow
     - is created by hand...
 
-# Install Library
-https://desk.draw.io/support/solutions/articles/16000079239
+# 2. Using a custom library
 
-Opening a custom library
+Let us add a custom library.
 
-Having created our custom library, we can load it into another session of draw.io. Below we created a new diagram in Google Drive.  Let us now add the custom library we created in the previous section.
+Go to `Select File` -> `Open library from` -> `URL`
 
-Select File -> Open library from -> Browser (since we saved the library in local Browser storage).
+<p align="center">
+    <img width="25%" src="./readme.images/file-open-library-from-url.png">
+</p>
 
-The Browser file picker appears, and we can see our custom library file.
+The URL popup will appear, here u enter the library url.
 
-Clicking the file causes the library symbol menu to appear.
+<p align="center">
+    <img width="25%" src="./readme.images/url.png">
+</p>
 
-See also: Create and share custom libraries
+Click on `Open` when u entered the url, and the library menu will appear.
 
-<!-- https://github.com/jgraph/drawio-libs/tree/master/libs -->
+<p align="center">
+    <img width="25%" src="./readme.images/library-added.png">
+</p>
+
+See also: https://desk.draw.io/support/solutions/articles/16000067790
+
+
 
 
 <!-- Rule:
+https://desk.draw.io/support/solutions/articles/16000079239
+
 ```
 editableCssRules=.*;
 ```
