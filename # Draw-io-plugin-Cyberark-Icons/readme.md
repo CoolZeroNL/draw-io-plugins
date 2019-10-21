@@ -1,4 +1,11 @@
-# Icons
+# discontinued
+
+Please use the Library !!
+
+
+
+
+<!-- # Icons
 
 <p align="center">
   <img width="50%" src="./readme.images/00-cyberark-all.png">
@@ -14,4 +21,4 @@ Place your images in the `cyberark.images` \ `subfolder` to have them embedded i
 
 # run
 
-When there is an update of the images folder, run `01-create_xml-gen-v1.sh` to re-generate the plugin js file and the xml files for the sencil.
+When there is an update of the images folder, run `01-create_xml-gen-v1.sh` to re-generate the plugin js file and the xml files for the sencil. -->

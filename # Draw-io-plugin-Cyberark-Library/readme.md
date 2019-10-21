@@ -99,3 +99,6 @@ editableCssRules=.*;
 7. add `editableCssRules=.*;` after images;
 8. click on apply
 9. click on the + icon in the Libary -->
+
+
+https://stackoverflow.com/questions/55119807/how-to-customize-mxgraph-toolbar-and-properties-panel
