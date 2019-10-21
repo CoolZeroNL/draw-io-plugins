@@ -6,6 +6,7 @@
 - [1. Index](#1-index)
 - [2. How to use:](#2-how-to-use)
     - [2.1. Load Automatic -> Using a plugin to load the library](#21-load-automatic---using-a-plugin-to-load-the-library)
+        - [Plugin Installation Steps (draw.io Online)](#plugin-installation-steps-drawio-online)
         - [2.1.1. Plugin info:](#211-plugin-info)
     - [2.2. Load Manuel -> Manual load a custom library](#22-load-manuel---manual-load-a-custom-library)
 - [3. Draw.io Libraries](#3-drawio-libraries)
@@ -23,6 +24,49 @@
 
 ## 2.1. Load Automatic -> Using a plugin to load the library
 This will use the plugin functionality, and will load automatic all the cyberark Librarys into draw.io. With the menu you can activate them, and load them into your sidebar.
+
+### Plugin Installation Steps (draw.io Online)
+
+Go to `Extras` -> `Plugins`
+kbd:[File] -> kbd:[Save] -> kbd:[Option]
+
+<p align="center">
+  <img width="50%" src="./readme.images/01-plugins.png">
+</p>
+
+Click on `Add`
+
+<p align="center">
+  <img width="50%" src="./readme.images/02-plugins-list.png">
+</p>
+
+Paste the url of the wanted Plugin and click on `Add`
+
+<p align="center">
+  <img width="50%" src="./readme.images/03-plugin-add-url.png">
+</p>
+
+If you are done adding your wanted plugins, click `Apply`
+
+<p align="center">
+  <img width="50%" src="./readme.images/04-plugins-added.png">
+</p>
+
+You will get a warning, click `Ok` and refresh your draw.io page.
+<p align="center">
+  <img width="50%" src="./readme.images/05-plugins-added-applyed.png">
+</p>
+
+When using custom plugins, you will get a warning every times you open Draw.io, check if the plugin you want is listed here, and press `Ok`
+
+<p align="center">
+  <img width="50%" src="./readme.images/06-plugin-warning.png">
+</p>
+
+Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality will be availible.
+<p align="center">
+  <img width="50%" src="./readme.images/07-menu.png">
+</p>
 
 see: [https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online](https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online)
 
