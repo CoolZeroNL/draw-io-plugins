@@ -31,41 +31,41 @@ Go to `Extras` -> `Plugins`
 kbd:[File] -> kbd:[Save] -> kbd:[Option]
 
 <p align="center">
-  <img width="50%" src="./readme.images/01-plugins.png">
+  <img width="50%" src="../readme.images/01-plugins.png">
 </p>
 
 Click on `Add`
 
 <p align="center">
-  <img width="50%" src="./readme.images/02-plugins-list.png">
+  <img width="50%" src="../readme.images/02-plugins-list.png">
 </p>
 
 Paste the url of the wanted Plugin and click on `Add`
 
 <p align="center">
-  <img width="50%" src="./readme.images/03-plugin-add-url.png">
+  <img width="50%" src="../readme.images/03-plugin-add-url.png">
 </p>
 
 If you are done adding your wanted plugins, click `Apply`
 
 <p align="center">
-  <img width="50%" src="./readme.images/04-plugins-added.png">
+  <img width="50%" src="../readme.images/04-plugins-added.png">
 </p>
 
 You will get a warning, click `Ok` and refresh your draw.io page.
 <p align="center">
-  <img width="50%" src="./readme.images/05-plugins-added-applyed.png">
+  <img width="50%" src="../readme.images/05-plugins-added-applyed.png">
 </p>
 
 When using custom plugins, you will get a warning every times you open Draw.io, check if the plugin you want is listed here, and press `Ok`
 
 <p align="center">
-  <img width="50%" src="./readme.images/06-plugin-warning.png">
+  <img width="50%" src="../readme.images/06-plugin-warning.png">
 </p>
 
 Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality will be availible.
 <p align="center">
-  <img width="50%" src="./readme.images/07-menu.png">
+  <img width="50%" src="../readme.images/07-menu.png">
 </p>
 
 see: [https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online](https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online)
