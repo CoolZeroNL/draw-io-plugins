@@ -134,8 +134,13 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/draw-io-plugin-cyberark-library-v0.1.js?maxAge=10
 
   - Will Do:
-    - Add Stencil: 
+    - Add Menu: Librarys
+      - Add Submenu: Load Cyberark Librarys
+      
+    - Add Library: 
       - Cyberark Icons
+
+  After u have loaded the plugin, and u want want to load the Cyberark Librarys use the `Menu` -> `Librarys` -> `Load CyberArk Librarys`
 
     <p align="center">
       <img width="50%" src="./readme.images/00-cyberark-all.png">
