@@ -33,17 +33,14 @@ Draw.loadPlugin(function(ui) {
             mxUtils.get(realUrl, function(req) {
 
                 if (req.getStatus() >= 200 && req.getStatus() <= 299) {
-                    console.log(req.getStatus());
-                    ui.spinner.stop();
-
+                    // ui.spinner.stop();
                     try {
                         ui.loadLibrary(new UrlLibrary(this, req.getText(), realUrl));
-                        console.log('loaded' + realUrl);
                     } catch (e) {
                         ui.handleError(e, mxResources.get('errorLoadingFile'));
                     }
                 } else {
-                    ui.spinner.stop();
+                    // ui.spinner.stop();
                     ui.handleError(null, mxResources.get('errorLoadingFile'));
                 }
             });
