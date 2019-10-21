@@ -9,7 +9,6 @@
     - [1.4. SecurIT Huisstijl](#14-securit-huisstijl)
     - [1.5. Kubernetes K8 Icons](#15-kubernetes-k8-icons)
     - [1.6. Security Icons](#16-security-icons)
-    - [1.7. Cyberark Icons](#17-cyberark-icons)
     - [1.7. Cyberark Library](#17-cyberark-library)
     - [1.8. Explore (WIP)](#18-explore-wip)
 - [2. Install Plugin Within Draw-io](#2-install-plugin-within-draw-io)
@@ -116,7 +115,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
       <img width="25%" src="./readme.images/security-stencils.png">
     </p>
 <!-- 
-## 1.7. Cyberark Icons
+ Cyberark Icons
 
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v1.js?maxAge=10
 - Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v2.js?maxAge=10
