@@ -30,6 +30,10 @@
 
   After u have loaded the plugin, and u want want to load the Cyberark Librarys use the `Menu` -> `Librarys` -> `Load CyberArk Librarys`
 
+  <p align="center">
+    <img width="25%" src="./readme.images/menu.png">
+</p>
+
 # 3. How to use:
 
 ## 3.1. Load Automatic -> Using a custom library
