@@ -28,7 +28,7 @@
     - Add Library: 
       - Cyberark Icons
 
-  After u have loaded the plugin, and u want want to load the Cyberark Librarys use the `Menu` -> `Librarys` -> `Load CyberArk Librarys`
+  After you have loaded the plugin, and you want want to load the Cyberark Librarys use the `Menu` -> `Librarys` -> `Load CyberArk Librarys`
 
   <p align="center">
     <img width="25%" src="./readme.images/menu.png">
