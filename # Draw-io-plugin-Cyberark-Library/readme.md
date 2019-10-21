@@ -6,8 +6,8 @@
 - [1. Index](#1-index)
 - [2. Plugin info:](#2-plugin-info)
 - [3. How to use:](#3-how-to-use)
-    - [3.1. Load Automatic -> Using a custom library](#31-load-automatic---using-a-custom-library)
-    - [3.2. Load Manuel -> Using a custom library](#32-load-manuel---using-a-custom-library)
+    - [3.1. Load Automatic -> Using a plugin to load the library](#31-load-automatic---using-a-plugin-to-load-the-library)
+    - [3.2. Load Manuel -> Manual load a custom library](#32-load-manuel---manual-load-a-custom-library)
 - [4. Draw.io Libraries](#4-drawio-libraries)
     - [4.1. library-cyberark-Components-v1](#41-library-cyberark-components-v1)
     - [4.2. library-cyberark-Levels-v1](#42-library-cyberark-levels-v1)
@@ -36,12 +36,12 @@
 
 # 3. How to use:
 
-## 3.1. Load Automatic -> Using a custom library
+## 3.1. Load Automatic -> Using a plugin to load the library
 Make the use of the plugin functionality.
 
 see: [https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online](https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online)
 
-## 3.2. Load Manuel -> Using a custom library
+## 3.2. Load Manuel -> Manual load a custom library
 
 Let us add a custom library.
 
